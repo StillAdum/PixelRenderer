@@ -1,0 +1,102 @@
+name: Convert Video to PixelRenderer
+
+on:
+  push:
+    paths:
+      - 'videos/**'
+  workflow_dispatch:
+    inputs:
+      video_path:
+        description: 'Path to the video file in the repo (e.g. videos/input.mp4)'
+        required: true
+        default: 'videos/input.mp4'
+      preset:
+        description: 'Resolution preset (p16/p32/p48/p64/p96/p128/p240/p360/p480/p720)'
+        required: true
+        default: 'p360'
+      fps:
+        description: 'Target FPS (max 50)'
+        required: true
+        default: '40'
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+
+      - name: Disable Git LFS
+        run: |
+          echo "# no LFS" > .gitattributes
+          echo "*.json -text filter= diff= merge=" >> .gitattributes
+          echo "*.bin -text filter= diff= merge=" >> .gitattributes
+          echo "*.lua -text filter= diff= merge=" >> .gitattributes
+          echo "*.mp4 -text filter= diff= merge=" >> .gitattributes
+          git add .gitattributes
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install opencv-python-headless numpy pillow lz4
+
+      - name: Determine video path
+        id: video
+        run: |
+          if [ -n "${{ github.event.inputs.video_path }}" ]; then
+            echo "path=${{ github.event.inputs.video_path }}" >> $GITHUB_OUTPUT
+            echo "name=$(basename '${{ github.event.inputs.video_path }}' | sed 's/\.[^.]*$//')" >> $GITHUB_OUTPUT
+            echo "preset=${{ github.event.inputs.preset }}" >> $GITHUB_OUTPUT
+            echo "fps=${{ github.event.inputs.fps }}" >> $GITHUB_OUTPUT
+          else
+            VIDEO=$(ls -t videos/*.mp4 videos/*.avi videos/*.mov videos/*.mkv 2>/dev/null | head -1)
+            if [ -z "$VIDEO" ]; then
+              echo "No video found in videos/ folder"
+              exit 1
+            fi
+            echo "path=$VIDEO" >> $GITHUB_OUTPUT
+            echo "name=$(basename "$VIDEO" | sed 's/\.[^.]*$//')" >> $GITHUB_OUTPUT
+            echo "preset=p360" >> $GITHUB_OUTPUT
+            echo "fps=40" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Convert video to chunks
+        run: |
+          rm -rf "output/${{ steps.video.outputs.name }}"
+          python3 converter.py "${{ steps.video.outputs.path }}" \
+            -o "output/${{ steps.video.outputs.name }}" \
+            --preset "${{ steps.video.outputs.preset }}" \
+            --fps "${{ steps.video.outputs.fps }}" \
+            --chunk-frames 4 \
+            --delta-tolerance 8
+
+      - name: Generate LocalScript
+        run: |
+          python3 generate_localscript.py \
+            --repo "${{ github.repository }}" \
+            --branch "${{ github.ref_name }}" \
+            --video-name "${{ steps.video.outputs.name }}" \
+            --output "output/${{ steps.video.outputs.name }}/LocalScript.lua"
+
+      - name: Copy module files
+        run: |
+          cp PixelRenderer.lua "output/${{ steps.video.outputs.name }}/"
+          cp PixelRendererServer.lua "output/${{ steps.video.outputs.name }}/"
+          cp example_server.lua "output/${{ steps.video.outputs.name }}/"
+
+      - name: Commit output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Convert: ${{ steps.video.outputs.name }} (${{ steps.video.outputs.preset }} @ ${{ steps.video.outputs.fps }}fps)" || echo "nothing to commit"
+          git push
