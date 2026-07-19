@@ -57,7 +57,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install opencv-python-headless numpy pillow lz4 yt-dlp
+          pip install opencv-python-headless numpy pillow lz4 yt-dlp ffmpeg
 
       - name: Determine video source
         id: video
@@ -67,7 +67,19 @@ jobs:
             RES="${{ github.event.inputs.download_resolution }}"
             if [ -z "$RES" ]; then RES="720"; fi
             echo "Download resolution: ${RES}p"
-            yt-dlp -S "res:${RES}" -f "bestvideo+bestaudio/best" --merge-output-format mp4 -o "videos/downloaded.mp4" "${{ github.event.inputs.youtube_url }}"
+            yt-dlp \
+              --extractor-args "youtube:player_client=ios,tv,web_safari,default" \
+              -S "res:${RES}" \
+              -f "bestvideo+bestaudio/best" \
+              --merge-output-format mp4 \
+              -o "videos/downloaded.mp4" \
+              --no-check-certificates \
+              --geo-bypass \
+              "${{ github.event.inputs.youtube_url }}" || {
+              echo "yt-dlp failed, trying youtube-dl as fallback..."
+              pip install youtube-dl
+              youtube-dl -f "best" -o "videos/downloaded.mp4" "${{ github.event.inputs.youtube_url }}"
+            }
             echo "path=videos/downloaded.mp4" >> $GITHUB_OUTPUT
             echo "name=downloaded" >> $GITHUB_OUTPUT
           else
