@@ -1,17 +1,22 @@
 name: Convert Video to PixelRenderer
 
 on:
-  push:
-    paths:
-      - 'videos/**'
   workflow_dispatch:
     inputs:
+      youtube_url:
+        description: 'YouTube URL (leave empty to use a local video file)'
+        required: false
+        default: ''
       video_path:
-        description: 'Path to the video file in the repo (e.g. videos/input.mp4)'
-        required: true
+        description: 'Path to video in repo (used if no YouTube URL, e.g. videos/input.mp4)'
+        required: false
         default: 'videos/input.mp4'
+      download_resolution:
+        description: 'YouTube download resolution (720/1080/480/360)'
+        required: false
+        default: '720'
       preset:
-        description: 'Resolution preset (p16/p32/p48/p64/p96/p128/p240/p360/p480/p720)'
+        description: 'PixelRenderer preset (p16/p32/p48/p64/p96/p128/p240/p360/p480/p720)'
         required: true
         default: 'p360'
       fps:
@@ -47,27 +52,36 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install opencv-python-headless numpy pillow lz4
+          pip install opencv-python-headless numpy pillow lz4 yt-dlp
 
-      - name: Determine video path
+      - name: Determine video source
         id: video
         run: |
-          if [ -n "${{ github.event.inputs.video_path }}" ]; then
-            echo "path=${{ github.event.inputs.video_path }}" >> $GITHUB_OUTPUT
-            echo "name=$(basename '${{ github.event.inputs.video_path }}' | sed 's/\.[^.]*$//')" >> $GITHUB_OUTPUT
-            echo "preset=${{ github.event.inputs.preset }}" >> $GITHUB_OUTPUT
-            echo "fps=${{ github.event.inputs.fps }}" >> $GITHUB_OUTPUT
+          if [ -n "${{ github.event.inputs.youtube_url }}" ]; then
+            echo "Downloading from YouTube: ${{ github.event.inputs.youtube_url }}"
+            RES="${{ github.event.inputs.download_resolution }}"
+            if [ -z "$RES" ]; then RES="720"; fi
+            echo "Download resolution: ${RES}p"
+            yt-dlp -f "bestvideo[height<=${RES}][ext=mp4]+bestaudio[ext=m4a]/best[height<=${RES}][ext=mp4]/best" \
+              --merge-output-format mp4 \
+              -o "videos/downloaded.mp4" \
+              "${{ github.event.inputs.youtube_url }}"
+            echo "path=videos/downloaded.mp4" >> $GITHUB_OUTPUT
+            echo "name=downloaded" >> $GITHUB_OUTPUT
           else
-            VIDEO=$(ls -t videos/*.mp4 videos/*.avi videos/*.mov videos/*.mkv 2>/dev/null | head -1)
-            if [ -z "$VIDEO" ]; then
-              echo "No video found in videos/ folder"
-              exit 1
+            VIDEO="${{ github.event.inputs.video_path }}"
+            if [ ! -f "$VIDEO" ]; then
+              VIDEO=$(ls -t videos/*.mp4 videos/*.avi videos/*.mov videos/*.mkv 2>/dev/null | head -1)
+              if [ -z "$VIDEO" ]; then
+                echo "No video found. Either provide a YouTube URL or upload a video to videos/"
+                exit 1
+              fi
             fi
             echo "path=$VIDEO" >> $GITHUB_OUTPUT
             echo "name=$(basename "$VIDEO" | sed 's/\.[^.]*$//')" >> $GITHUB_OUTPUT
-            echo "preset=p360" >> $GITHUB_OUTPUT
-            echo "fps=40" >> $GITHUB_OUTPUT
           fi
+          echo "preset=${{ github.event.inputs.preset }}" >> $GITHUB_OUTPUT
+          echo "fps=${{ github.event.inputs.fps }}" >> $GITHUB_OUTPUT
 
       - name: Convert video to chunks
         run: |
