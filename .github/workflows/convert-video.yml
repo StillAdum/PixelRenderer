@@ -62,10 +62,7 @@ jobs:
             RES="${{ github.event.inputs.download_resolution }}"
             if [ -z "$RES" ]; then RES="720"; fi
             echo "Download resolution: ${RES}p"
-            yt-dlp -f "bestvideo[height<=${RES}][ext=mp4]+bestaudio[ext=m4a]/best[height<=${RES}][ext=mp4]/best" \
-              --merge-output-format mp4 \
-              -o "videos/downloaded.mp4" \
-              "${{ github.event.inputs.youtube_url }}"
+            yt-dlp -S "res:${RES}" -f "bestvideo+bestaudio/best" --merge-output-format mp4 -o "videos/downloaded.mp4" "${{ github.event.inputs.youtube_url }}"
             echo "path=videos/downloaded.mp4" >> $GITHUB_OUTPUT
             echo "name=downloaded" >> $GITHUB_OUTPUT
           else
@@ -112,5 +109,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "Convert: ${{ steps.video.outputs.name }} (${{ steps.video.outputs.preset }} @ ${{ steps.video.outputs.fps }}fps)" || echo "nothing to commit"
+          git commit -m "Convert: ${{ steps.video.outputs.name }}" || echo "nothing to commit"
           git push
