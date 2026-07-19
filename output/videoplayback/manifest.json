@@ -1,8 +1,8 @@
 {
   "version": 3,
   "type": "video",
-  "width": 640,
-  "height": 360,
+  "width": 128,
+  "height": 72,
   "fps": 40.0,
   "encoding": "rgba32",
   "compression": "lz4",
@@ -16,323 +16,323 @@
       "index": 0,
       "frameStart": 0,
       "frameCount": 4,
-      "compressedSize": 30794,
-      "uncompressedSize": 950544
+      "compressedSize": 1934,
+      "uncompressedSize": 38384
     },
     {
       "index": 1,
       "frameStart": 4,
       "frameCount": 4,
-      "compressedSize": 19958,
-      "uncompressedSize": 27088
+      "compressedSize": 1220,
+      "uncompressedSize": 1620
     },
     {
       "index": 2,
       "frameStart": 8,
       "frameCount": 4,
-      "compressedSize": 15252,
-      "uncompressedSize": 20612
+      "compressedSize": 831,
+      "uncompressedSize": 1208
     },
     {
       "index": 3,
       "frameStart": 12,
       "frameCount": 4,
-      "compressedSize": 22522,
-      "uncompressedSize": 31140
+      "compressedSize": 1366,
+      "uncompressedSize": 1672
     },
     {
       "index": 4,
       "frameStart": 16,
       "frameCount": 4,
-      "compressedSize": 19723,
-      "uncompressedSize": 26108
+      "compressedSize": 1146,
+      "uncompressedSize": 1444
     },
     {
       "index": 5,
       "frameStart": 20,
       "frameCount": 4,
-      "compressedSize": 12742,
-      "uncompressedSize": 27152
+      "compressedSize": 1021,
+      "uncompressedSize": 1532
     },
     {
       "index": 6,
       "frameStart": 24,
       "frameCount": 4,
-      "compressedSize": 25548,
-      "uncompressedSize": 36652
+      "compressedSize": 1539,
+      "uncompressedSize": 2060
     },
     {
       "index": 7,
       "frameStart": 28,
       "frameCount": 4,
-      "compressedSize": 21269,
-      "uncompressedSize": 31976
+      "compressedSize": 927,
+      "uncompressedSize": 1348
     },
     {
       "index": 8,
       "frameStart": 32,
       "frameCount": 4,
-      "compressedSize": 8746,
-      "uncompressedSize": 13160
+      "compressedSize": 389,
+      "uncompressedSize": 524
     },
     {
       "index": 9,
       "frameStart": 36,
       "frameCount": 4,
-      "compressedSize": 18726,
-      "uncompressedSize": 26956
+      "compressedSize": 955,
+      "uncompressedSize": 1308
     },
     {
       "index": 10,
       "frameStart": 40,
       "frameCount": 4,
-      "compressedSize": 236611,
-      "uncompressedSize": 430680
+      "compressedSize": 16661,
+      "uncompressedSize": 20984
     },
     {
       "index": 11,
       "frameStart": 44,
       "frameCount": 4,
-      "compressedSize": 463143,
-      "uncompressedSize": 794100
+      "compressedSize": 29748,
+      "uncompressedSize": 40364
     },
     {
       "index": 12,
       "frameStart": 48,
       "frameCount": 4,
-      "compressedSize": 383159,
-      "uncompressedSize": 577752
+      "compressedSize": 22734,
+      "uncompressedSize": 31868
     },
     {
       "index": 13,
       "frameStart": 52,
       "frameCount": 4,
-      "compressedSize": 360316,
-      "uncompressedSize": 529680
+      "compressedSize": 20386,
+      "uncompressedSize": 29352
     },
     {
       "index": 14,
       "frameStart": 56,
       "frameCount": 4,
-      "compressedSize": 350233,
-      "uncompressedSize": 497540
+      "compressedSize": 18165,
+      "uncompressedSize": 26512
     },
     {
       "index": 15,
       "frameStart": 60,
       "frameCount": 4,
-      "compressedSize": 496214,
-      "uncompressedSize": 697728
+      "compressedSize": 27053,
+      "uncompressedSize": 35920
     },
     {
       "index": 16,
       "frameStart": 64,
       "frameCount": 4,
-      "compressedSize": 507930,
-      "uncompressedSize": 1389280
+      "compressedSize": 34964,
+      "uncompressedSize": 64436
     },
     {
       "index": 17,
       "frameStart": 68,
       "frameCount": 4,
-      "compressedSize": 411317,
-      "uncompressedSize": 639456
+      "compressedSize": 25128,
+      "uncompressedSize": 35936
     },
     {
       "index": 18,
       "frameStart": 72,
       "frameCount": 4,
-      "compressedSize": 386146,
-      "uncompressedSize": 579792
+      "compressedSize": 22294,
+      "uncompressedSize": 32424
     },
     {
       "index": 19,
       "frameStart": 76,
       "frameCount": 4,
-      "compressedSize": 376211,
-      "uncompressedSize": 560304
+      "compressedSize": 20167,
+      "uncompressedSize": 30460
     },
     {
       "index": 20,
       "frameStart": 80,
       "frameCount": 4,
-      "compressedSize": 497507,
-      "uncompressedSize": 1278992
+      "compressedSize": 31756,
+      "uncompressedSize": 59088
     },
     {
       "index": 21,
       "frameStart": 84,
       "frameCount": 4,
-      "compressedSize": 498827,
-      "uncompressedSize": 862164
+      "compressedSize": 31531,
+      "uncompressedSize": 45020
     },
     {
       "index": 22,
       "frameStart": 88,
       "frameCount": 4,
-      "compressedSize": 429261,
-      "uncompressedSize": 643576
+      "compressedSize": 25703,
+      "uncompressedSize": 35316
     },
     {
       "index": 23,
       "frameStart": 92,
       "frameCount": 4,
-      "compressedSize": 377892,
-      "uncompressedSize": 553012
+      "compressedSize": 21838,
+      "uncompressedSize": 30572
     },
     {
       "index": 24,
       "frameStart": 96,
       "frameCount": 4,
-      "compressedSize": 321089,
-      "uncompressedSize": 465020
+      "compressedSize": 17128,
+      "uncompressedSize": 25280
     },
     {
       "index": 25,
       "frameStart": 100,
       "frameCount": 4,
-      "compressedSize": 197778,
-      "uncompressedSize": 756712
+      "compressedSize": 15654,
+      "uncompressedSize": 35140
     },
     {
       "index": 26,
       "frameStart": 104,
       "frameCount": 4,
-      "compressedSize": 189799,
-      "uncompressedSize": 558896
+      "compressedSize": 13430,
+      "uncompressedSize": 25072
     },
     {
       "index": 27,
       "frameStart": 108,
       "frameCount": 4,
-      "compressedSize": 145274,
-      "uncompressedSize": 236152
+      "compressedSize": 7721,
+      "uncompressedSize": 10424
     },
     {
       "index": 28,
       "frameStart": 112,
       "frameCount": 4,
-      "compressedSize": 95862,
-      "uncompressedSize": 152012
+      "compressedSize": 4189,
+      "uncompressedSize": 5564
     },
     {
       "index": 29,
       "frameStart": 116,
       "frameCount": 4,
-      "compressedSize": 112286,
-      "uncompressedSize": 195512
+      "compressedSize": 4725,
+      "uncompressedSize": 7228
     },
     {
       "index": 30,
       "frameStart": 120,
       "frameCount": 4,
-      "compressedSize": 158918,
-      "uncompressedSize": 279520
+      "compressedSize": 9338,
+      "uncompressedSize": 14348
     },
     {
       "index": 31,
       "frameStart": 124,
       "frameCount": 4,
-      "compressedSize": 144222,
-      "uncompressedSize": 254600
+      "compressedSize": 6739,
+      "uncompressedSize": 11828
     },
     {
       "index": 32,
       "frameStart": 128,
       "frameCount": 4,
-      "compressedSize": 108438,
-      "uncompressedSize": 188348
+      "compressedSize": 3292,
+      "uncompressedSize": 5560
     },
     {
       "index": 33,
       "frameStart": 132,
       "frameCount": 4,
-      "compressedSize": 68599,
-      "uncompressedSize": 122052
+      "compressedSize": 1318,
+      "uncompressedSize": 2056
     },
     {
       "index": 34,
       "frameStart": 136,
       "frameCount": 4,
-      "compressedSize": 65951,
-      "uncompressedSize": 118912
+      "compressedSize": 1375,
+      "uncompressedSize": 2264
     },
     {
       "index": 35,
       "frameStart": 140,
       "frameCount": 4,
-      "compressedSize": 142663,
-      "uncompressedSize": 270860
+      "compressedSize": 7876,
+      "uncompressedSize": 11692
     },
     {
       "index": 36,
       "frameStart": 144,
       "frameCount": 4,
-      "compressedSize": 233640,
-      "uncompressedSize": 405500
+      "compressedSize": 12523,
+      "uncompressedSize": 20104
     },
     {
       "index": 37,
       "frameStart": 148,
       "frameCount": 4,
-      "compressedSize": 155705,
-      "uncompressedSize": 255284
+      "compressedSize": 5235,
+      "uncompressedSize": 9028
     },
     {
       "index": 38,
       "frameStart": 152,
       "frameCount": 4,
-      "compressedSize": 95501,
-      "uncompressedSize": 158956
+      "compressedSize": 1581,
+      "uncompressedSize": 2624
     },
     {
       "index": 39,
       "frameStart": 156,
       "frameCount": 4,
-      "compressedSize": 77144,
-      "uncompressedSize": 128952
+      "compressedSize": 1219,
+      "uncompressedSize": 2004
     },
     {
       "index": 40,
       "frameStart": 160,
       "frameCount": 4,
-      "compressedSize": 370034,
-      "uncompressedSize": 642112
+      "compressedSize": 22596,
+      "uncompressedSize": 33648
     },
     {
       "index": 41,
       "frameStart": 164,
       "frameCount": 4,
-      "compressedSize": 417962,
-      "uncompressedSize": 701916
+      "compressedSize": 23445,
+      "uncompressedSize": 36000
     },
     {
       "index": 42,
       "frameStart": 168,
       "frameCount": 4,
-      "compressedSize": 461788,
-      "uncompressedSize": 775028
+      "compressedSize": 27201,
+      "uncompressedSize": 39456
     },
     {
       "index": 43,
       "frameStart": 172,
       "frameCount": 4,
-      "compressedSize": 433612,
-      "uncompressedSize": 733232
+      "compressedSize": 25513,
+      "uncompressedSize": 38064
     },
     {
       "index": 44,
       "frameStart": 176,
       "frameCount": 4,
-      "compressedSize": 419040,
-      "uncompressedSize": 689784
+      "compressedSize": 24240,
+      "uncompressedSize": 35784
     },
     {
       "index": 45,
       "frameStart": 180,
       "frameCount": 4,
-      "compressedSize": 149014,
-      "uncompressedSize": 882032
+      "compressedSize": 10136,
+      "uncompressedSize": 39300
     },
     {
       "index": 46,
@@ -366,533 +366,533 @@
       "index": 50,
       "frameStart": 200,
       "frameCount": 4,
-      "compressedSize": 217105,
-      "uncompressedSize": 348284
+      "compressedSize": 14824,
+      "uncompressedSize": 17020
     },
     {
       "index": 51,
       "frameStart": 204,
       "frameCount": 4,
-      "compressedSize": 541763,
-      "uncompressedSize": 857300
+      "compressedSize": 32416,
+      "uncompressedSize": 42448
     },
     {
       "index": 52,
       "frameStart": 208,
       "frameCount": 4,
-      "compressedSize": 473827,
-      "uncompressedSize": 664188
+      "compressedSize": 26541,
+      "uncompressedSize": 34856
     },
     {
       "index": 53,
       "frameStart": 212,
       "frameCount": 4,
-      "compressedSize": 450079,
-      "uncompressedSize": 612324
+      "compressedSize": 24243,
+      "uncompressedSize": 32288
     },
     {
       "index": 54,
       "frameStart": 216,
       "frameCount": 4,
-      "compressedSize": 428145,
-      "uncompressedSize": 569788
+      "compressedSize": 21374,
+      "uncompressedSize": 29800
     },
     {
       "index": 55,
       "frameStart": 220,
       "frameCount": 4,
-      "compressedSize": 514523,
-      "uncompressedSize": 679196
+      "compressedSize": 25982,
+      "uncompressedSize": 34512
     },
     {
       "index": 56,
       "frameStart": 224,
       "frameCount": 4,
-      "compressedSize": 564664,
-      "uncompressedSize": 1331932
+      "compressedSize": 35179,
+      "uncompressedSize": 61316
     },
     {
       "index": 57,
       "frameStart": 228,
       "frameCount": 4,
-      "compressedSize": 492313,
-      "uncompressedSize": 707464
+      "compressedSize": 28238,
+      "uncompressedSize": 37784
     },
     {
       "index": 58,
       "frameStart": 232,
       "frameCount": 4,
-      "compressedSize": 460101,
-      "uncompressedSize": 633376
+      "compressedSize": 24369,
+      "uncompressedSize": 33520
     },
     {
       "index": 59,
       "frameStart": 236,
       "frameCount": 4,
-      "compressedSize": 475787,
-      "uncompressedSize": 680888
+      "compressedSize": 25159,
+      "uncompressedSize": 35200
     },
     {
       "index": 60,
       "frameStart": 240,
       "frameCount": 4,
-      "compressedSize": 604923,
-      "uncompressedSize": 1471760
+      "compressedSize": 37052,
+      "uncompressedSize": 66888
     },
     {
       "index": 61,
       "frameStart": 244,
       "frameCount": 4,
-      "compressedSize": 563212,
-      "uncompressedSize": 831672
+      "compressedSize": 32522,
+      "uncompressedSize": 42592
     },
     {
       "index": 62,
       "frameStart": 248,
       "frameCount": 4,
-      "compressedSize": 498018,
-      "uncompressedSize": 686148
+      "compressedSize": 27999,
+      "uncompressedSize": 36008
     },
     {
       "index": 63,
       "frameStart": 252,
       "frameCount": 4,
-      "compressedSize": 430685,
-      "uncompressedSize": 578620
+      "compressedSize": 22938,
+      "uncompressedSize": 30620
     },
     {
       "index": 64,
       "frameStart": 256,
       "frameCount": 4,
-      "compressedSize": 385209,
-      "uncompressedSize": 513344
+      "compressedSize": 19399,
+      "uncompressedSize": 27068
     },
     {
       "index": 65,
       "frameStart": 260,
       "frameCount": 4,
-      "compressedSize": 387503,
-      "uncompressedSize": 905388
+      "compressedSize": 23253,
+      "uncompressedSize": 44096
     },
     {
       "index": 66,
       "frameStart": 264,
       "frameCount": 4,
-      "compressedSize": 232515,
-      "uncompressedSize": 597524
+      "compressedSize": 16503,
+      "uncompressedSize": 26368
     },
     {
       "index": 67,
       "frameStart": 268,
       "frameCount": 4,
-      "compressedSize": 181182,
-      "uncompressedSize": 296648
+      "compressedSize": 9283,
+      "uncompressedSize": 12992
     },
     {
       "index": 68,
       "frameStart": 272,
       "frameCount": 4,
-      "compressedSize": 124591,
-      "uncompressedSize": 197032
+      "compressedSize": 5244,
+      "uncompressedSize": 7176
     },
     {
       "index": 69,
       "frameStart": 276,
       "frameCount": 4,
-      "compressedSize": 100480,
-      "uncompressedSize": 154204
+      "compressedSize": 3560,
+      "uncompressedSize": 4820
     },
     {
       "index": 70,
       "frameStart": 280,
       "frameCount": 4,
-      "compressedSize": 136970,
-      "uncompressedSize": 246580
+      "compressedSize": 7397,
+      "uncompressedSize": 10732
     },
     {
       "index": 71,
       "frameStart": 284,
       "frameCount": 4,
-      "compressedSize": 186568,
-      "uncompressedSize": 326004
+      "compressedSize": 8971,
+      "uncompressedSize": 14620
     },
     {
       "index": 72,
       "frameStart": 288,
       "frameCount": 4,
-      "compressedSize": 137711,
-      "uncompressedSize": 240000
+      "compressedSize": 5012,
+      "uncompressedSize": 8456
     },
     {
       "index": 73,
       "frameStart": 292,
       "frameCount": 4,
-      "compressedSize": 100279,
-      "uncompressedSize": 172100
+      "compressedSize": 1859,
+      "uncompressedSize": 3064
     },
     {
       "index": 74,
       "frameStart": 296,
       "frameCount": 4,
-      "compressedSize": 65069,
-      "uncompressedSize": 112152
+      "compressedSize": 1371,
+      "uncompressedSize": 2356
     },
     {
       "index": 75,
       "frameStart": 300,
       "frameCount": 4,
-      "compressedSize": 189933,
-      "uncompressedSize": 353632
+      "compressedSize": 10990,
+      "uncompressedSize": 17092
     },
     {
       "index": 76,
       "frameStart": 304,
       "frameCount": 4,
-      "compressedSize": 246238,
-      "uncompressedSize": 426748
+      "compressedSize": 12570,
+      "uncompressedSize": 20012
     },
     {
       "index": 77,
       "frameStart": 308,
       "frameCount": 4,
-      "compressedSize": 151354,
-      "uncompressedSize": 251580
+      "compressedSize": 4859,
+      "uncompressedSize": 8316
     },
     {
       "index": 78,
       "frameStart": 312,
       "frameCount": 4,
-      "compressedSize": 149292,
-      "uncompressedSize": 247836
+      "compressedSize": 3390,
+      "uncompressedSize": 5668
     },
     {
       "index": 79,
       "frameStart": 316,
       "frameCount": 4,
-      "compressedSize": 95146,
-      "uncompressedSize": 154980
+      "compressedSize": 2136,
+      "uncompressedSize": 3388
     },
     {
       "index": 80,
       "frameStart": 320,
       "frameCount": 4,
-      "compressedSize": 325585,
-      "uncompressedSize": 1055648
+      "compressedSize": 21559,
+      "uncompressedSize": 43848
     },
     {
       "index": 81,
       "frameStart": 324,
       "frameCount": 4,
-      "compressedSize": 525878,
-      "uncompressedSize": 1297748
+      "compressedSize": 33854,
+      "uncompressedSize": 59820
     },
     {
       "index": 82,
       "frameStart": 328,
       "frameCount": 4,
-      "compressedSize": 486590,
-      "uncompressedSize": 808432
+      "compressedSize": 27236,
+      "uncompressedSize": 41612
     },
     {
       "index": 83,
       "frameStart": 332,
       "frameCount": 4,
-      "compressedSize": 508222,
-      "uncompressedSize": 838280
+      "compressedSize": 28811,
+      "uncompressedSize": 42428
     },
     {
       "index": 84,
       "frameStart": 336,
       "frameCount": 4,
-      "compressedSize": 453111,
-      "uncompressedSize": 727768
+      "compressedSize": 24695,
+      "uncompressedSize": 36652
     },
     {
       "index": 85,
       "frameStart": 340,
       "frameCount": 4,
-      "compressedSize": 715193,
-      "uncompressedSize": 1920084
+      "compressedSize": 50432,
+      "uncompressedSize": 81888
     },
     {
       "index": 86,
       "frameStart": 344,
       "frameCount": 4,
-      "compressedSize": 606774,
-      "uncompressedSize": 947760
+      "compressedSize": 34030,
+      "uncompressedSize": 48908
     },
     {
       "index": 87,
       "frameStart": 348,
       "frameCount": 4,
-      "compressedSize": 601817,
-      "uncompressedSize": 922468
+      "compressedSize": 33019,
+      "uncompressedSize": 47012
     },
     {
       "index": 88,
       "frameStart": 352,
       "frameCount": 4,
-      "compressedSize": 552754,
-      "uncompressedSize": 827908
+      "compressedSize": 28805,
+      "uncompressedSize": 40852
     },
     {
       "index": 89,
       "frameStart": 356,
       "frameCount": 4,
-      "compressedSize": 662895,
-      "uncompressedSize": 1366764
+      "compressedSize": 42080,
+      "uncompressedSize": 61940
     },
     {
       "index": 90,
       "frameStart": 360,
       "frameCount": 4,
-      "compressedSize": 486472,
-      "uncompressedSize": 1482648
+      "compressedSize": 35300,
+      "uncompressedSize": 65580
     },
     {
       "index": 91,
       "frameStart": 364,
       "frameCount": 4,
-      "compressedSize": 303426,
-      "uncompressedSize": 542180
+      "compressedSize": 20656,
+      "uncompressedSize": 30540
     },
     {
       "index": 92,
       "frameStart": 368,
       "frameCount": 4,
-      "compressedSize": 261386,
-      "uncompressedSize": 412404
+      "compressedSize": 17093,
+      "uncompressedSize": 24552
     },
     {
       "index": 93,
       "frameStart": 372,
       "frameCount": 4,
-      "compressedSize": 248315,
-      "uncompressedSize": 371780
+      "compressedSize": 15216,
+      "uncompressedSize": 21808
     },
     {
       "index": 94,
       "frameStart": 376,
       "frameCount": 4,
-      "compressedSize": 320111,
-      "uncompressedSize": 504596
+      "compressedSize": 18988,
+      "uncompressedSize": 26876
     },
     {
       "index": 95,
       "frameStart": 380,
       "frameCount": 4,
-      "compressedSize": 413327,
-      "uncompressedSize": 1315920
+      "compressedSize": 28575,
+      "uncompressedSize": 59268
     },
     {
       "index": 96,
       "frameStart": 384,
       "frameCount": 4,
-      "compressedSize": 341381,
-      "uncompressedSize": 640732
+      "compressedSize": 24174,
+      "uncompressedSize": 35956
     },
     {
       "index": 97,
       "frameStart": 388,
       "frameCount": 4,
-      "compressedSize": 298868,
-      "uncompressedSize": 491104
+      "compressedSize": 19968,
+      "uncompressedSize": 28904
     },
     {
       "index": 98,
       "frameStart": 392,
       "frameCount": 4,
-      "compressedSize": 270125,
-      "uncompressedSize": 404784
+      "compressedSize": 16212,
+      "uncompressedSize": 24256
     },
     {
       "index": 99,
       "frameStart": 396,
       "frameCount": 4,
-      "compressedSize": 360097,
-      "uncompressedSize": 534444
+      "compressedSize": 21143,
+      "uncompressedSize": 30076
     },
     {
       "index": 100,
       "frameStart": 400,
       "frameCount": 4,
-      "compressedSize": 417985,
-      "uncompressedSize": 1305976
+      "compressedSize": 31552,
+      "uncompressedSize": 61428
     },
     {
       "index": 101,
       "frameStart": 404,
       "frameCount": 4,
-      "compressedSize": 301954,
-      "uncompressedSize": 565932
+      "compressedSize": 22049,
+      "uncompressedSize": 33192
     },
     {
       "index": 102,
       "frameStart": 408,
       "frameCount": 4,
-      "compressedSize": 263782,
-      "uncompressedSize": 467896
+      "compressedSize": 19020,
+      "uncompressedSize": 28252
     },
     {
       "index": 103,
       "frameStart": 412,
       "frameCount": 4,
-      "compressedSize": 202647,
-      "uncompressedSize": 346384
+      "compressedSize": 13956,
+      "uncompressedSize": 21120
     },
     {
       "index": 104,
       "frameStart": 416,
       "frameCount": 4,
-      "compressedSize": 296614,
-      "uncompressedSize": 495352
+      "compressedSize": 19742,
+      "uncompressedSize": 26976
     },
     {
       "index": 105,
       "frameStart": 420,
       "frameCount": 4,
-      "compressedSize": 399887,
-      "uncompressedSize": 1294020
+      "compressedSize": 34287,
+      "uncompressedSize": 59508
     },
     {
       "index": 106,
       "frameStart": 424,
       "frameCount": 4,
-      "compressedSize": 256353,
-      "uncompressedSize": 447116
+      "compressedSize": 13428,
+      "uncompressedSize": 19776
     },
     {
       "index": 107,
       "frameStart": 428,
       "frameCount": 4,
-      "compressedSize": 174846,
-      "uncompressedSize": 282436
+      "compressedSize": 7367,
+      "uncompressedSize": 10524
     },
     {
       "index": 108,
       "frameStart": 432,
       "frameCount": 4,
-      "compressedSize": 144375,
-      "uncompressedSize": 231568
+      "compressedSize": 5340,
+      "uncompressedSize": 7652
     },
     {
       "index": 109,
       "frameStart": 436,
       "frameCount": 4,
-      "compressedSize": 119474,
-      "uncompressedSize": 206656
+      "compressedSize": 4198,
+      "uncompressedSize": 6352
     },
     {
       "index": 110,
       "frameStart": 440,
       "frameCount": 4,
-      "compressedSize": 354845,
-      "uncompressedSize": 671988
+      "compressedSize": 22545,
+      "uncompressedSize": 35252
     },
     {
       "index": 111,
       "frameStart": 444,
       "frameCount": 4,
-      "compressedSize": 189059,
-      "uncompressedSize": 313372
+      "compressedSize": 6967,
+      "uncompressedSize": 11544
     },
     {
       "index": 112,
       "frameStart": 448,
       "frameCount": 4,
-      "compressedSize": 126133,
-      "uncompressedSize": 207400
+      "compressedSize": 3321,
+      "uncompressedSize": 5416
     },
     {
       "index": 113,
       "frameStart": 452,
       "frameCount": 4,
-      "compressedSize": 111693,
-      "uncompressedSize": 185428
+      "compressedSize": 2380,
+      "uncompressedSize": 3868
     },
     {
       "index": 114,
       "frameStart": 456,
       "frameCount": 4,
-      "compressedSize": 79953,
-      "uncompressedSize": 138416
+      "compressedSize": 1433,
+      "uncompressedSize": 2320
     },
     {
       "index": 115,
       "frameStart": 460,
       "frameCount": 4,
-      "compressedSize": 318294,
-      "uncompressedSize": 571872
+      "compressedSize": 18806,
+      "uncompressedSize": 28768
     },
     {
       "index": 116,
       "frameStart": 464,
       "frameCount": 4,
-      "compressedSize": 213412,
-      "uncompressedSize": 359916
+      "compressedSize": 8077,
+      "uncompressedSize": 14008
     },
     {
       "index": 117,
       "frameStart": 468,
       "frameCount": 4,
-      "compressedSize": 154044,
-      "uncompressedSize": 258512
+      "compressedSize": 4235,
+      "uncompressedSize": 7140
     },
     {
       "index": 118,
       "frameStart": 472,
       "frameCount": 4,
-      "compressedSize": 153988,
-      "uncompressedSize": 243980
+      "compressedSize": 4158,
+      "uncompressedSize": 6424
     },
     {
       "index": 119,
       "frameStart": 476,
       "frameCount": 4,
-      "compressedSize": 136931,
-      "uncompressedSize": 208488
+      "compressedSize": 4217,
+      "uncompressedSize": 6208
     },
     {
       "index": 120,
       "frameStart": 480,
       "frameCount": 4,
-      "compressedSize": 607414,
-      "uncompressedSize": 1104908
+      "compressedSize": 38600,
+      "uncompressedSize": 53952
     },
     {
       "index": 121,
       "frameStart": 484,
       "frameCount": 4,
-      "compressedSize": 641589,
-      "uncompressedSize": 1009360
+      "compressedSize": 35630,
+      "uncompressedSize": 48948
     },
     {
       "index": 122,
       "frameStart": 488,
       "frameCount": 4,
-      "compressedSize": 666345,
-      "uncompressedSize": 1050624
+      "compressedSize": 37447,
+      "uncompressedSize": 50216
     },
     {
       "index": 123,
       "frameStart": 492,
       "frameCount": 4,
-      "compressedSize": 565781,
-      "uncompressedSize": 861120
+      "compressedSize": 29174,
+      "uncompressedSize": 40608
     },
     {
       "index": 124,
       "frameStart": 496,
       "frameCount": 4,
-      "compressedSize": 567274,
-      "uncompressedSize": 894448
+      "compressedSize": 31453,
+      "uncompressedSize": 42888
     },
     {
       "index": 125,
       "frameStart": 500,
       "frameCount": 4,
-      "compressedSize": 71040,
-      "uncompressedSize": 1136372
+      "compressedSize": 6163,
+      "uncompressedSize": 46884
     },
     {
       "index": 126,
@@ -926,491 +926,491 @@
       "index": 130,
       "frameStart": 520,
       "frameCount": 4,
-      "compressedSize": 238319,
-      "uncompressedSize": 339480
+      "compressedSize": 14997,
+      "uncompressedSize": 17032
     },
     {
       "index": 131,
       "frameStart": 524,
       "frameCount": 4,
-      "compressedSize": 596019,
-      "uncompressedSize": 859072
+      "compressedSize": 33666,
+      "uncompressedSize": 42936
     },
     {
       "index": 132,
       "frameStart": 528,
       "frameCount": 4,
-      "compressedSize": 552357,
-      "uncompressedSize": 742096
+      "compressedSize": 29971,
+      "uncompressedSize": 37792
     },
     {
       "index": 133,
       "frameStart": 532,
       "frameCount": 4,
-      "compressedSize": 503307,
-      "uncompressedSize": 655748
+      "compressedSize": 25656,
+      "uncompressedSize": 33616
     },
     {
       "index": 134,
       "frameStart": 536,
       "frameCount": 4,
-      "compressedSize": 504678,
-      "uncompressedSize": 652040
+      "compressedSize": 24808,
+      "uncompressedSize": 33076
     },
     {
       "index": 135,
       "frameStart": 540,
       "frameCount": 4,
-      "compressedSize": 528876,
-      "uncompressedSize": 1194752
+      "compressedSize": 28069,
+      "uncompressedSize": 52444
     },
     {
       "index": 136,
       "frameStart": 544,
       "frameCount": 4,
-      "compressedSize": 622820,
-      "uncompressedSize": 1025616
+      "compressedSize": 37742,
+      "uncompressedSize": 50488
     },
     {
       "index": 137,
       "frameStart": 548,
       "frameCount": 4,
-      "compressedSize": 522891,
-      "uncompressedSize": 700772
+      "compressedSize": 28298,
+      "uncompressedSize": 36208
     },
     {
       "index": 138,
       "frameStart": 552,
       "frameCount": 4,
-      "compressedSize": 505026,
-      "uncompressedSize": 662808
+      "compressedSize": 26139,
+      "uncompressedSize": 34416
     },
     {
       "index": 139,
       "frameStart": 556,
       "frameCount": 4,
-      "compressedSize": 496591,
-      "uncompressedSize": 653144
+      "compressedSize": 23890,
+      "uncompressedSize": 32800
     },
     {
       "index": 140,
       "frameStart": 560,
       "frameCount": 4,
-      "compressedSize": 595456,
-      "uncompressedSize": 1349844
+      "compressedSize": 33592,
+      "uncompressedSize": 60408
     },
     {
       "index": 141,
       "frameStart": 564,
       "frameCount": 4,
-      "compressedSize": 595395,
-      "uncompressedSize": 828240
+      "compressedSize": 33057,
+      "uncompressedSize": 41856
     },
     {
       "index": 142,
       "frameStart": 568,
       "frameCount": 4,
-      "compressedSize": 530905,
-      "uncompressedSize": 694796
+      "compressedSize": 28438,
+      "uncompressedSize": 35836
     },
     {
       "index": 143,
       "frameStart": 572,
       "frameCount": 4,
-      "compressedSize": 471440,
-      "uncompressedSize": 614312
+      "compressedSize": 24704,
+      "uncompressedSize": 31796
     },
     {
       "index": 144,
       "frameStart": 576,
       "frameCount": 4,
-      "compressedSize": 395695,
-      "uncompressedSize": 519640
+      "compressedSize": 18970,
+      "uncompressedSize": 26044
     },
     {
       "index": 145,
       "frameStart": 580,
       "frameCount": 4,
-      "compressedSize": 428017,
-      "uncompressedSize": 766216
+      "compressedSize": 25513,
+      "uncompressedSize": 37684
     },
     {
       "index": 146,
       "frameStart": 584,
       "frameCount": 4,
-      "compressedSize": 238970,
-      "uncompressedSize": 390772
+      "compressedSize": 13234,
+      "uncompressedSize": 18828
     },
     {
       "index": 147,
       "frameStart": 588,
       "frameCount": 4,
-      "compressedSize": 202113,
-      "uncompressedSize": 342772
+      "compressedSize": 10574,
+      "uncompressedSize": 14808
     },
     {
       "index": 148,
       "frameStart": 592,
       "frameCount": 4,
-      "compressedSize": 195616,
-      "uncompressedSize": 324040
+      "compressedSize": 11589,
+      "uncompressedSize": 15764
     },
     {
       "index": 149,
       "frameStart": 596,
       "frameCount": 4,
-      "compressedSize": 191108,
-      "uncompressedSize": 312376
+      "compressedSize": 11398,
+      "uncompressedSize": 16208
     },
     {
       "index": 150,
       "frameStart": 600,
       "frameCount": 4,
-      "compressedSize": 204746,
-      "uncompressedSize": 322528
+      "compressedSize": 11980,
+      "uncompressedSize": 17428
     },
     {
       "index": 151,
       "frameStart": 604,
       "frameCount": 4,
-      "compressedSize": 306066,
-      "uncompressedSize": 519796
+      "compressedSize": 18539,
+      "uncompressedSize": 26812
     },
     {
       "index": 152,
       "frameStart": 608,
       "frameCount": 4,
-      "compressedSize": 239566,
-      "uncompressedSize": 367692
+      "compressedSize": 12029,
+      "uncompressedSize": 18456
     },
     {
       "index": 153,
       "frameStart": 612,
       "frameCount": 4,
-      "compressedSize": 193849,
-      "uncompressedSize": 299576
+      "compressedSize": 9184,
+      "uncompressedSize": 14616
     },
     {
       "index": 154,
       "frameStart": 616,
       "frameCount": 4,
-      "compressedSize": 199092,
-      "uncompressedSize": 312324
+      "compressedSize": 8851,
+      "uncompressedSize": 14740
     },
     {
       "index": 155,
       "frameStart": 620,
       "frameCount": 4,
-      "compressedSize": 295020,
-      "uncompressedSize": 513880
+      "compressedSize": 16009,
+      "uncompressedSize": 24936
     },
     {
       "index": 156,
       "frameStart": 624,
       "frameCount": 4,
-      "compressedSize": 317455,
-      "uncompressedSize": 479984
+      "compressedSize": 14824,
+      "uncompressedSize": 23696
     },
     {
       "index": 157,
       "frameStart": 628,
       "frameCount": 4,
-      "compressedSize": 238794,
-      "uncompressedSize": 362348
+      "compressedSize": 9538,
+      "uncompressedSize": 15548
     },
     {
       "index": 158,
       "frameStart": 632,
       "frameCount": 4,
-      "compressedSize": 223799,
-      "uncompressedSize": 349872
+      "compressedSize": 8962,
+      "uncompressedSize": 15012
     },
     {
       "index": 159,
       "frameStart": 636,
       "frameCount": 4,
-      "compressedSize": 229408,
-      "uncompressedSize": 357488
+      "compressedSize": 9844,
+      "uncompressedSize": 16636
     },
     {
       "index": 160,
       "frameStart": 640,
       "frameCount": 4,
-      "compressedSize": 313492,
-      "uncompressedSize": 478084
+      "compressedSize": 15400,
+      "uncompressedSize": 23332
     },
     {
       "index": 161,
       "frameStart": 644,
       "frameCount": 4,
-      "compressedSize": 328807,
-      "uncompressedSize": 493556
+      "compressedSize": 15536,
+      "uncompressedSize": 25212
     },
     {
       "index": 162,
       "frameStart": 648,
       "frameCount": 4,
-      "compressedSize": 219064,
-      "uncompressedSize": 331940
+      "compressedSize": 9171,
+      "uncompressedSize": 15224
     },
     {
       "index": 163,
       "frameStart": 652,
       "frameCount": 4,
-      "compressedSize": 116783,
-      "uncompressedSize": 381936
+      "compressedSize": 5323,
+      "uncompressedSize": 17624
     },
     {
       "index": 164,
       "frameStart": 656,
       "frameCount": 4,
-      "compressedSize": 483476,
-      "uncompressedSize": 870300
+      "compressedSize": 32858,
+      "uncompressedSize": 42388
     },
     {
       "index": 165,
       "frameStart": 660,
       "frameCount": 4,
-      "compressedSize": 421080,
-      "uncompressedSize": 652252
+      "compressedSize": 25543,
+      "uncompressedSize": 35404
     },
     {
       "index": 166,
       "frameStart": 664,
       "frameCount": 4,
-      "compressedSize": 364256,
-      "uncompressedSize": 539988
+      "compressedSize": 21014,
+      "uncompressedSize": 29724
     },
     {
       "index": 167,
       "frameStart": 668,
       "frameCount": 4,
-      "compressedSize": 367169,
-      "uncompressedSize": 533944
+      "compressedSize": 20345,
+      "uncompressedSize": 28948
     },
     {
       "index": 168,
       "frameStart": 672,
       "frameCount": 4,
-      "compressedSize": 442240,
-      "uncompressedSize": 620964
+      "compressedSize": 23578,
+      "uncompressedSize": 32336
     },
     {
       "index": 169,
       "frameStart": 676,
       "frameCount": 4,
-      "compressedSize": 556602,
-      "uncompressedSize": 1410460
+      "compressedSize": 37185,
+      "uncompressedSize": 64772
     },
     {
       "index": 170,
       "frameStart": 680,
       "frameCount": 4,
-      "compressedSize": 430591,
-      "uncompressedSize": 695460
+      "compressedSize": 26761,
+      "uncompressedSize": 38244
     },
     {
       "index": 171,
       "frameStart": 684,
       "frameCount": 4,
-      "compressedSize": 391943,
-      "uncompressedSize": 594624
+      "compressedSize": 23134,
+      "uncompressedSize": 33196
     },
     {
       "index": 172,
       "frameStart": 688,
       "frameCount": 4,
-      "compressedSize": 372227,
-      "uncompressedSize": 555996
+      "compressedSize": 19973,
+      "uncompressedSize": 30176
     },
     {
       "index": 173,
       "frameStart": 692,
       "frameCount": 4,
-      "compressedSize": 458195,
-      "uncompressedSize": 1197956
+      "compressedSize": 28108,
+      "uncompressedSize": 54940
     },
     {
       "index": 174,
       "frameStart": 696,
       "frameCount": 4,
-      "compressedSize": 523715,
-      "uncompressedSize": 914408
+      "compressedSize": 33614,
+      "uncompressedSize": 46816
     },
     {
       "index": 175,
       "frameStart": 700,
       "frameCount": 4,
-      "compressedSize": 454097,
-      "uncompressedSize": 692052
+      "compressedSize": 27193,
+      "uncompressedSize": 37212
     },
     {
       "index": 176,
       "frameStart": 704,
       "frameCount": 4,
-      "compressedSize": 396490,
-      "uncompressedSize": 584028
+      "compressedSize": 23343,
+      "uncompressedSize": 32124
     },
     {
       "index": 177,
       "frameStart": 708,
       "frameCount": 4,
-      "compressedSize": 314380,
-      "uncompressedSize": 469660
+      "compressedSize": 17504,
+      "uncompressedSize": 25072
     },
     {
       "index": 178,
       "frameStart": 712,
       "frameCount": 4,
-      "compressedSize": 264579,
-      "uncompressedSize": 577532
+      "compressedSize": 16861,
+      "uncompressedSize": 29752
     },
     {
       "index": 179,
       "frameStart": 716,
       "frameCount": 4,
-      "compressedSize": 190994,
-      "uncompressedSize": 721836
+      "compressedSize": 15489,
+      "uncompressedSize": 32036
     },
     {
       "index": 180,
       "frameStart": 720,
       "frameCount": 4,
-      "compressedSize": 161472,
-      "uncompressedSize": 432448
+      "compressedSize": 9971,
+      "uncompressedSize": 18852
     },
     {
       "index": 181,
       "frameStart": 724,
       "frameCount": 4,
-      "compressedSize": 131638,
-      "uncompressedSize": 212704
+      "compressedSize": 6411,
+      "uncompressedSize": 8504
     },
     {
       "index": 182,
       "frameStart": 728,
       "frameCount": 4,
-      "compressedSize": 84927,
-      "uncompressedSize": 130916
+      "compressedSize": 3211,
+      "uncompressedSize": 4136
     },
     {
       "index": 183,
       "frameStart": 732,
       "frameCount": 4,
-      "compressedSize": 113594,
-      "uncompressedSize": 192256
+      "compressedSize": 5668,
+      "uncompressedSize": 8736
     },
     {
       "index": 184,
       "frameStart": 736,
       "frameCount": 4,
-      "compressedSize": 199014,
-      "uncompressedSize": 349564
+      "compressedSize": 11250,
+      "uncompressedSize": 17552
     },
     {
       "index": 185,
       "frameStart": 740,
       "frameCount": 4,
-      "compressedSize": 102197,
-      "uncompressedSize": 180476
+      "compressedSize": 3431,
+      "uncompressedSize": 5844
     },
     {
       "index": 186,
       "frameStart": 744,
       "frameCount": 4,
-      "compressedSize": 74993,
-      "uncompressedSize": 137164
+      "compressedSize": 1631,
+      "uncompressedSize": 2664
     },
     {
       "index": 187,
       "frameStart": 748,
       "frameCount": 4,
-      "compressedSize": 74666,
-      "uncompressedSize": 136604
+      "compressedSize": 1319,
+      "uncompressedSize": 2188
     },
     {
       "index": 188,
       "frameStart": 752,
       "frameCount": 4,
-      "compressedSize": 77466,
-      "uncompressedSize": 138840
+      "compressedSize": 2139,
+      "uncompressedSize": 3992
     },
     {
       "index": 189,
       "frameStart": 756,
       "frameCount": 4,
-      "compressedSize": 282182,
-      "uncompressedSize": 522124
+      "compressedSize": 17292,
+      "uncompressedSize": 26880
     },
     {
       "index": 190,
       "frameStart": 760,
       "frameCount": 4,
-      "compressedSize": 149709,
-      "uncompressedSize": 251780
+      "compressedSize": 4793,
+      "uncompressedSize": 7992
     },
     {
       "index": 191,
       "frameStart": 764,
       "frameCount": 4,
-      "compressedSize": 106014,
-      "uncompressedSize": 177600
+      "compressedSize": 2244,
+      "uncompressedSize": 3804
     },
     {
       "index": 192,
       "frameStart": 768,
       "frameCount": 4,
-      "compressedSize": 98569,
-      "uncompressedSize": 165040
+      "compressedSize": 1500,
+      "uncompressedSize": 2500
     },
     {
       "index": 193,
       "frameStart": 772,
       "frameCount": 4,
-      "compressedSize": 182935,
-      "uncompressedSize": 329068
+      "compressedSize": 9023,
+      "uncompressedSize": 14160
     },
     {
       "index": 194,
       "frameStart": 776,
       "frameCount": 4,
-      "compressedSize": 418789,
-      "uncompressedSize": 717592
+      "compressedSize": 24687,
+      "uncompressedSize": 36732
     },
     {
       "index": 195,
       "frameStart": 780,
       "frameCount": 4,
-      "compressedSize": 427331,
-      "uncompressedSize": 707560
+      "compressedSize": 23630,
+      "uncompressedSize": 36168
     },
     {
       "index": 196,
       "frameStart": 784,
       "frameCount": 4,
-      "compressedSize": 446312,
-      "uncompressedSize": 751136
+      "compressedSize": 26178,
+      "uncompressedSize": 38856
     },
     {
       "index": 197,
       "frameStart": 788,
       "frameCount": 4,
-      "compressedSize": 414791,
-      "uncompressedSize": 692840
+      "compressedSize": 23737,
+      "uncompressedSize": 35908
     },
     {
       "index": 198,
       "frameStart": 792,
       "frameCount": 4,
-      "compressedSize": 374029,
-      "uncompressedSize": 947676
+      "compressedSize": 22776,
+      "uncompressedSize": 44920
     },
     {
       "index": 199,
       "frameStart": 796,
       "frameCount": 4,
-      "compressedSize": 2379,
-      "uncompressedSize": 311356
+      "compressedSize": 274,
+      "uncompressedSize": 13340
     },
     {
       "index": 200,
@@ -1437,533 +1437,533 @@
       "index": 203,
       "frameStart": 812,
       "frameCount": 4,
-      "compressedSize": 86216,
-      "uncompressedSize": 146708
+      "compressedSize": 6328,
+      "uncompressedSize": 7276
     },
     {
       "index": 204,
       "frameStart": 816,
       "frameCount": 4,
-      "compressedSize": 540666,
-      "uncompressedSize": 861580
+      "compressedSize": 33366,
+      "uncompressedSize": 42140
     },
     {
       "index": 205,
       "frameStart": 820,
       "frameCount": 4,
-      "compressedSize": 490894,
-      "uncompressedSize": 696092
+      "compressedSize": 27880,
+      "uncompressedSize": 36196
     },
     {
       "index": 206,
       "frameStart": 824,
       "frameCount": 4,
-      "compressedSize": 460878,
-      "uncompressedSize": 642884
+      "compressedSize": 25501,
+      "uncompressedSize": 33376
     },
     {
       "index": 207,
       "frameStart": 828,
       "frameCount": 4,
-      "compressedSize": 411203,
-      "uncompressedSize": 557792
+      "compressedSize": 20993,
+      "uncompressedSize": 29256
     },
     {
       "index": 208,
       "frameStart": 832,
       "frameCount": 4,
-      "compressedSize": 482397,
-      "uncompressedSize": 640244
+      "compressedSize": 24784,
+      "uncompressedSize": 33348
     },
     {
       "index": 209,
       "frameStart": 836,
       "frameCount": 4,
-      "compressedSize": 646895,
-      "uncompressedSize": 1582496
+      "compressedSize": 41318,
+      "uncompressedSize": 70320
     },
     {
       "index": 210,
       "frameStart": 840,
       "frameCount": 4,
-      "compressedSize": 519548,
-      "uncompressedSize": 785032
+      "compressedSize": 30632,
+      "uncompressedSize": 41072
     },
     {
       "index": 211,
       "frameStart": 844,
       "frameCount": 4,
-      "compressedSize": 481067,
-      "uncompressedSize": 676048
+      "compressedSize": 26869,
+      "uncompressedSize": 36252
     },
     {
       "index": 212,
       "frameStart": 848,
       "frameCount": 4,
-      "compressedSize": 457491,
-      "uncompressedSize": 628376
+      "compressedSize": 23465,
+      "uncompressedSize": 33236
     },
     {
       "index": 213,
       "frameStart": 852,
       "frameCount": 4,
-      "compressedSize": 528595,
-      "uncompressedSize": 756060
+      "compressedSize": 28817,
+      "uncompressedSize": 38816
     },
     {
       "index": 214,
       "frameStart": 856,
       "frameCount": 4,
-      "compressedSize": 611876,
-      "uncompressedSize": 1505532
+      "compressedSize": 37984,
+      "uncompressedSize": 68288
     },
     {
       "index": 215,
       "frameStart": 860,
       "frameCount": 4,
-      "compressedSize": 533658,
-      "uncompressedSize": 763324
+      "compressedSize": 30621,
+      "uncompressedSize": 39832
     },
     {
       "index": 216,
       "frameStart": 864,
       "frameCount": 4,
-      "compressedSize": 443927,
-      "uncompressedSize": 594048
+      "compressedSize": 24231,
+      "uncompressedSize": 31628
     },
     {
       "index": 217,
       "frameStart": 868,
       "frameCount": 4,
-      "compressedSize": 400078,
-      "uncompressedSize": 534440
+      "compressedSize": 20432,
+      "uncompressedSize": 27904
     },
     {
       "index": 218,
       "frameStart": 872,
       "frameCount": 4,
-      "compressedSize": 433625,
-      "uncompressedSize": 688548
+      "compressedSize": 24615,
+      "uncompressedSize": 34764
     },
     {
       "index": 219,
       "frameStart": 876,
       "frameCount": 4,
-      "compressedSize": 214890,
-      "uncompressedSize": 923116
+      "compressedSize": 17041,
+      "uncompressedSize": 41672
     },
     {
       "index": 220,
       "frameStart": 880,
       "frameCount": 4,
-      "compressedSize": 176976,
-      "uncompressedSize": 288712
+      "compressedSize": 9205,
+      "uncompressedSize": 13004
     },
     {
       "index": 221,
       "frameStart": 884,
       "frameCount": 4,
-      "compressedSize": 132830,
-      "uncompressedSize": 208636
+      "compressedSize": 5979,
+      "uncompressedSize": 8208
     },
     {
       "index": 222,
       "frameStart": 888,
       "frameCount": 4,
-      "compressedSize": 113272,
-      "uncompressedSize": 172856
+      "compressedSize": 4417,
+      "uncompressedSize": 5828
     },
     {
       "index": 223,
       "frameStart": 892,
       "frameCount": 4,
-      "compressedSize": 86826,
-      "uncompressedSize": 141432
+      "compressedSize": 3100,
+      "uncompressedSize": 4944
     },
     {
       "index": 224,
       "frameStart": 896,
       "frameCount": 4,
-      "compressedSize": 248876,
-      "uncompressedSize": 450852
+      "compressedSize": 14755,
+      "uncompressedSize": 23016
     },
     {
       "index": 225,
       "frameStart": 900,
       "frameCount": 4,
-      "compressedSize": 134835,
-      "uncompressedSize": 231356
+      "compressedSize": 4355,
+      "uncompressedSize": 7448
     },
     {
       "index": 226,
       "frameStart": 904,
       "frameCount": 4,
-      "compressedSize": 96792,
-      "uncompressedSize": 164788
+      "compressedSize": 2123,
+      "uncompressedSize": 3424
     },
     {
       "index": 227,
       "frameStart": 908,
       "frameCount": 4,
-      "compressedSize": 86405,
-      "uncompressedSize": 148396
+      "compressedSize": 1585,
+      "uncompressedSize": 2608
     },
     {
       "index": 228,
       "frameStart": 912,
       "frameCount": 4,
-      "compressedSize": 77700,
-      "uncompressedSize": 137412
+      "compressedSize": 2080,
+      "uncompressedSize": 3696
     },
     {
       "index": 229,
       "frameStart": 916,
       "frameCount": 4,
-      "compressedSize": 299009,
-      "uncompressedSize": 544180
+      "compressedSize": 18311,
+      "uncompressedSize": 28308
     },
     {
       "index": 230,
       "frameStart": 920,
       "frameCount": 4,
-      "compressedSize": 182321,
-      "uncompressedSize": 296836
+      "compressedSize": 6602,
+      "uncompressedSize": 11220
     },
     {
       "index": 231,
       "frameStart": 924,
       "frameCount": 4,
-      "compressedSize": 162944,
-      "uncompressedSize": 266340
+      "compressedSize": 5112,
+      "uncompressedSize": 8732
     },
     {
       "index": 232,
       "frameStart": 928,
       "frameCount": 4,
-      "compressedSize": 90345,
-      "uncompressedSize": 145728
+      "compressedSize": 2021,
+      "uncompressedSize": 3252
     },
     {
       "index": 233,
       "frameStart": 932,
       "frameCount": 4,
-      "compressedSize": 222303,
-      "uncompressedSize": 862948
+      "compressedSize": 13656,
+      "uncompressedSize": 33560
     },
     {
       "index": 234,
       "frameStart": 936,
       "frameCount": 4,
-      "compressedSize": 514096,
-      "uncompressedSize": 1307348
+      "compressedSize": 33991,
+      "uncompressedSize": 59208
     },
     {
       "index": 235,
       "frameStart": 940,
       "frameCount": 4,
-      "compressedSize": 492912,
-      "uncompressedSize": 809484
+      "compressedSize": 27530,
+      "uncompressedSize": 41704
     },
     {
       "index": 236,
       "frameStart": 944,
       "frameCount": 4,
-      "compressedSize": 523458,
-      "uncompressedSize": 862148
+      "compressedSize": 29779,
+      "uncompressedSize": 43420
     },
     {
       "index": 237,
       "frameStart": 948,
       "frameCount": 4,
-      "compressedSize": 435042,
-      "uncompressedSize": 708372
+      "compressedSize": 23341,
+      "uncompressedSize": 35760
     },
     {
       "index": 238,
       "frameStart": 952,
       "frameCount": 4,
-      "compressedSize": 635746,
-      "uncompressedSize": 1424356
+      "compressedSize": 41934,
+      "uncompressedSize": 63856
     },
     {
       "index": 239,
       "frameStart": 956,
       "frameCount": 4,
-      "compressedSize": 666080,
-      "uncompressedSize": 1408608
+      "compressedSize": 41278,
+      "uncompressedSize": 64368
     },
     {
       "index": 240,
       "frameStart": 960,
       "frameCount": 4,
-      "compressedSize": 612631,
-      "uncompressedSize": 930508
+      "compressedSize": 33757,
+      "uncompressedSize": 48200
     },
     {
       "index": 241,
       "frameStart": 964,
       "frameCount": 4,
-      "compressedSize": 604826,
-      "uncompressedSize": 912444
+      "compressedSize": 32858,
+      "uncompressedSize": 45876
     },
     {
       "index": 242,
       "frameStart": 968,
       "frameCount": 4,
-      "compressedSize": 557850,
-      "uncompressedSize": 842324
+      "compressedSize": 29838,
+      "uncompressedSize": 42588
     },
     {
       "index": 243,
       "frameStart": 972,
       "frameCount": 4,
-      "compressedSize": 674426,
-      "uncompressedSize": 1970712
+      "compressedSize": 46447,
+      "uncompressedSize": 83628
     },
     {
       "index": 244,
       "frameStart": 976,
       "frameCount": 4,
-      "compressedSize": 348137,
-      "uncompressedSize": 737028
+      "compressedSize": 25243,
+      "uncompressedSize": 37984
     },
     {
       "index": 245,
       "frameStart": 980,
       "frameCount": 4,
-      "compressedSize": 274742,
-      "uncompressedSize": 447452
+      "compressedSize": 18112,
+      "uncompressedSize": 25908
     },
     {
       "index": 246,
       "frameStart": 984,
       "frameCount": 4,
-      "compressedSize": 256085,
-      "uncompressedSize": 394456
+      "compressedSize": 16425,
+      "uncompressedSize": 23528
     },
     {
       "index": 247,
       "frameStart": 988,
       "frameCount": 4,
-      "compressedSize": 300103,
-      "uncompressedSize": 516656
+      "compressedSize": 18757,
+      "uncompressedSize": 27552
     },
     {
       "index": 248,
       "frameStart": 992,
       "frameCount": 4,
-      "compressedSize": 404805,
-      "uncompressedSize": 1151436
+      "compressedSize": 26291,
+      "uncompressedSize": 51552
     },
     {
       "index": 249,
       "frameStart": 996,
       "frameCount": 4,
-      "compressedSize": 370374,
-      "uncompressedSize": 836216
+      "compressedSize": 27466,
+      "uncompressedSize": 43888
     },
     {
       "index": 250,
       "frameStart": 1000,
       "frameCount": 4,
-      "compressedSize": 300376,
-      "uncompressedSize": 484844
+      "compressedSize": 19961,
+      "uncompressedSize": 28788
     },
     {
       "index": 251,
       "frameStart": 1004,
       "frameCount": 4,
-      "compressedSize": 272554,
-      "uncompressedSize": 423164
+      "compressedSize": 16753,
+      "uncompressedSize": 25308
     },
     {
       "index": 252,
       "frameStart": 1008,
       "frameCount": 4,
-      "compressedSize": 322503,
-      "uncompressedSize": 481384
+      "compressedSize": 18910,
+      "uncompressedSize": 27716
     },
     {
       "index": 253,
       "frameStart": 1012,
       "frameCount": 4,
-      "compressedSize": 420006,
-      "uncompressedSize": 1233888
+      "compressedSize": 29991,
+      "uncompressedSize": 57624
     },
     {
       "index": 254,
       "frameStart": 1016,
       "frameCount": 4,
-      "compressedSize": 331080,
-      "uncompressedSize": 687300
+      "compressedSize": 25202,
+      "uncompressedSize": 38784
     },
     {
       "index": 255,
       "frameStart": 1020,
       "frameCount": 4,
-      "compressedSize": 266877,
-      "uncompressedSize": 462892
+      "compressedSize": 18853,
+      "uncompressedSize": 27868
     },
     {
       "index": 256,
       "frameStart": 1024,
       "frameCount": 4,
-      "compressedSize": 211927,
-      "uncompressedSize": 365856
+      "compressedSize": 15049,
+      "uncompressedSize": 22548
     },
     {
       "index": 257,
       "frameStart": 1028,
       "frameCount": 4,
-      "compressedSize": 191901,
-      "uncompressedSize": 341060
+      "compressedSize": 13232,
+      "uncompressedSize": 20276
     },
     {
       "index": 258,
       "frameStart": 1032,
       "frameCount": 4,
-      "compressedSize": 341877,
-      "uncompressedSize": 949284
+      "compressedSize": 26795,
+      "uncompressedSize": 45168
     },
     {
       "index": 259,
       "frameStart": 1036,
       "frameCount": 4,
-      "compressedSize": 394042,
-      "uncompressedSize": 896496
+      "compressedSize": 27898,
+      "uncompressedSize": 41932
     },
     {
       "index": 260,
       "frameStart": 1040,
       "frameCount": 4,
-      "compressedSize": 211096,
-      "uncompressedSize": 342552
+      "compressedSize": 9546,
+      "uncompressedSize": 13736
     },
     {
       "index": 261,
       "frameStart": 1044,
       "frameCount": 4,
-      "compressedSize": 149480,
-      "uncompressedSize": 239824
+      "compressedSize": 6000,
+      "uncompressedSize": 8428
     },
     {
       "index": 262,
       "frameStart": 1048,
       "frameCount": 4,
-      "compressedSize": 133978,
-      "uncompressedSize": 222192
+      "compressedSize": 4835,
+      "uncompressedSize": 7144
     },
     {
       "index": 263,
       "frameStart": 1052,
       "frameCount": 4,
-      "compressedSize": 255287,
-      "uncompressedSize": 496152
+      "compressedSize": 15403,
+      "uncompressedSize": 23400
     },
     {
       "index": 264,
       "frameStart": 1056,
       "frameCount": 4,
-      "compressedSize": 211908,
-      "uncompressedSize": 358216
+      "compressedSize": 8949,
+      "uncompressedSize": 14692
     },
     {
       "index": 265,
       "frameStart": 1060,
       "frameCount": 4,
-      "compressedSize": 165122,
-      "uncompressedSize": 277036
+      "compressedSize": 5282,
+      "uncompressedSize": 8688
     },
     {
       "index": 266,
       "frameStart": 1064,
       "frameCount": 4,
-      "compressedSize": 98097,
-      "uncompressedSize": 161076
+      "compressedSize": 2049,
+      "uncompressedSize": 3212
     },
     {
       "index": 267,
       "frameStart": 1068,
       "frameCount": 4,
-      "compressedSize": 76720,
-      "uncompressedSize": 130972
+      "compressedSize": 1362,
+      "uncompressedSize": 2208
     },
     {
       "index": 268,
       "frameStart": 1072,
       "frameCount": 4,
-      "compressedSize": 262067,
-      "uncompressedSize": 474216
+      "compressedSize": 14154,
+      "uncompressedSize": 21332
     },
     {
       "index": 269,
       "frameStart": 1076,
       "frameCount": 4,
-      "compressedSize": 238972,
-      "uncompressedSize": 413628
+      "compressedSize": 10680,
+      "uncompressedSize": 18024
     },
     {
       "index": 270,
       "frameStart": 1080,
       "frameCount": 4,
-      "compressedSize": 191963,
-      "uncompressedSize": 325284
+      "compressedSize": 6436,
+      "uncompressedSize": 11216
     },
     {
       "index": 271,
       "frameStart": 1084,
       "frameCount": 4,
-      "compressedSize": 133062,
-      "uncompressedSize": 216480
+      "compressedSize": 3362,
+      "uncompressedSize": 5316
     },
     {
       "index": 272,
       "frameStart": 1088,
       "frameCount": 4,
-      "compressedSize": 120551,
-      "uncompressedSize": 182668
+      "compressedSize": 3483,
+      "uncompressedSize": 5208
     },
     {
       "index": 273,
       "frameStart": 1092,
       "frameCount": 4,
-      "compressedSize": 373669,
-      "uncompressedSize": 726424
+      "compressedSize": 22400,
+      "uncompressedSize": 32464
     },
     {
       "index": 274,
       "frameStart": 1096,
       "frameCount": 4,
-      "compressedSize": 619116,
-      "uncompressedSize": 1004504
+      "compressedSize": 35143,
+      "uncompressedSize": 48988
     },
     {
       "index": 275,
       "frameStart": 1100,
       "frameCount": 4,
-      "compressedSize": 657814,
-      "uncompressedSize": 1042056
+      "compressedSize": 36173,
+      "uncompressedSize": 49552
     },
     {
       "index": 276,
       "frameStart": 1104,
       "frameCount": 4,
-      "compressedSize": 608155,
-      "uncompressedSize": 938780
+      "compressedSize": 32748,
+      "uncompressedSize": 45212
     },
     {
       "index": 277,
       "frameStart": 1108,
       "frameCount": 4,
-      "compressedSize": 544151,
-      "uncompressedSize": 884760
+      "compressedSize": 29330,
+      "uncompressedSize": 41552
     },
     {
       "index": 278,
       "frameStart": 1112,
       "frameCount": 4,
-      "compressedSize": 379315,
-      "uncompressedSize": 1619368
+      "compressedSize": 22786,
+      "uncompressedSize": 69760
     },
     {
       "index": 279,
@@ -2004,491 +2004,491 @@
       "index": 284,
       "frameStart": 1136,
       "frameCount": 4,
-      "compressedSize": 591986,
-      "uncompressedSize": 859452
+      "compressedSize": 34435,
+      "uncompressedSize": 42764
     },
     {
       "index": 285,
       "frameStart": 1140,
       "frameCount": 4,
-      "compressedSize": 555035,
-      "uncompressedSize": 746208
+      "compressedSize": 30324,
+      "uncompressedSize": 38364
     },
     {
       "index": 286,
       "frameStart": 1144,
       "frameCount": 4,
-      "compressedSize": 509131,
-      "uncompressedSize": 668648
+      "compressedSize": 26026,
+      "uncompressedSize": 34072
     },
     {
       "index": 287,
       "frameStart": 1148,
       "frameCount": 4,
-      "compressedSize": 502174,
-      "uncompressedSize": 648124
+      "compressedSize": 25072,
+      "uncompressedSize": 33292
     },
     {
       "index": 288,
       "frameStart": 1152,
       "frameCount": 4,
-      "compressedSize": 519991,
-      "uncompressedSize": 672456
+      "compressedSize": 24571,
+      "uncompressedSize": 32996
     },
     {
       "index": 289,
       "frameStart": 1156,
       "frameCount": 4,
-      "compressedSize": 664033,
-      "uncompressedSize": 1437928
+      "compressedSize": 40016,
+      "uncompressedSize": 64488
     },
     {
       "index": 290,
       "frameStart": 1160,
       "frameCount": 4,
-      "compressedSize": 550116,
-      "uncompressedSize": 780128
+      "compressedSize": 31108,
+      "uncompressedSize": 40008
     },
     {
       "index": 291,
       "frameStart": 1164,
       "frameCount": 4,
-      "compressedSize": 501499,
-      "uncompressedSize": 662524
+      "compressedSize": 26549,
+      "uncompressedSize": 34536
     },
     {
       "index": 292,
       "frameStart": 1168,
       "frameCount": 4,
-      "compressedSize": 499033,
-      "uncompressedSize": 651128
+      "compressedSize": 24993,
+      "uncompressedSize": 33556
     },
     {
       "index": 293,
       "frameStart": 1172,
       "frameCount": 4,
-      "compressedSize": 547763,
-      "uncompressedSize": 722576
+      "compressedSize": 27026,
+      "uncompressedSize": 36008
     },
     {
       "index": 294,
       "frameStart": 1176,
       "frameCount": 4,
-      "compressedSize": 605108,
-      "uncompressedSize": 1410544
+      "compressedSize": 35877,
+      "uncompressedSize": 63852
     },
     {
       "index": 295,
       "frameStart": 1180,
       "frameCount": 4,
-      "compressedSize": 569655,
-      "uncompressedSize": 776372
+      "compressedSize": 31345,
+      "uncompressedSize": 39632
     },
     {
       "index": 296,
       "frameStart": 1184,
       "frameCount": 4,
-      "compressedSize": 477693,
-      "uncompressedSize": 620400
+      "compressedSize": 25278,
+      "uncompressedSize": 32216
     },
     {
       "index": 297,
       "frameStart": 1188,
       "frameCount": 4,
-      "compressedSize": 407562,
-      "uncompressedSize": 531836
+      "compressedSize": 19941,
+      "uncompressedSize": 26932
     },
     {
       "index": 298,
       "frameStart": 1192,
       "frameCount": 4,
-      "compressedSize": 453201,
-      "uncompressedSize": 628692
+      "compressedSize": 24018,
+      "uncompressedSize": 31592
     },
     {
       "index": 299,
       "frameStart": 1196,
       "frameCount": 4,
-      "compressedSize": 267518,
-      "uncompressedSize": 567596
+      "compressedSize": 17445,
+      "uncompressedSize": 28108
     },
     {
       "index": 300,
       "frameStart": 1200,
       "frameCount": 4,
-      "compressedSize": 197988,
-      "uncompressedSize": 335224
+      "compressedSize": 10291,
+      "uncompressedSize": 15204
     },
     {
       "index": 301,
       "frameStart": 1204,
       "frameCount": 4,
-      "compressedSize": 181400,
-      "uncompressedSize": 300532
+      "compressedSize": 10424,
+      "uncompressedSize": 13900
     },
     {
       "index": 302,
       "frameStart": 1208,
       "frameCount": 4,
-      "compressedSize": 193836,
-      "uncompressedSize": 317200
+      "compressedSize": 11644,
+      "uncompressedSize": 16472
     },
     {
       "index": 303,
       "frameStart": 1212,
       "frameCount": 4,
-      "compressedSize": 203452,
-      "uncompressedSize": 327184
+      "compressedSize": 12015,
+      "uncompressedSize": 17420
     },
     {
       "index": 304,
       "frameStart": 1216,
       "frameCount": 4,
-      "compressedSize": 269584,
-      "uncompressedSize": 465980
+      "compressedSize": 16281,
+      "uncompressedSize": 23776
     },
     {
       "index": 305,
       "frameStart": 1220,
       "frameCount": 4,
-      "compressedSize": 274590,
-      "uncompressedSize": 415396
+      "compressedSize": 14652,
+      "uncompressedSize": 22180
     },
     {
       "index": 306,
       "frameStart": 1224,
       "frameCount": 4,
-      "compressedSize": 222575,
-      "uncompressedSize": 342852
+      "compressedSize": 10892,
+      "uncompressedSize": 16940
     },
     {
       "index": 307,
       "frameStart": 1228,
       "frameCount": 4,
-      "compressedSize": 188043,
-      "uncompressedSize": 294984
+      "compressedSize": 8484,
+      "uncompressedSize": 13828
     },
     {
       "index": 308,
       "frameStart": 1232,
       "frameCount": 4,
-      "compressedSize": 204476,
-      "uncompressedSize": 360240
+      "compressedSize": 9936,
+      "uncompressedSize": 16792
     },
     {
       "index": 309,
       "frameStart": 1236,
       "frameCount": 4,
-      "compressedSize": 374840,
-      "uncompressedSize": 580792
+      "compressedSize": 19896,
+      "uncompressedSize": 29656
     },
     {
       "index": 310,
       "frameStart": 1240,
       "frameCount": 4,
-      "compressedSize": 286501,
-      "uncompressedSize": 434216
+      "compressedSize": 12813,
+      "uncompressedSize": 20644
     },
     {
       "index": 311,
       "frameStart": 1244,
       "frameCount": 4,
-      "compressedSize": 239293,
-      "uncompressedSize": 363144
+      "compressedSize": 10187,
+      "uncompressedSize": 16264
     },
     {
       "index": 312,
       "frameStart": 1248,
       "frameCount": 4,
-      "compressedSize": 209967,
-      "uncompressedSize": 328824
+      "compressedSize": 8814,
+      "uncompressedSize": 14816
     },
     {
       "index": 313,
       "frameStart": 1252,
       "frameCount": 4,
-      "compressedSize": 279163,
-      "uncompressedSize": 430520
+      "compressedSize": 13411,
+      "uncompressedSize": 21264
     },
     {
       "index": 314,
       "frameStart": 1256,
       "frameCount": 4,
-      "compressedSize": 355242,
-      "uncompressedSize": 531916
+      "compressedSize": 17796,
+      "uncompressedSize": 27784
     },
     {
       "index": 315,
       "frameStart": 1260,
       "frameCount": 4,
-      "compressedSize": 240214,
-      "uncompressedSize": 362756
+      "compressedSize": 10203,
+      "uncompressedSize": 17264
     },
     {
       "index": 316,
       "frameStart": 1264,
       "frameCount": 4,
-      "compressedSize": 177891,
-      "uncompressedSize": 479212
+      "compressedSize": 8232,
+      "uncompressedSize": 22444
     },
     {
       "index": 317,
       "frameStart": 1268,
       "frameCount": 4,
-      "compressedSize": 33384,
-      "uncompressedSize": 93888
+      "compressedSize": 3940,
+      "uncompressedSize": 6144
     },
     {
       "index": 318,
       "frameStart": 1272,
       "frameCount": 4,
-      "compressedSize": 15555,
-      "uncompressedSize": 70716
+      "compressedSize": 2008,
+      "uncompressedSize": 4056
     },
     {
       "index": 319,
       "frameStart": 1276,
       "frameCount": 4,
-      "compressedSize": 35421,
-      "uncompressedSize": 153332
+      "compressedSize": 4223,
+      "uncompressedSize": 9108
     },
     {
       "index": 320,
       "frameStart": 1280,
       "frameCount": 4,
-      "compressedSize": 18905,
-      "uncompressedSize": 55172
+      "compressedSize": 2151,
+      "uncompressedSize": 3300
     },
     {
       "index": 321,
       "frameStart": 1284,
       "frameCount": 4,
-      "compressedSize": 44152,
-      "uncompressedSize": 138680
+      "compressedSize": 4436,
+      "uncompressedSize": 7812
     },
     {
       "index": 322,
       "frameStart": 1288,
       "frameCount": 4,
-      "compressedSize": 27927,
-      "uncompressedSize": 79112
+      "compressedSize": 2748,
+      "uncompressedSize": 4376
     },
     {
       "index": 323,
       "frameStart": 1292,
       "frameCount": 4,
-      "compressedSize": 149542,
-      "uncompressedSize": 735012
+      "compressedSize": 11405,
+      "uncompressedSize": 30564
     },
     {
       "index": 324,
       "frameStart": 1296,
       "frameCount": 4,
-      "compressedSize": 452211,
-      "uncompressedSize": 775328
+      "compressedSize": 29196,
+      "uncompressedSize": 41952
     },
     {
       "index": 325,
       "frameStart": 1300,
       "frameCount": 4,
-      "compressedSize": 395481,
-      "uncompressedSize": 593348
+      "compressedSize": 23295,
+      "uncompressedSize": 33396
     },
     {
       "index": 326,
       "frameStart": 1304,
       "frameCount": 4,
-      "compressedSize": 392242,
-      "uncompressedSize": 610644
+      "compressedSize": 22391,
+      "uncompressedSize": 32752
     },
     {
       "index": 327,
       "frameStart": 1308,
       "frameCount": 4,
-      "compressedSize": 413039,
-      "uncompressedSize": 621944
+      "compressedSize": 22786,
+      "uncompressedSize": 33516
     },
     {
       "index": 328,
       "frameStart": 1312,
       "frameCount": 4,
-      "compressedSize": 524999,
-      "uncompressedSize": 1399272
+      "compressedSize": 34670,
+      "uncompressedSize": 63980
     },
     {
       "index": 329,
       "frameStart": 1316,
       "frameCount": 4,
-      "compressedSize": 476089,
-      "uncompressedSize": 755092
+      "compressedSize": 29218,
+      "uncompressedSize": 40212
     },
     {
       "index": 330,
       "frameStart": 1320,
       "frameCount": 4,
-      "compressedSize": 399790,
-      "uncompressedSize": 589324
+      "compressedSize": 23264,
+      "uncompressedSize": 32348
     },
     {
       "index": 331,
       "frameStart": 1324,
       "frameCount": 4,
-      "compressedSize": 355871,
-      "uncompressedSize": 513796
+      "compressedSize": 19724,
+      "uncompressedSize": 27972
     },
     {
       "index": 332,
       "frameStart": 1328,
       "frameCount": 4,
-      "compressedSize": 286977,
-      "uncompressedSize": 414904
+      "compressedSize": 14620,
+      "uncompressedSize": 22316
     },
     {
       "index": 333,
       "frameStart": 1332,
       "frameCount": 4,
-      "compressedSize": 180693,
-      "uncompressedSize": 823604
+      "compressedSize": 16207,
+      "uncompressedSize": 36896
     },
     {
       "index": 334,
       "frameStart": 1336,
       "frameCount": 4,
-      "compressedSize": 194782,
-      "uncompressedSize": 557984
+      "compressedSize": 13496,
+      "uncompressedSize": 24960
     },
     {
       "index": 335,
       "frameStart": 1340,
       "frameCount": 4,
-      "compressedSize": 128118,
-      "uncompressedSize": 205576
+      "compressedSize": 6305,
+      "uncompressedSize": 8352
     },
     {
       "index": 336,
       "frameStart": 1344,
       "frameCount": 4,
-      "compressedSize": 104843,
-      "uncompressedSize": 166940
+      "compressedSize": 4320,
+      "uncompressedSize": 5708
     },
     {
       "index": 337,
       "frameStart": 1348,
       "frameCount": 4,
-      "compressedSize": 74156,
-      "uncompressedSize": 118476
+      "compressedSize": 2825,
+      "uncompressedSize": 4020
     },
     {
       "index": 338,
       "frameStart": 1352,
       "frameCount": 4,
-      "compressedSize": 187458,
-      "uncompressedSize": 331420
+      "compressedSize": 10831,
+      "uncompressedSize": 17056
     },
     {
       "index": 339,
       "frameStart": 1356,
       "frameCount": 4,
-      "compressedSize": 148333,
-      "uncompressedSize": 265808
+      "compressedSize": 7022,
+      "uncompressedSize": 12388
     },
     {
       "index": 340,
       "frameStart": 1360,
       "frameCount": 4,
-      "compressedSize": 96115,
-      "uncompressedSize": 170420
+      "compressedSize": 2308,
+      "uncompressedSize": 3772
     },
     {
       "index": 341,
       "frameStart": 1364,
       "frameCount": 4,
-      "compressedSize": 61575,
-      "uncompressedSize": 113028
+      "compressedSize": 1049,
+      "uncompressedSize": 1684
     },
     {
       "index": 342,
       "frameStart": 1368,
       "frameCount": 4,
-      "compressedSize": 57929,
-      "uncompressedSize": 100176
+      "compressedSize": 1364,
+      "uncompressedSize": 2308
     },
     {
       "index": 343,
       "frameStart": 1372,
       "frameCount": 4,
-      "compressedSize": 258228,
-      "uncompressedSize": 485024
+      "compressedSize": 15849,
+      "uncompressedSize": 24632
     },
     {
       "index": 344,
       "frameStart": 1376,
       "frameCount": 4,
-      "compressedSize": 172465,
-      "uncompressedSize": 289476
+      "compressedSize": 6577,
+      "uncompressedSize": 11260
     },
     {
       "index": 345,
       "frameStart": 1380,
       "frameCount": 4,
-      "compressedSize": 140385,
-      "uncompressedSize": 235720
+      "compressedSize": 3603,
+      "uncompressedSize": 6252
     },
     {
       "index": 346,
       "frameStart": 1384,
       "frameCount": 4,
-      "compressedSize": 83044,
-      "uncompressedSize": 137800
+      "compressedSize": 1447,
+      "uncompressedSize": 2420
     },
     {
       "index": 347,
       "frameStart": 1388,
       "frameCount": 4,
-      "compressedSize": 84298,
-      "uncompressedSize": 144288
+      "compressedSize": 1517,
+      "uncompressedSize": 2664
     },
     {
       "index": 348,
       "frameStart": 1392,
       "frameCount": 4,
-      "compressedSize": 411422,
-      "uncompressedSize": 723248
+      "compressedSize": 25173,
+      "uncompressedSize": 37040
     },
     {
       "index": 349,
       "frameStart": 1396,
       "frameCount": 4,
-      "compressedSize": 422304,
-      "uncompressedSize": 698228
+      "compressedSize": 23562,
+      "uncompressedSize": 35876
     },
     {
       "index": 350,
       "frameStart": 1400,
       "frameCount": 4,
-      "compressedSize": 464256,
-      "uncompressedSize": 783180
+      "compressedSize": 27209,
+      "uncompressedSize": 39704
     },
     {
       "index": 351,
       "frameStart": 1404,
       "frameCount": 4,
-      "compressedSize": 420116,
-      "uncompressedSize": 701424
+      "compressedSize": 23533,
+      "uncompressedSize": 35544
     },
     {
       "index": 352,
       "frameStart": 1408,
       "frameCount": 4,
-      "compressedSize": 436312,
-      "uncompressedSize": 728092
+      "compressedSize": 24932,
+      "uncompressedSize": 37692
     },
     {
       "index": 353,
       "frameStart": 1412,
       "frameCount": 4,
-      "compressedSize": 30459,
-      "uncompressedSize": 675312
+      "compressedSize": 2903,
+      "uncompressedSize": 28836
     },
     {
       "index": 354,
@@ -2501,8 +2501,8 @@
       "index": 355,
       "frameStart": 1420,
       "frameCount": 4,
-      "compressedSize": 32,
-      "uncompressedSize": 48
+      "compressedSize": 19,
+      "uncompressedSize": 36
     },
     {
       "index": 356,
@@ -2522,533 +2522,533 @@
       "index": 358,
       "frameStart": 1432,
       "frameCount": 4,
-      "compressedSize": 499255,
-      "uncompressedSize": 811604
+      "compressedSize": 32058,
+      "uncompressedSize": 39428
     },
     {
       "index": 359,
       "frameStart": 1436,
       "frameCount": 4,
-      "compressedSize": 517753,
-      "uncompressedSize": 760096
+      "compressedSize": 29924,
+      "uncompressedSize": 38852
     },
     {
       "index": 360,
       "frameStart": 1440,
       "frameCount": 4,
-      "compressedSize": 458281,
-      "uncompressedSize": 627136
+      "compressedSize": 24707,
+      "uncompressedSize": 32812
     },
     {
       "index": 361,
       "frameStart": 1444,
       "frameCount": 4,
-      "compressedSize": 444006,
-      "uncompressedSize": 594956
+      "compressedSize": 23075,
+      "uncompressedSize": 31080
     },
     {
       "index": 362,
       "frameStart": 1448,
       "frameCount": 4,
-      "compressedSize": 450626,
-      "uncompressedSize": 597204
+      "compressedSize": 22192,
+      "uncompressedSize": 30944
     },
     {
       "index": 363,
       "frameStart": 1452,
       "frameCount": 4,
-      "compressedSize": 643774,
-      "uncompressedSize": 1464380
+      "compressedSize": 39199,
+      "uncompressedSize": 65200
     },
     {
       "index": 364,
       "frameStart": 1456,
       "frameCount": 4,
-      "compressedSize": 545479,
-      "uncompressedSize": 921412
+      "compressedSize": 33479,
+      "uncompressedSize": 46844
     },
     {
       "index": 365,
       "frameStart": 1460,
       "frameCount": 4,
-      "compressedSize": 483040,
-      "uncompressedSize": 674608
+      "compressedSize": 26919,
+      "uncompressedSize": 36296
     },
     {
       "index": 366,
       "frameStart": 1464,
       "frameCount": 4,
-      "compressedSize": 470649,
-      "uncompressedSize": 647608
+      "compressedSize": 25002,
+      "uncompressedSize": 34428
     },
     {
       "index": 367,
       "frameStart": 1468,
       "frameCount": 4,
-      "compressedSize": 477892,
-      "uncompressedSize": 664096
+      "compressedSize": 24524,
+      "uncompressedSize": 34428
     },
     {
       "index": 368,
       "frameStart": 1472,
       "frameCount": 4,
-      "compressedSize": 626385,
-      "uncompressedSize": 1517548
+      "compressedSize": 39054,
+      "uncompressedSize": 69032
     },
     {
       "index": 369,
       "frameStart": 1476,
       "frameCount": 4,
-      "compressedSize": 549979,
-      "uncompressedSize": 802492
+      "compressedSize": 31782,
+      "uncompressedSize": 41552
     },
     {
       "index": 370,
       "frameStart": 1480,
       "frameCount": 4,
-      "compressedSize": 478706,
-      "uncompressedSize": 649000
+      "compressedSize": 26585,
+      "uncompressedSize": 34332
     },
     {
       "index": 371,
       "frameStart": 1484,
       "frameCount": 4,
-      "compressedSize": 419363,
-      "uncompressedSize": 567316
+      "compressedSize": 22366,
+      "uncompressedSize": 29796
     },
     {
       "index": 372,
       "frameStart": 1488,
       "frameCount": 4,
-      "compressedSize": 371406,
-      "uncompressedSize": 494876
+      "compressedSize": 18705,
+      "uncompressedSize": 26112
     },
     {
       "index": 373,
       "frameStart": 1492,
       "frameCount": 4,
-      "compressedSize": 321847,
-      "uncompressedSize": 1146724
+      "compressedSize": 24509,
+      "uncompressedSize": 52256
     },
     {
       "index": 374,
       "frameStart": 1496,
       "frameCount": 4,
-      "compressedSize": 186680,
-      "uncompressedSize": 306592
+      "compressedSize": 9973,
+      "uncompressedSize": 14156
     },
     {
       "index": 375,
       "frameStart": 1500,
       "frameCount": 4,
-      "compressedSize": 162342,
-      "uncompressedSize": 264824
+      "compressedSize": 8012,
+      "uncompressedSize": 11308
     },
     {
       "index": 376,
       "frameStart": 1504,
       "frameCount": 4,
-      "compressedSize": 104259,
-      "uncompressedSize": 159016
+      "compressedSize": 3905,
+      "uncompressedSize": 5140
     },
     {
       "index": 377,
       "frameStart": 1508,
       "frameCount": 4,
-      "compressedSize": 100098,
-      "uncompressedSize": 160908
+      "compressedSize": 3689,
+      "uncompressedSize": 5496
     },
     {
       "index": 378,
       "frameStart": 1512,
       "frameCount": 4,
-      "compressedSize": 221683,
-      "uncompressedSize": 401104
+      "compressedSize": 12760,
+      "uncompressedSize": 19492
     },
     {
       "index": 379,
       "frameStart": 1516,
       "frameCount": 4,
-      "compressedSize": 150802,
-      "uncompressedSize": 252696
+      "compressedSize": 5650,
+      "uncompressedSize": 9520
     },
     {
       "index": 380,
       "frameStart": 1520,
       "frameCount": 4,
-      "compressedSize": 120432,
-      "uncompressedSize": 208292
+      "compressedSize": 3036,
+      "uncompressedSize": 5048
     },
     {
       "index": 381,
       "frameStart": 1524,
       "frameCount": 4,
-      "compressedSize": 76120,
-      "uncompressedSize": 128344
+      "compressedSize": 1302,
+      "uncompressedSize": 1996
     },
     {
       "index": 382,
       "frameStart": 1528,
       "frameCount": 4,
-      "compressedSize": 67397,
-      "uncompressedSize": 119176
+      "compressedSize": 1476,
+      "uncompressedSize": 2596
     },
     {
       "index": 383,
       "frameStart": 1532,
       "frameCount": 4,
-      "compressedSize": 265873,
-      "uncompressedSize": 497228
+      "compressedSize": 16114,
+      "uncompressedSize": 24872
     },
     {
       "index": 384,
       "frameStart": 1536,
       "frameCount": 4,
-      "compressedSize": 198776,
-      "uncompressedSize": 338996
+      "compressedSize": 8335,
+      "uncompressedSize": 14488
     },
     {
       "index": 385,
       "frameStart": 1540,
       "frameCount": 4,
-      "compressedSize": 163970,
-      "uncompressedSize": 270600
+      "compressedSize": 4816,
+      "uncompressedSize": 8068
     },
     {
       "index": 386,
       "frameStart": 1544,
       "frameCount": 4,
-      "compressedSize": 112764,
-      "uncompressedSize": 182992
+      "compressedSize": 3040,
+      "uncompressedSize": 5072
     },
     {
       "index": 387,
       "frameStart": 1548,
       "frameCount": 4,
-      "compressedSize": 134536,
-      "uncompressedSize": 215840
+      "compressedSize": 4153,
+      "uncompressedSize": 6928
     },
     {
       "index": 388,
       "frameStart": 1552,
       "frameCount": 4,
-      "compressedSize": 516663,
-      "uncompressedSize": 1806108
+      "compressedSize": 37991,
+      "uncompressedSize": 76812
     },
     {
       "index": 389,
       "frameStart": 1556,
       "frameCount": 4,
-      "compressedSize": 472951,
-      "uncompressedSize": 767388
+      "compressedSize": 26505,
+      "uncompressedSize": 39376
     },
     {
       "index": 390,
       "frameStart": 1560,
       "frameCount": 4,
-      "compressedSize": 519175,
-      "uncompressedSize": 862496
+      "compressedSize": 30071,
+      "uncompressedSize": 43456
     },
     {
       "index": 391,
       "frameStart": 1564,
       "frameCount": 4,
-      "compressedSize": 466377,
-      "uncompressedSize": 763588
+      "compressedSize": 24903,
+      "uncompressedSize": 37092
     },
     {
       "index": 392,
       "frameStart": 1568,
       "frameCount": 4,
-      "compressedSize": 557789,
-      "uncompressedSize": 1258352
+      "compressedSize": 36141,
+      "uncompressedSize": 56692
     },
     {
       "index": 393,
       "frameStart": 1572,
       "frameCount": 4,
-      "compressedSize": 679998,
-      "uncompressedSize": 1474244
+      "compressedSize": 42983,
+      "uncompressedSize": 66208
     },
     {
       "index": 394,
       "frameStart": 1576,
       "frameCount": 4,
-      "compressedSize": 624438,
-      "uncompressedSize": 969220
+      "compressedSize": 35600,
+      "uncompressedSize": 50188
     },
     {
       "index": 395,
       "frameStart": 1580,
       "frameCount": 4,
-      "compressedSize": 605474,
-      "uncompressedSize": 922932
+      "compressedSize": 32973,
+      "uncompressedSize": 45772
     },
     {
       "index": 396,
       "frameStart": 1584,
       "frameCount": 4,
-      "compressedSize": 553937,
-      "uncompressedSize": 833588
+      "compressedSize": 29931,
+      "uncompressedSize": 42652
     },
     {
       "index": 397,
       "frameStart": 1588,
       "frameCount": 4,
-      "compressedSize": 702520,
-      "uncompressedSize": 1465000
+      "compressedSize": 45150,
+      "uncompressedSize": 65196
     },
     {
       "index": 398,
       "frameStart": 1592,
       "frameCount": 4,
-      "compressedSize": 367621,
-      "uncompressedSize": 1261648
+      "compressedSize": 27841,
+      "uncompressedSize": 56700
     },
     {
       "index": 399,
       "frameStart": 1596,
       "frameCount": 4,
-      "compressedSize": 294213,
-      "uncompressedSize": 504720
+      "compressedSize": 20038,
+      "uncompressedSize": 28884
     },
     {
       "index": 400,
       "frameStart": 1600,
       "frameCount": 4,
-      "compressedSize": 248873,
-      "uncompressedSize": 376936
+      "compressedSize": 15741,
+      "uncompressedSize": 22636
     },
     {
       "index": 401,
       "frameStart": 1604,
       "frameCount": 4,
-      "compressedSize": 274266,
-      "uncompressedSize": 439852
+      "compressedSize": 16885,
+      "uncompressedSize": 24792
     },
     {
       "index": 402,
       "frameStart": 1608,
       "frameCount": 4,
-      "compressedSize": 324000,
-      "uncompressedSize": 472812
+      "compressedSize": 18502,
+      "uncompressedSize": 25116
     },
     {
       "index": 403,
       "frameStart": 1612,
       "frameCount": 4,
-      "compressedSize": 417136,
-      "uncompressedSize": 1404180
+      "compressedSize": 30892,
+      "uncompressedSize": 63848
     },
     {
       "index": 404,
       "frameStart": 1616,
       "frameCount": 4,
-      "compressedSize": 306936,
-      "uncompressedSize": 525192
+      "compressedSize": 20803,
+      "uncompressedSize": 30784
     },
     {
       "index": 405,
       "frameStart": 1620,
       "frameCount": 4,
-      "compressedSize": 290360,
-      "uncompressedSize": 460668
+      "compressedSize": 18597,
+      "uncompressedSize": 27220
     },
     {
       "index": 406,
       "frameStart": 1624,
       "frameCount": 4,
-      "compressedSize": 289010,
-      "uncompressedSize": 428888
+      "compressedSize": 16736,
+      "uncompressedSize": 25088
     },
     {
       "index": 407,
       "frameStart": 1628,
       "frameCount": 4,
-      "compressedSize": 428124,
-      "uncompressedSize": 1174500
+      "compressedSize": 28946,
+      "uncompressedSize": 54572
     },
     {
       "index": 408,
       "frameStart": 1632,
       "frameCount": 4,
-      "compressedSize": 346056,
-      "uncompressedSize": 750872
+      "compressedSize": 26665,
+      "uncompressedSize": 41748
     },
     {
       "index": 409,
       "frameStart": 1636,
       "frameCount": 4,
-      "compressedSize": 272688,
-      "uncompressedSize": 487264
+      "compressedSize": 19710,
+      "uncompressedSize": 29248
     },
     {
       "index": 410,
       "frameStart": 1640,
       "frameCount": 4,
-      "compressedSize": 237590,
-      "uncompressedSize": 417948
+      "compressedSize": 17064,
+      "uncompressedSize": 25528
     },
     {
       "index": 411,
       "frameStart": 1644,
       "frameCount": 4,
-      "compressedSize": 173600,
-      "uncompressedSize": 292476
+      "compressedSize": 11815,
+      "uncompressedSize": 17788
     },
     {
       "index": 412,
       "frameStart": 1648,
       "frameCount": 4,
-      "compressedSize": 334120,
-      "uncompressedSize": 884524
+      "compressedSize": 25908,
+      "uncompressedSize": 41820
     },
     {
       "index": 413,
       "frameStart": 1652,
       "frameCount": 4,
-      "compressedSize": 374317,
-      "uncompressedSize": 920868
+      "compressedSize": 27936,
+      "uncompressedSize": 43544
     },
     {
       "index": 414,
       "frameStart": 1656,
       "frameCount": 4,
-      "compressedSize": 233347,
-      "uncompressedSize": 389152
+      "compressedSize": 11851,
+      "uncompressedSize": 17376
     },
     {
       "index": 415,
       "frameStart": 1660,
       "frameCount": 4,
-      "compressedSize": 192942,
-      "uncompressedSize": 308292
+      "compressedSize": 8510,
+      "uncompressedSize": 12288
     },
     {
       "index": 416,
       "frameStart": 1664,
       "frameCount": 4,
-      "compressedSize": 116485,
-      "uncompressedSize": 191200
+      "compressedSize": 3785,
+      "uncompressedSize": 5492
     },
     {
       "index": 417,
       "frameStart": 1668,
       "frameCount": 4,
-      "compressedSize": 172274,
-      "uncompressedSize": 305588
+      "compressedSize": 7938,
+      "uncompressedSize": 12512
     },
     {
       "index": 418,
       "frameStart": 1672,
       "frameCount": 4,
-      "compressedSize": 335931,
-      "uncompressedSize": 630388
+      "compressedSize": 20648,
+      "uncompressedSize": 32252
     },
     {
       "index": 419,
       "frameStart": 1676,
       "frameCount": 4,
-      "compressedSize": 197080,
-      "uncompressedSize": 318760
+      "compressedSize": 7239,
+      "uncompressedSize": 11880
     },
     {
       "index": 420,
       "frameStart": 1680,
       "frameCount": 4,
-      "compressedSize": 107101,
-      "uncompressedSize": 174820
+      "compressedSize": 2371,
+      "uncompressedSize": 3748
     },
     {
       "index": 421,
       "frameStart": 1684,
       "frameCount": 4,
-      "compressedSize": 98225,
-      "uncompressedSize": 167512
+      "compressedSize": 1738,
+      "uncompressedSize": 2904
     },
     {
       "index": 422,
       "frameStart": 1688,
       "frameCount": 4,
-      "compressedSize": 140003,
-      "uncompressedSize": 240824
+      "compressedSize": 6132,
+      "uncompressedSize": 9044
     },
     {
       "index": 423,
       "frameStart": 1692,
       "frameCount": 4,
-      "compressedSize": 302134,
-      "uncompressedSize": 548872
+      "compressedSize": 16784,
+      "uncompressedSize": 26364
     },
     {
       "index": 424,
       "frameStart": 1696,
       "frameCount": 4,
-      "compressedSize": 205026,
-      "uncompressedSize": 347132
+      "compressedSize": 7163,
+      "uncompressedSize": 12412
     },
     {
       "index": 425,
       "frameStart": 1700,
       "frameCount": 4,
-      "compressedSize": 135734,
-      "uncompressedSize": 224400
+      "compressedSize": 3192,
+      "uncompressedSize": 5160
     },
     {
       "index": 426,
       "frameStart": 1704,
       "frameCount": 4,
-      "compressedSize": 141557,
-      "uncompressedSize": 220780
+      "compressedSize": 3923,
+      "uncompressedSize": 5800
     },
     {
       "index": 427,
       "frameStart": 1708,
       "frameCount": 4,
-      "compressedSize": 214700,
-      "uncompressedSize": 427752
+      "compressedSize": 11126,
+      "uncompressedSize": 17744
     },
     {
       "index": 428,
       "frameStart": 1712,
       "frameCount": 4,
-      "compressedSize": 651227,
-      "uncompressedSize": 1099608
+      "compressedSize": 38876,
+      "uncompressedSize": 52888
     },
     {
       "index": 429,
       "frameStart": 1716,
       "frameCount": 4,
-      "compressedSize": 648083,
-      "uncompressedSize": 1028848
+      "compressedSize": 35432,
+      "uncompressedSize": 49088
     },
     {
       "index": 430,
       "frameStart": 1720,
       "frameCount": 4,
-      "compressedSize": 666866,
-      "uncompressedSize": 1045132
+      "compressedSize": 37273,
+      "uncompressedSize": 50796
     },
     {
       "index": 431,
       "frameStart": 1724,
       "frameCount": 4,
-      "compressedSize": 582523,
-      "uncompressedSize": 898336
+      "compressedSize": 30338,
+      "uncompressedSize": 41892
     },
     {
       "index": 432,
       "frameStart": 1728,
       "frameCount": 4,
-      "compressedSize": 497246,
-      "uncompressedSize": 1392932
+      "compressedSize": 28995,
+      "uncompressedSize": 61496
     },
     {
       "index": 433,
       "frameStart": 1732,
       "frameCount": 4,
-      "compressedSize": 4482,
-      "uncompressedSize": 438024
+      "compressedSize": 706,
+      "uncompressedSize": 18612
     },
     {
       "index": 434,
@@ -3082,239 +3082,239 @@
       "index": 438,
       "frameStart": 1752,
       "frameCount": 4,
-      "compressedSize": 441661,
-      "uncompressedSize": 640252
+      "compressedSize": 26154,
+      "uncompressedSize": 31988
     },
     {
       "index": 439,
       "frameStart": 1756,
       "frameCount": 4,
-      "compressedSize": 567874,
-      "uncompressedSize": 777684
+      "compressedSize": 31334,
+      "uncompressedSize": 39512
     },
     {
       "index": 440,
       "frameStart": 1760,
       "frameCount": 4,
-      "compressedSize": 528293,
-      "uncompressedSize": 700692
+      "compressedSize": 28042,
+      "uncompressedSize": 35828
     },
     {
       "index": 441,
       "frameStart": 1764,
       "frameCount": 4,
-      "compressedSize": 491954,
-      "uncompressedSize": 637408
+      "compressedSize": 24185,
+      "uncompressedSize": 32348
     },
     {
       "index": 442,
       "frameStart": 1768,
       "frameCount": 4,
-      "compressedSize": 521594,
-      "uncompressedSize": 671356
+      "compressedSize": 25369,
+      "uncompressedSize": 33688
     },
     {
       "index": 443,
       "frameStart": 1772,
       "frameCount": 4,
-      "compressedSize": 634726,
-      "uncompressedSize": 1306724
+      "compressedSize": 35972,
+      "uncompressedSize": 57852
     },
     {
       "index": 444,
       "frameStart": 1776,
       "frameCount": 4,
-      "compressedSize": 572626,
-      "uncompressedSize": 899612
+      "compressedSize": 33702,
+      "uncompressedSize": 45280
     },
     {
       "index": 445,
       "frameStart": 1780,
       "frameCount": 4,
-      "compressedSize": 516722,
-      "uncompressedSize": 692748
+      "compressedSize": 28046,
+      "uncompressedSize": 35892
     },
     {
       "index": 446,
       "frameStart": 1784,
       "frameCount": 4,
-      "compressedSize": 487393,
-      "uncompressedSize": 637808
+      "compressedSize": 24203,
+      "uncompressedSize": 32380
     },
     {
       "index": 447,
       "frameStart": 1788,
       "frameCount": 4,
-      "compressedSize": 532637,
-      "uncompressedSize": 696948
+      "compressedSize": 26139,
+      "uncompressedSize": 34852
     },
     {
       "index": 448,
       "frameStart": 1792,
       "frameCount": 4,
-      "compressedSize": 603014,
-      "uncompressedSize": 1384796
+      "compressedSize": 34880,
+      "uncompressedSize": 62268
     },
     {
       "index": 449,
       "frameStart": 1796,
       "frameCount": 4,
-      "compressedSize": 580992,
-      "uncompressedSize": 790852
+      "compressedSize": 32081,
+      "uncompressedSize": 40428
     },
     {
       "index": 450,
       "frameStart": 1800,
       "frameCount": 4,
-      "compressedSize": 518841,
-      "uncompressedSize": 684584
+      "compressedSize": 27855,
+      "uncompressedSize": 35140
     },
     {
       "index": 451,
       "frameStart": 1804,
       "frameCount": 4,
-      "compressedSize": 456311,
-      "uncompressedSize": 592920
+      "compressedSize": 23732,
+      "uncompressedSize": 30660
     },
     {
       "index": 452,
       "frameStart": 1808,
       "frameCount": 4,
-      "compressedSize": 380676,
-      "uncompressedSize": 502228
+      "compressedSize": 18089,
+      "uncompressedSize": 25664
     },
     {
       "index": 453,
       "frameStart": 1812,
       "frameCount": 4,
-      "compressedSize": 378978,
-      "uncompressedSize": 735028
+      "compressedSize": 24904,
+      "uncompressedSize": 36616
     },
     {
       "index": 454,
       "frameStart": 1816,
       "frameCount": 4,
-      "compressedSize": 193514,
-      "uncompressedSize": 324856
+      "compressedSize": 9979,
+      "uncompressedSize": 14888
     },
     {
       "index": 455,
       "frameStart": 1820,
       "frameCount": 4,
-      "compressedSize": 177337,
-      "uncompressedSize": 297396
+      "compressedSize": 9867,
+      "uncompressedSize": 13200
     },
     {
       "index": 456,
       "frameStart": 1824,
       "frameCount": 4,
-      "compressedSize": 198444,
-      "uncompressedSize": 332316
+      "compressedSize": 12127,
+      "uncompressedSize": 17212
     },
     {
       "index": 457,
       "frameStart": 1828,
       "frameCount": 4,
-      "compressedSize": 195529,
-      "uncompressedSize": 310972
+      "compressedSize": 11323,
+      "uncompressedSize": 16252
     },
     {
       "index": 458,
       "frameStart": 1832,
       "frameCount": 4,
-      "compressedSize": 242046,
-      "uncompressedSize": 422320
+      "compressedSize": 15246,
+      "uncompressedSize": 22064
     },
     {
       "index": 459,
       "frameStart": 1836,
       "frameCount": 4,
-      "compressedSize": 295277,
-      "uncompressedSize": 451708
+      "compressedSize": 16102,
+      "uncompressedSize": 23780
     },
     {
       "index": 460,
       "frameStart": 1840,
       "frameCount": 4,
-      "compressedSize": 229927,
-      "uncompressedSize": 353872
+      "compressedSize": 11249,
+      "uncompressedSize": 17436
     },
     {
       "index": 461,
       "frameStart": 1844,
       "frameCount": 4,
-      "compressedSize": 219283,
-      "uncompressedSize": 340996
+      "compressedSize": 10308,
+      "uncompressedSize": 16376
     },
     {
       "index": 462,
       "frameStart": 1848,
       "frameCount": 4,
-      "compressedSize": 176337,
-      "uncompressedSize": 275052
+      "compressedSize": 7614,
+      "uncompressedSize": 12576
     },
     {
       "index": 463,
       "frameStart": 1852,
       "frameCount": 4,
-      "compressedSize": 344276,
-      "uncompressedSize": 584096
+      "compressedSize": 19343,
+      "uncompressedSize": 29604
     },
     {
       "index": 464,
       "frameStart": 1856,
       "frameCount": 4,
-      "compressedSize": 308703,
-      "uncompressedSize": 465024
+      "compressedSize": 14057,
+      "uncompressedSize": 22584
     },
     {
       "index": 465,
       "frameStart": 1860,
       "frameCount": 4,
-      "compressedSize": 218350,
-      "uncompressedSize": 329736
+      "compressedSize": 8883,
+      "uncompressedSize": 14520
     },
     {
       "index": 466,
       "frameStart": 1864,
       "frameCount": 4,
-      "compressedSize": 236690,
-      "uncompressedSize": 364348
+      "compressedSize": 9798,
+      "uncompressedSize": 16332
     },
     {
       "index": 467,
       "frameStart": 1868,
       "frameCount": 4,
-      "compressedSize": 240240,
-      "uncompressedSize": 377008
+      "compressedSize": 10902,
+      "uncompressedSize": 18320
     },
     {
       "index": 468,
       "frameStart": 1872,
       "frameCount": 4,
-      "compressedSize": 393602,
-      "uncompressedSize": 586748
+      "compressedSize": 20404,
+      "uncompressedSize": 31020
     },
     {
       "index": 469,
       "frameStart": 1876,
       "frameCount": 4,
-      "compressedSize": 264467,
-      "uncompressedSize": 400344
+      "compressedSize": 11550,
+      "uncompressedSize": 19532
     },
     {
       "index": 470,
       "frameStart": 1880,
       "frameCount": 4,
-      "compressedSize": 237689,
-      "uncompressedSize": 361600
+      "compressedSize": 10274,
+      "uncompressedSize": 17132
     },
     {
       "index": 471,
       "frameStart": 1884,
       "frameCount": 4,
-      "compressedSize": 43774,
-      "uncompressedSize": 274792
+      "compressedSize": 2259,
+      "uncompressedSize": 12632
     },
     {
       "index": 472,
@@ -3411,1331 +3411,1331 @@
       "index": 485,
       "frameStart": 1940,
       "frameCount": 4,
-      "compressedSize": 58021,
-      "uncompressedSize": 363496
+      "compressedSize": 8337,
+      "uncompressedSize": 16832
     },
     {
       "index": 486,
       "frameStart": 1944,
       "frameCount": 4,
-      "compressedSize": 244470,
-      "uncompressedSize": 1384284
+      "compressedSize": 28202,
+      "uncompressedSize": 62084
     },
     {
       "index": 487,
       "frameStart": 1948,
       "frameCount": 4,
-      "compressedSize": 376926,
-      "uncompressedSize": 1174412
+      "compressedSize": 31433,
+      "uncompressedSize": 53988
     },
     {
       "index": 488,
       "frameStart": 1952,
       "frameCount": 4,
-      "compressedSize": 529851,
-      "uncompressedSize": 1291740
+      "compressedSize": 38693,
+      "uncompressedSize": 60888
     },
     {
       "index": 489,
       "frameStart": 1956,
       "frameCount": 4,
-      "compressedSize": 475427,
-      "uncompressedSize": 1082076
+      "compressedSize": 32752,
+      "uncompressedSize": 51508
     },
     {
       "index": 490,
       "frameStart": 1960,
       "frameCount": 4,
-      "compressedSize": 484264,
-      "uncompressedSize": 1166832
+      "compressedSize": 37226,
+      "uncompressedSize": 54848
     },
     {
       "index": 491,
       "frameStart": 1964,
       "frameCount": 4,
-      "compressedSize": 527598,
-      "uncompressedSize": 1259836
+      "compressedSize": 41876,
+      "uncompressedSize": 58440
     },
     {
       "index": 492,
       "frameStart": 1968,
       "frameCount": 4,
-      "compressedSize": 520679,
-      "uncompressedSize": 1327808
+      "compressedSize": 41776,
+      "uncompressedSize": 62072
     },
     {
       "index": 493,
       "frameStart": 1972,
       "frameCount": 4,
-      "compressedSize": 468743,
-      "uncompressedSize": 1179172
+      "compressedSize": 36591,
+      "uncompressedSize": 56356
     },
     {
       "index": 494,
       "frameStart": 1976,
       "frameCount": 4,
-      "compressedSize": 481370,
-      "uncompressedSize": 1193600
+      "compressedSize": 36682,
+      "uncompressedSize": 56472
     },
     {
       "index": 495,
       "frameStart": 1980,
       "frameCount": 4,
-      "compressedSize": 314809,
-      "uncompressedSize": 827116
+      "compressedSize": 23454,
+      "uncompressedSize": 39972
     },
     {
       "index": 496,
       "frameStart": 1984,
       "frameCount": 4,
-      "compressedSize": 366720,
-      "uncompressedSize": 898564
+      "compressedSize": 28593,
+      "uncompressedSize": 42548
     },
     {
       "index": 497,
       "frameStart": 1988,
       "frameCount": 4,
-      "compressedSize": 338223,
-      "uncompressedSize": 958948
+      "compressedSize": 29782,
+      "uncompressedSize": 46188
     },
     {
       "index": 498,
       "frameStart": 1992,
       "frameCount": 4,
-      "compressedSize": 377161,
-      "uncompressedSize": 1059536
+      "compressedSize": 34757,
+      "uncompressedSize": 50032
     },
     {
       "index": 499,
       "frameStart": 1996,
       "frameCount": 4,
-      "compressedSize": 268849,
-      "uncompressedSize": 725352
+      "compressedSize": 23159,
+      "uncompressedSize": 34016
     },
     {
       "index": 500,
       "frameStart": 2000,
       "frameCount": 4,
-      "compressedSize": 330996,
-      "uncompressedSize": 903836
+      "compressedSize": 28806,
+      "uncompressedSize": 40592
     },
     {
       "index": 501,
       "frameStart": 2004,
       "frameCount": 4,
-      "compressedSize": 227568,
-      "uncompressedSize": 625180
+      "compressedSize": 18579,
+      "uncompressedSize": 27184
     },
     {
       "index": 502,
       "frameStart": 2008,
       "frameCount": 4,
-      "compressedSize": 163820,
-      "uncompressedSize": 439636
+      "compressedSize": 14292,
+      "uncompressedSize": 19644
     },
     {
       "index": 503,
       "frameStart": 2012,
       "frameCount": 4,
-      "compressedSize": 168184,
-      "uncompressedSize": 399540
+      "compressedSize": 12107,
+      "uncompressedSize": 17532
     },
     {
       "index": 504,
       "frameStart": 2016,
       "frameCount": 4,
-      "compressedSize": 252751,
-      "uncompressedSize": 721952
+      "compressedSize": 22712,
+      "uncompressedSize": 32156
     },
     {
       "index": 505,
       "frameStart": 2020,
       "frameCount": 4,
-      "compressedSize": 212254,
-      "uncompressedSize": 552260
+      "compressedSize": 18151,
+      "uncompressedSize": 24196
     },
     {
       "index": 506,
       "frameStart": 2024,
       "frameCount": 4,
-      "compressedSize": 232032,
-      "uncompressedSize": 656628
+      "compressedSize": 20631,
+      "uncompressedSize": 30732
     },
     {
       "index": 507,
       "frameStart": 2028,
       "frameCount": 4,
-      "compressedSize": 262868,
-      "uncompressedSize": 756100
+      "compressedSize": 22029,
+      "uncompressedSize": 35324
     },
     {
       "index": 508,
       "frameStart": 2032,
       "frameCount": 4,
-      "compressedSize": 316335,
-      "uncompressedSize": 807916
+      "compressedSize": 26010,
+      "uncompressedSize": 37900
     },
     {
       "index": 509,
       "frameStart": 2036,
       "frameCount": 4,
-      "compressedSize": 197243,
-      "uncompressedSize": 609368
+      "compressedSize": 17270,
+      "uncompressedSize": 29472
     },
     {
       "index": 510,
       "frameStart": 2040,
       "frameCount": 4,
-      "compressedSize": 99743,
-      "uncompressedSize": 197336
+      "compressedSize": 6778,
+      "uncompressedSize": 9940
     },
     {
       "index": 511,
       "frameStart": 2044,
       "frameCount": 4,
-      "compressedSize": 155362,
-      "uncompressedSize": 318288
+      "compressedSize": 11130,
+      "uncompressedSize": 14600
     },
     {
       "index": 512,
       "frameStart": 2048,
       "frameCount": 4,
-      "compressedSize": 84974,
-      "uncompressedSize": 175096
+      "compressedSize": 6404,
+      "uncompressedSize": 8816
     },
     {
       "index": 513,
       "frameStart": 2052,
       "frameCount": 4,
-      "compressedSize": 151485,
-      "uncompressedSize": 454660
+      "compressedSize": 13202,
+      "uncompressedSize": 20696
     },
     {
       "index": 514,
       "frameStart": 2056,
       "frameCount": 4,
-      "compressedSize": 172667,
-      "uncompressedSize": 480636
+      "compressedSize": 14830,
+      "uncompressedSize": 22960
     },
     {
       "index": 515,
       "frameStart": 2060,
       "frameCount": 4,
-      "compressedSize": 229853,
-      "uncompressedSize": 643892
+      "compressedSize": 20753,
+      "uncompressedSize": 29124
     },
     {
       "index": 516,
       "frameStart": 2064,
       "frameCount": 4,
-      "compressedSize": 330750,
-      "uncompressedSize": 877316
+      "compressedSize": 28048,
+      "uncompressedSize": 39872
     },
     {
       "index": 517,
       "frameStart": 2068,
       "frameCount": 4,
-      "compressedSize": 239109,
-      "uncompressedSize": 627068
+      "compressedSize": 20545,
+      "uncompressedSize": 29652
     },
     {
       "index": 518,
       "frameStart": 2072,
       "frameCount": 4,
-      "compressedSize": 309576,
-      "uncompressedSize": 720388
+      "compressedSize": 23410,
+      "uncompressedSize": 32724
     },
     {
       "index": 519,
       "frameStart": 2076,
       "frameCount": 4,
-      "compressedSize": 260385,
-      "uncompressedSize": 503468
+      "compressedSize": 16725,
+      "uncompressedSize": 24120
     },
     {
       "index": 520,
       "frameStart": 2080,
       "frameCount": 4,
-      "compressedSize": 403448,
-      "uncompressedSize": 968292
+      "compressedSize": 31383,
+      "uncompressedSize": 44672
     },
     {
       "index": 521,
       "frameStart": 2084,
       "frameCount": 4,
-      "compressedSize": 346571,
-      "uncompressedSize": 713252
+      "compressedSize": 22584,
+      "uncompressedSize": 30048
     },
     {
       "index": 522,
       "frameStart": 2088,
       "frameCount": 4,
-      "compressedSize": 304417,
-      "uncompressedSize": 626336
+      "compressedSize": 21158,
+      "uncompressedSize": 26104
     },
     {
       "index": 523,
       "frameStart": 2092,
       "frameCount": 4,
-      "compressedSize": 467749,
-      "uncompressedSize": 961320
+      "compressedSize": 31127,
+      "uncompressedSize": 41892
     },
     {
       "index": 524,
       "frameStart": 2096,
       "frameCount": 4,
-      "compressedSize": 441420,
-      "uncompressedSize": 1289344
+      "compressedSize": 37709,
+      "uncompressedSize": 56948
     },
     {
       "index": 525,
       "frameStart": 2100,
       "frameCount": 4,
-      "compressedSize": 286197,
-      "uncompressedSize": 618288
+      "compressedSize": 18819,
+      "uncompressedSize": 28100
     },
     {
       "index": 526,
       "frameStart": 2104,
       "frameCount": 4,
-      "compressedSize": 157207,
-      "uncompressedSize": 308576
+      "compressedSize": 8244,
+      "uncompressedSize": 12680
     },
     {
       "index": 527,
       "frameStart": 2108,
       "frameCount": 4,
-      "compressedSize": 47195,
-      "uncompressedSize": 80092
+      "compressedSize": 2347,
+      "uncompressedSize": 2808
     },
     {
       "index": 528,
       "frameStart": 2112,
       "frameCount": 4,
-      "compressedSize": 235449,
-      "uncompressedSize": 496756
+      "compressedSize": 15549,
+      "uncompressedSize": 22076
     },
     {
       "index": 529,
       "frameStart": 2116,
       "frameCount": 4,
-      "compressedSize": 421865,
-      "uncompressedSize": 914864
+      "compressedSize": 29665,
+      "uncompressedSize": 42572
     },
     {
       "index": 530,
       "frameStart": 2120,
       "frameCount": 4,
-      "compressedSize": 314353,
-      "uncompressedSize": 599520
+      "compressedSize": 17373,
+      "uncompressedSize": 26740
     },
     {
       "index": 531,
       "frameStart": 2124,
       "frameCount": 4,
-      "compressedSize": 352293,
-      "uncompressedSize": 823276
+      "compressedSize": 25524,
+      "uncompressedSize": 38520
     },
     {
       "index": 532,
       "frameStart": 2128,
       "frameCount": 4,
-      "compressedSize": 155461,
-      "uncompressedSize": 563476
+      "compressedSize": 14352,
+      "uncompressedSize": 26136
     },
     {
       "index": 533,
       "frameStart": 2132,
       "frameCount": 4,
-      "compressedSize": 111041,
-      "uncompressedSize": 212936
+      "compressedSize": 8071,
+      "uncompressedSize": 10860
     },
     {
       "index": 534,
       "frameStart": 2136,
       "frameCount": 4,
-      "compressedSize": 90807,
-      "uncompressedSize": 364592
+      "compressedSize": 8554,
+      "uncompressedSize": 18516
     },
     {
       "index": 535,
       "frameStart": 2140,
       "frameCount": 4,
-      "compressedSize": 89994,
-      "uncompressedSize": 159184
+      "compressedSize": 5769,
+      "uncompressedSize": 8360
     },
     {
       "index": 536,
       "frameStart": 2144,
       "frameCount": 4,
-      "compressedSize": 122661,
-      "uncompressedSize": 259324
+      "compressedSize": 9262,
+      "uncompressedSize": 11424
     },
     {
       "index": 537,
       "frameStart": 2148,
       "frameCount": 4,
-      "compressedSize": 151845,
-      "uncompressedSize": 321620
+      "compressedSize": 11040,
+      "uncompressedSize": 14488
     },
     {
       "index": 538,
       "frameStart": 2152,
       "frameCount": 4,
-      "compressedSize": 62015,
-      "uncompressedSize": 120428
+      "compressedSize": 3750,
+      "uncompressedSize": 4964
     },
     {
       "index": 539,
       "frameStart": 2156,
       "frameCount": 4,
-      "compressedSize": 118511,
-      "uncompressedSize": 227708
+      "compressedSize": 8181,
+      "uncompressedSize": 10216
     },
     {
       "index": 540,
       "frameStart": 2160,
       "frameCount": 4,
-      "compressedSize": 138390,
-      "uncompressedSize": 265980
+      "compressedSize": 9290,
+      "uncompressedSize": 11544
     },
     {
       "index": 541,
       "frameStart": 2164,
       "frameCount": 4,
-      "compressedSize": 41049,
-      "uncompressedSize": 72560
+      "compressedSize": 2407,
+      "uncompressedSize": 3048
     },
     {
       "index": 542,
       "frameStart": 2168,
       "frameCount": 4,
-      "compressedSize": 43260,
-      "uncompressedSize": 83776
+      "compressedSize": 2762,
+      "uncompressedSize": 3332
     },
     {
       "index": 543,
       "frameStart": 2172,
       "frameCount": 4,
-      "compressedSize": 59165,
-      "uncompressedSize": 108456
+      "compressedSize": 3407,
+      "uncompressedSize": 4212
     },
     {
       "index": 544,
       "frameStart": 2176,
       "frameCount": 4,
-      "compressedSize": 103861,
-      "uncompressedSize": 215296
+      "compressedSize": 7729,
+      "uncompressedSize": 9480
     },
     {
       "index": 545,
       "frameStart": 2180,
       "frameCount": 4,
-      "compressedSize": 131505,
-      "uncompressedSize": 288164
+      "compressedSize": 10291,
+      "uncompressedSize": 13232
     },
     {
       "index": 546,
       "frameStart": 2184,
       "frameCount": 4,
-      "compressedSize": 71837,
-      "uncompressedSize": 130920
+      "compressedSize": 3990,
+      "uncompressedSize": 5188
     },
     {
       "index": 547,
       "frameStart": 2188,
       "frameCount": 4,
-      "compressedSize": 112404,
-      "uncompressedSize": 266824
+      "compressedSize": 8320,
+      "uncompressedSize": 13008
     },
     {
       "index": 548,
       "frameStart": 2192,
       "frameCount": 4,
-      "compressedSize": 108464,
-      "uncompressedSize": 217728
+      "compressedSize": 7833,
+      "uncompressedSize": 10860
     },
     {
       "index": 549,
       "frameStart": 2196,
       "frameCount": 4,
-      "compressedSize": 99289,
-      "uncompressedSize": 232208
+      "compressedSize": 7664,
+      "uncompressedSize": 9876
     },
     {
       "index": 550,
       "frameStart": 2200,
       "frameCount": 4,
-      "compressedSize": 90469,
-      "uncompressedSize": 214776
+      "compressedSize": 7602,
+      "uncompressedSize": 9712
     },
     {
       "index": 551,
       "frameStart": 2204,
       "frameCount": 4,
-      "compressedSize": 141462,
-      "uncompressedSize": 342208
+      "compressedSize": 11408,
+      "uncompressedSize": 14900
     },
     {
       "index": 552,
       "frameStart": 2208,
       "frameCount": 4,
-      "compressedSize": 131038,
-      "uncompressedSize": 247624
+      "compressedSize": 8543,
+      "uncompressedSize": 10636
     },
     {
       "index": 553,
       "frameStart": 2212,
       "frameCount": 4,
-      "compressedSize": 162588,
-      "uncompressedSize": 316844
+      "compressedSize": 11384,
+      "uncompressedSize": 14260
     },
     {
       "index": 554,
       "frameStart": 2216,
       "frameCount": 4,
-      "compressedSize": 61711,
-      "uncompressedSize": 122992
+      "compressedSize": 4395,
+      "uncompressedSize": 5328
     },
     {
       "index": 555,
       "frameStart": 2220,
       "frameCount": 4,
-      "compressedSize": 90045,
-      "uncompressedSize": 168020
+      "compressedSize": 5176,
+      "uncompressedSize": 6908
     },
     {
       "index": 556,
       "frameStart": 2224,
       "frameCount": 4,
-      "compressedSize": 132073,
-      "uncompressedSize": 277412
+      "compressedSize": 9355,
+      "uncompressedSize": 12268
     },
     {
       "index": 557,
       "frameStart": 2228,
       "frameCount": 4,
-      "compressedSize": 37764,
-      "uncompressedSize": 69776
+      "compressedSize": 2306,
+      "uncompressedSize": 2996
     },
     {
       "index": 558,
       "frameStart": 2232,
       "frameCount": 4,
-      "compressedSize": 112679,
-      "uncompressedSize": 252488
+      "compressedSize": 8688,
+      "uncompressedSize": 10748
     },
     {
       "index": 559,
       "frameStart": 2236,
       "frameCount": 4,
-      "compressedSize": 208297,
-      "uncompressedSize": 385844
+      "compressedSize": 13370,
+      "uncompressedSize": 15556
     },
     {
       "index": 560,
       "frameStart": 2240,
       "frameCount": 4,
-      "compressedSize": 234492,
-      "uncompressedSize": 441600
+      "compressedSize": 15745,
+      "uncompressedSize": 19284
     },
     {
       "index": 561,
       "frameStart": 2244,
       "frameCount": 4,
-      "compressedSize": 287536,
-      "uncompressedSize": 526708
+      "compressedSize": 18958,
+      "uncompressedSize": 22340
     },
     {
       "index": 562,
       "frameStart": 2248,
       "frameCount": 4,
-      "compressedSize": 206509,
-      "uncompressedSize": 369380
+      "compressedSize": 13135,
+      "uncompressedSize": 15616
     },
     {
       "index": 563,
       "frameStart": 2252,
       "frameCount": 4,
-      "compressedSize": 284999,
-      "uncompressedSize": 535224
+      "compressedSize": 18996,
+      "uncompressedSize": 22852
     },
     {
       "index": 564,
       "frameStart": 2256,
       "frameCount": 4,
-      "compressedSize": 223201,
-      "uncompressedSize": 429468
+      "compressedSize": 13507,
+      "uncompressedSize": 18204
     },
     {
       "index": 565,
       "frameStart": 2260,
       "frameCount": 4,
-      "compressedSize": 192358,
-      "uncompressedSize": 370256
+      "compressedSize": 13460,
+      "uncompressedSize": 15752
     },
     {
       "index": 566,
       "frameStart": 2264,
       "frameCount": 4,
-      "compressedSize": 166729,
-      "uncompressedSize": 314152
+      "compressedSize": 11625,
+      "uncompressedSize": 13152
     },
     {
       "index": 567,
       "frameStart": 2268,
       "frameCount": 4,
-      "compressedSize": 168517,
-      "uncompressedSize": 290304
+      "compressedSize": 9336,
+      "uncompressedSize": 11664
     },
     {
       "index": 568,
       "frameStart": 2272,
       "frameCount": 4,
-      "compressedSize": 266579,
-      "uncompressedSize": 470832
+      "compressedSize": 17320,
+      "uncompressedSize": 20152
     },
     {
       "index": 569,
       "frameStart": 2276,
       "frameCount": 4,
-      "compressedSize": 223055,
-      "uncompressedSize": 400416
+      "compressedSize": 15044,
+      "uncompressedSize": 17244
     },
     {
       "index": 570,
       "frameStart": 2280,
       "frameCount": 4,
-      "compressedSize": 132838,
-      "uncompressedSize": 237912
+      "compressedSize": 8093,
+      "uncompressedSize": 9868
     },
     {
       "index": 571,
       "frameStart": 2284,
       "frameCount": 4,
-      "compressedSize": 174106,
-      "uncompressedSize": 319140
+      "compressedSize": 11832,
+      "uncompressedSize": 13480
     },
     {
       "index": 572,
       "frameStart": 2288,
       "frameCount": 4,
-      "compressedSize": 131289,
-      "uncompressedSize": 241040
+      "compressedSize": 8427,
+      "uncompressedSize": 9920
     },
     {
       "index": 573,
       "frameStart": 2292,
       "frameCount": 4,
-      "compressedSize": 44798,
-      "uncompressedSize": 84000
+      "compressedSize": 2816,
+      "uncompressedSize": 3488
     },
     {
       "index": 574,
       "frameStart": 2296,
       "frameCount": 4,
-      "compressedSize": 267544,
-      "uncompressedSize": 498512
+      "compressedSize": 18416,
+      "uncompressedSize": 21744
     },
     {
       "index": 575,
       "frameStart": 2300,
       "frameCount": 4,
-      "compressedSize": 316006,
-      "uncompressedSize": 693592
+      "compressedSize": 23427,
+      "uncompressedSize": 31848
     },
     {
       "index": 576,
       "frameStart": 2304,
       "frameCount": 4,
-      "compressedSize": 370832,
-      "uncompressedSize": 735580
+      "compressedSize": 25346,
+      "uncompressedSize": 32576
     },
     {
       "index": 577,
       "frameStart": 2308,
       "frameCount": 4,
-      "compressedSize": 356828,
-      "uncompressedSize": 731368
+      "compressedSize": 25297,
+      "uncompressedSize": 32324
     },
     {
       "index": 578,
       "frameStart": 2312,
       "frameCount": 4,
-      "compressedSize": 293211,
-      "uncompressedSize": 550184
+      "compressedSize": 18774,
+      "uncompressedSize": 23664
     },
     {
       "index": 579,
       "frameStart": 2316,
       "frameCount": 4,
-      "compressedSize": 203253,
-      "uncompressedSize": 381948
+      "compressedSize": 13358,
+      "uncompressedSize": 16316
     },
     {
       "index": 580,
       "frameStart": 2320,
       "frameCount": 4,
-      "compressedSize": 198504,
-      "uncompressedSize": 369384
+      "compressedSize": 12550,
+      "uncompressedSize": 15100
     },
     {
       "index": 581,
       "frameStart": 2324,
       "frameCount": 4,
-      "compressedSize": 103640,
-      "uncompressedSize": 178768
+      "compressedSize": 7142,
+      "uncompressedSize": 7836
     },
     {
       "index": 582,
       "frameStart": 2328,
       "frameCount": 4,
-      "compressedSize": 58575,
-      "uncompressedSize": 110400
+      "compressedSize": 3366,
+      "uncompressedSize": 4288
     },
     {
       "index": 583,
       "frameStart": 2332,
       "frameCount": 4,
-      "compressedSize": 176104,
-      "uncompressedSize": 314924
+      "compressedSize": 10864,
+      "uncompressedSize": 13060
     },
     {
       "index": 584,
       "frameStart": 2336,
       "frameCount": 4,
-      "compressedSize": 304359,
-      "uncompressedSize": 530944
+      "compressedSize": 19470,
+      "uncompressedSize": 22624
     },
     {
       "index": 585,
       "frameStart": 2340,
       "frameCount": 4,
-      "compressedSize": 278147,
-      "uncompressedSize": 490756
+      "compressedSize": 17310,
+      "uncompressedSize": 21164
     },
     {
       "index": 586,
       "frameStart": 2344,
       "frameCount": 4,
-      "compressedSize": 200783,
-      "uncompressedSize": 362288
+      "compressedSize": 13206,
+      "uncompressedSize": 14752
     },
     {
       "index": 587,
       "frameStart": 2348,
       "frameCount": 4,
-      "compressedSize": 243152,
-      "uncompressedSize": 433040
+      "compressedSize": 14663,
+      "uncompressedSize": 18048
     },
     {
       "index": 588,
       "frameStart": 2352,
       "frameCount": 4,
-      "compressedSize": 197940,
-      "uncompressedSize": 385520
+      "compressedSize": 12638,
+      "uncompressedSize": 15980
     },
     {
       "index": 589,
       "frameStart": 2356,
       "frameCount": 4,
-      "compressedSize": 26268,
-      "uncompressedSize": 44632
+      "compressedSize": 912,
+      "uncompressedSize": 1140
     },
     {
       "index": 590,
       "frameStart": 2360,
       "frameCount": 4,
-      "compressedSize": 191589,
-      "uncompressedSize": 355116
+      "compressedSize": 13048,
+      "uncompressedSize": 15144
     },
     {
       "index": 591,
       "frameStart": 2364,
       "frameCount": 4,
-      "compressedSize": 112696,
-      "uncompressedSize": 201112
+      "compressedSize": 7177,
+      "uncompressedSize": 8456
     },
     {
       "index": 592,
       "frameStart": 2368,
       "frameCount": 4,
-      "compressedSize": 159305,
-      "uncompressedSize": 278484
+      "compressedSize": 9908,
+      "uncompressedSize": 11660
     },
     {
       "index": 593,
       "frameStart": 2372,
       "frameCount": 4,
-      "compressedSize": 281659,
-      "uncompressedSize": 505376
+      "compressedSize": 18587,
+      "uncompressedSize": 21660
     },
     {
       "index": 594,
       "frameStart": 2376,
       "frameCount": 4,
-      "compressedSize": 245393,
-      "uncompressedSize": 458412
+      "compressedSize": 15614,
+      "uncompressedSize": 19640
     },
     {
       "index": 595,
       "frameStart": 2380,
       "frameCount": 4,
-      "compressedSize": 151783,
-      "uncompressedSize": 272624
+      "compressedSize": 8949,
+      "uncompressedSize": 10984
     },
     {
       "index": 596,
       "frameStart": 2384,
       "frameCount": 4,
-      "compressedSize": 202657,
-      "uncompressedSize": 393764
+      "compressedSize": 12780,
+      "uncompressedSize": 17016
     },
     {
       "index": 597,
       "frameStart": 2388,
       "frameCount": 4,
-      "compressedSize": 103067,
-      "uncompressedSize": 184796
+      "compressedSize": 6654,
+      "uncompressedSize": 7588
     },
     {
       "index": 598,
       "frameStart": 2392,
       "frameCount": 4,
-      "compressedSize": 68091,
-      "uncompressedSize": 127064
+      "compressedSize": 3437,
+      "uncompressedSize": 4684
     },
     {
       "index": 599,
       "frameStart": 2396,
       "frameCount": 4,
-      "compressedSize": 178822,
-      "uncompressedSize": 318224
+      "compressedSize": 11901,
+      "uncompressedSize": 13668
     },
     {
       "index": 600,
       "frameStart": 2400,
       "frameCount": 4,
-      "compressedSize": 163669,
-      "uncompressedSize": 295008
+      "compressedSize": 10360,
+      "uncompressedSize": 12400
     },
     {
       "index": 601,
       "frameStart": 2404,
       "frameCount": 4,
-      "compressedSize": 236390,
-      "uncompressedSize": 424420
+      "compressedSize": 15718,
+      "uncompressedSize": 18308
     },
     {
       "index": 602,
       "frameStart": 2408,
       "frameCount": 4,
-      "compressedSize": 253233,
-      "uncompressedSize": 495024
+      "compressedSize": 18132,
+      "uncompressedSize": 21396
     },
     {
       "index": 603,
       "frameStart": 2412,
       "frameCount": 4,
-      "compressedSize": 143799,
-      "uncompressedSize": 277892
+      "compressedSize": 9852,
+      "uncompressedSize": 11708
     },
     {
       "index": 604,
       "frameStart": 2416,
       "frameCount": 4,
-      "compressedSize": 82708,
-      "uncompressedSize": 152100
+      "compressedSize": 4781,
+      "uncompressedSize": 5880
     },
     {
       "index": 605,
       "frameStart": 2420,
       "frameCount": 4,
-      "compressedSize": 79485,
-      "uncompressedSize": 151300
+      "compressedSize": 5881,
+      "uncompressedSize": 6704
     },
     {
       "index": 606,
       "frameStart": 2424,
       "frameCount": 4,
-      "compressedSize": 138806,
-      "uncompressedSize": 241144
+      "compressedSize": 8889,
+      "uncompressedSize": 10784
     },
     {
       "index": 607,
       "frameStart": 2428,
       "frameCount": 4,
-      "compressedSize": 206200,
-      "uncompressedSize": 381224
+      "compressedSize": 13983,
+      "uncompressedSize": 16424
     },
     {
       "index": 608,
       "frameStart": 2432,
       "frameCount": 4,
-      "compressedSize": 255681,
-      "uncompressedSize": 479960
+      "compressedSize": 15870,
+      "uncompressedSize": 20604
     },
     {
       "index": 609,
       "frameStart": 2436,
       "frameCount": 4,
-      "compressedSize": 260852,
-      "uncompressedSize": 474376
+      "compressedSize": 17814,
+      "uncompressedSize": 20592
     },
     {
       "index": 610,
       "frameStart": 2440,
       "frameCount": 4,
-      "compressedSize": 301537,
-      "uncompressedSize": 862480
+      "compressedSize": 26381,
+      "uncompressedSize": 37604
     },
     {
       "index": 611,
       "frameStart": 2444,
       "frameCount": 4,
-      "compressedSize": 428620,
-      "uncompressedSize": 1131192
+      "compressedSize": 34930,
+      "uncompressedSize": 50224
     },
     {
       "index": 612,
       "frameStart": 2448,
       "frameCount": 4,
-      "compressedSize": 428016,
-      "uncompressedSize": 841732
+      "compressedSize": 29558,
+      "uncompressedSize": 36956
     },
     {
       "index": 613,
       "frameStart": 2452,
       "frameCount": 4,
-      "compressedSize": 326772,
-      "uncompressedSize": 618216
+      "compressedSize": 20169,
+      "uncompressedSize": 27792
     },
     {
       "index": 614,
       "frameStart": 2456,
       "frameCount": 4,
-      "compressedSize": 221173,
-      "uncompressedSize": 391424
+      "compressedSize": 11849,
+      "uncompressedSize": 16288
     },
     {
       "index": 615,
       "frameStart": 2460,
       "frameCount": 4,
-      "compressedSize": 240272,
-      "uncompressedSize": 539764
+      "compressedSize": 15655,
+      "uncompressedSize": 23036
     },
     {
       "index": 616,
       "frameStart": 2464,
       "frameCount": 4,
-      "compressedSize": 345870,
-      "uncompressedSize": 814972
+      "compressedSize": 25913,
+      "uncompressedSize": 35976
     },
     {
       "index": 617,
       "frameStart": 2468,
       "frameCount": 4,
-      "compressedSize": 345342,
-      "uncompressedSize": 778508
+      "compressedSize": 27101,
+      "uncompressedSize": 34204
     },
     {
       "index": 618,
       "frameStart": 2472,
       "frameCount": 4,
-      "compressedSize": 353642,
-      "uncompressedSize": 821212
+      "compressedSize": 27395,
+      "uncompressedSize": 36672
     },
     {
       "index": 619,
       "frameStart": 2476,
       "frameCount": 4,
-      "compressedSize": 239373,
-      "uncompressedSize": 514688
+      "compressedSize": 17476,
+      "uncompressedSize": 24092
     },
     {
       "index": 620,
       "frameStart": 2480,
       "frameCount": 4,
-      "compressedSize": 252918,
-      "uncompressedSize": 470516
+      "compressedSize": 17280,
+      "uncompressedSize": 23080
     },
     {
       "index": 621,
       "frameStart": 2484,
       "frameCount": 4,
-      "compressedSize": 201110,
-      "uncompressedSize": 357524
+      "compressedSize": 13119,
+      "uncompressedSize": 17152
     },
     {
       "index": 622,
       "frameStart": 2488,
       "frameCount": 4,
-      "compressedSize": 208761,
-      "uncompressedSize": 360524
+      "compressedSize": 13374,
+      "uncompressedSize": 16428
     },
     {
       "index": 623,
       "frameStart": 2492,
       "frameCount": 4,
-      "compressedSize": 205591,
-      "uncompressedSize": 345528
+      "compressedSize": 12506,
+      "uncompressedSize": 15256
     },
     {
       "index": 624,
       "frameStart": 2496,
       "frameCount": 4,
-      "compressedSize": 246314,
-      "uncompressedSize": 409820
+      "compressedSize": 14497,
+      "uncompressedSize": 18000
     },
     {
       "index": 625,
       "frameStart": 2500,
       "frameCount": 4,
-      "compressedSize": 447182,
-      "uncompressedSize": 1403496
+      "compressedSize": 44229,
+      "uncompressedSize": 61928
     },
     {
       "index": 626,
       "frameStart": 2504,
       "frameCount": 4,
-      "compressedSize": 467047,
-      "uncompressedSize": 1198864
+      "compressedSize": 35885,
+      "uncompressedSize": 55628
     },
     {
       "index": 627,
       "frameStart": 2508,
       "frameCount": 4,
-      "compressedSize": 427166,
-      "uncompressedSize": 1266264
+      "compressedSize": 36596,
+      "uncompressedSize": 58072
     },
     {
       "index": 628,
       "frameStart": 2512,
       "frameCount": 4,
-      "compressedSize": 399178,
-      "uncompressedSize": 954872
+      "compressedSize": 30735,
+      "uncompressedSize": 45520
     },
     {
       "index": 629,
       "frameStart": 2516,
       "frameCount": 4,
-      "compressedSize": 433499,
-      "uncompressedSize": 1015040
+      "compressedSize": 33646,
+      "uncompressedSize": 50112
     },
     {
       "index": 630,
       "frameStart": 2520,
       "frameCount": 4,
-      "compressedSize": 420196,
-      "uncompressedSize": 867148
+      "compressedSize": 28726,
+      "uncompressedSize": 39496
     },
     {
       "index": 631,
       "frameStart": 2524,
       "frameCount": 4,
-      "compressedSize": 455689,
-      "uncompressedSize": 1025300
+      "compressedSize": 35256,
+      "uncompressedSize": 43896
     },
     {
       "index": 632,
       "frameStart": 2528,
       "frameCount": 4,
-      "compressedSize": 507402,
-      "uncompressedSize": 1097228
+      "compressedSize": 37488,
+      "uncompressedSize": 48708
     },
     {
       "index": 633,
       "frameStart": 2532,
       "frameCount": 4,
-      "compressedSize": 367125,
-      "uncompressedSize": 789676
+      "compressedSize": 27473,
+      "uncompressedSize": 34404
     },
     {
       "index": 634,
       "frameStart": 2536,
       "frameCount": 4,
-      "compressedSize": 263461,
-      "uncompressedSize": 604704
+      "compressedSize": 17083,
+      "uncompressedSize": 25064
     },
     {
       "index": 635,
       "frameStart": 2540,
       "frameCount": 4,
-      "compressedSize": 293556,
-      "uncompressedSize": 624376
+      "compressedSize": 20456,
+      "uncompressedSize": 26728
     },
     {
       "index": 636,
       "frameStart": 2544,
       "frameCount": 4,
-      "compressedSize": 198208,
-      "uncompressedSize": 406660
+      "compressedSize": 11023,
+      "uncompressedSize": 18088
     },
     {
       "index": 637,
       "frameStart": 2548,
       "frameCount": 4,
-      "compressedSize": 417231,
-      "uncompressedSize": 924180
+      "compressedSize": 30618,
+      "uncompressedSize": 42576
     },
     {
       "index": 638,
       "frameStart": 2552,
       "frameCount": 4,
-      "compressedSize": 447109,
-      "uncompressedSize": 1049192
+      "compressedSize": 33610,
+      "uncompressedSize": 50484
     },
     {
       "index": 639,
       "frameStart": 2556,
       "frameCount": 4,
-      "compressedSize": 373359,
-      "uncompressedSize": 758884
+      "compressedSize": 24667,
+      "uncompressedSize": 35236
     },
     {
       "index": 640,
       "frameStart": 2560,
       "frameCount": 4,
-      "compressedSize": 429989,
-      "uncompressedSize": 904836
+      "compressedSize": 30645,
+      "uncompressedSize": 42420
     },
     {
       "index": 641,
       "frameStart": 2564,
       "frameCount": 4,
-      "compressedSize": 552316,
-      "uncompressedSize": 1350876
+      "compressedSize": 44046,
+      "uncompressedSize": 61288
     },
     {
       "index": 642,
       "frameStart": 2568,
       "frameCount": 4,
-      "compressedSize": 566469,
-      "uncompressedSize": 1612740
+      "compressedSize": 48007,
+      "uncompressedSize": 71500
     },
     {
       "index": 643,
       "frameStart": 2572,
       "frameCount": 4,
-      "compressedSize": 647760,
-      "uncompressedSize": 1919640
+      "compressedSize": 55811,
+      "uncompressedSize": 82700
     },
     {
       "index": 644,
       "frameStart": 2576,
       "frameCount": 4,
-      "compressedSize": 472943,
-      "uncompressedSize": 2147612
+      "compressedSize": 42784,
+      "uncompressedSize": 91236
     },
     {
       "index": 645,
       "frameStart": 2580,
       "frameCount": 4,
-      "compressedSize": 529805,
-      "uncompressedSize": 1812300
+      "compressedSize": 40889,
+      "uncompressedSize": 77204
     },
     {
       "index": 646,
       "frameStart": 2584,
       "frameCount": 4,
-      "compressedSize": 400154,
-      "uncompressedSize": 598272
+      "compressedSize": 23187,
+      "uncompressedSize": 33428
     },
     {
       "index": 647,
       "frameStart": 2588,
       "frameCount": 4,
-      "compressedSize": 372916,
-      "uncompressedSize": 554920
+      "compressedSize": 20028,
+      "uncompressedSize": 29984
     },
     {
       "index": 648,
       "frameStart": 2592,
       "frameCount": 4,
-      "compressedSize": 476793,
-      "uncompressedSize": 723104
+      "compressedSize": 27450,
+      "uncompressedSize": 38540
     },
     {
       "index": 649,
       "frameStart": 2596,
       "frameCount": 4,
-      "compressedSize": 527514,
-      "uncompressedSize": 1371644
+      "compressedSize": 34761,
+      "uncompressedSize": 63168
     },
     {
       "index": 650,
       "frameStart": 2600,
       "frameCount": 4,
-      "compressedSize": 456489,
-      "uncompressedSize": 690664
+      "compressedSize": 27413,
+      "uncompressedSize": 37380
     },
     {
       "index": 651,
       "frameStart": 2604,
       "frameCount": 4,
-      "compressedSize": 400870,
-      "uncompressedSize": 589248
+      "compressedSize": 23839,
+      "uncompressedSize": 32580
     },
     {
       "index": 652,
       "frameStart": 2608,
       "frameCount": 4,
-      "compressedSize": 329729,
-      "uncompressedSize": 470092
+      "compressedSize": 17565,
+      "uncompressedSize": 25400
     },
     {
       "index": 653,
       "frameStart": 2612,
       "frameCount": 4,
-      "compressedSize": 315064,
-      "uncompressedSize": 469700
+      "compressedSize": 17362,
+      "uncompressedSize": 25188
     },
     {
       "index": 654,
       "frameStart": 2616,
       "frameCount": 4,
-      "compressedSize": 193588,
-      "uncompressedSize": 818156
+      "compressedSize": 15838,
+      "uncompressedSize": 37236
     },
     {
       "index": 655,
       "frameStart": 2620,
       "frameCount": 4,
-      "compressedSize": 157194,
-      "uncompressedSize": 260136
+      "compressedSize": 8652,
+      "uncompressedSize": 12116
     },
     {
       "index": 656,
       "frameStart": 2624,
       "frameCount": 4,
-      "compressedSize": 130647,
-      "uncompressedSize": 211204
+      "compressedSize": 6446,
+      "uncompressedSize": 8660
     },
     {
       "index": 657,
       "frameStart": 2628,
       "frameCount": 4,
-      "compressedSize": 89433,
-      "uncompressedSize": 140984
+      "compressedSize": 3238,
+      "uncompressedSize": 4260
     },
     {
       "index": 658,
       "frameStart": 2632,
       "frameCount": 4,
-      "compressedSize": 72912,
-      "uncompressedSize": 116712
+      "compressedSize": 2608,
+      "uncompressedSize": 3732
     },
     {
       "index": 659,
       "frameStart": 2636,
       "frameCount": 4,
-      "compressedSize": 196129,
-      "uncompressedSize": 340564
+      "compressedSize": 11276,
+      "uncompressedSize": 17584
     },
     {
       "index": 660,
       "frameStart": 2640,
       "frameCount": 4,
-      "compressedSize": 120246,
-      "uncompressedSize": 211488
+      "compressedSize": 4590,
+      "uncompressedSize": 8048
     },
     {
       "index": 661,
       "frameStart": 2644,
       "frameCount": 4,
-      "compressedSize": 75784,
-      "uncompressedSize": 134064
+      "compressedSize": 1561,
+      "uncompressedSize": 2444
     },
     {
       "index": 662,
       "frameStart": 2648,
       "frameCount": 4,
-      "compressedSize": 70991,
-      "uncompressedSize": 126736
+      "compressedSize": 1404,
+      "uncompressedSize": 2368
     },
     {
       "index": 663,
       "frameStart": 2652,
       "frameCount": 4,
-      "compressedSize": 74030,
-      "uncompressedSize": 136656
+      "compressedSize": 2518,
+      "uncompressedSize": 4692
     },
     {
       "index": 664,
       "frameStart": 2656,
       "frameCount": 4,
-      "compressedSize": 261008,
-      "uncompressedSize": 490112
+      "compressedSize": 15590,
+      "uncompressedSize": 24172
     },
     {
       "index": 665,
       "frameStart": 2660,
       "frameCount": 4,
-      "compressedSize": 170230,
-      "uncompressedSize": 283236
+      "compressedSize": 6778,
+      "uncompressedSize": 11348
     },
     {
       "index": 666,
       "frameStart": 2664,
       "frameCount": 4,
-      "compressedSize": 106628,
-      "uncompressedSize": 180488
+      "compressedSize": 2160,
+      "uncompressedSize": 3592
     },
     {
       "index": 667,
       "frameStart": 2668,
       "frameCount": 4,
-      "compressedSize": 93820,
-      "uncompressedSize": 158840
+      "compressedSize": 1597,
+      "uncompressedSize": 2648
     },
     {
       "index": 668,
       "frameStart": 2672,
       "frameCount": 4,
-      "compressedSize": 154561,
-      "uncompressedSize": 281112
+      "compressedSize": 7339,
+      "uncompressedSize": 10820
     },
     {
       "index": 669,
       "frameStart": 2676,
       "frameCount": 4,
-      "compressedSize": 419314,
-      "uncompressedSize": 713144
+      "compressedSize": 25047,
+      "uncompressedSize": 37360
     },
     {
       "index": 670,
       "frameStart": 2680,
       "frameCount": 4,
-      "compressedSize": 437573,
-      "uncompressedSize": 724152
+      "compressedSize": 24476,
+      "uncompressedSize": 36840
     },
     {
       "index": 671,
       "frameStart": 2684,
       "frameCount": 4,
-      "compressedSize": 460289,
-      "uncompressedSize": 772212
+      "compressedSize": 26875,
+      "uncompressedSize": 39048
     },
     {
       "index": 672,
       "frameStart": 2688,
       "frameCount": 4,
-      "compressedSize": 424708,
-      "uncompressedSize": 698992
+      "compressedSize": 23930,
+      "uncompressedSize": 36120
     },
     {
       "index": 673,
       "frameStart": 2692,
       "frameCount": 4,
-      "compressedSize": 355795,
-      "uncompressedSize": 910648
+      "compressedSize": 21211,
+      "uncompressedSize": 43704
     },
     {
       "index": 674,
       "frameStart": 2696,
       "frameCount": 4,
-      "compressedSize": 2387,
-      "uncompressedSize": 312804
+      "compressedSize": 271,
+      "uncompressedSize": 13356
     },
     {
       "index": 675,
@@ -4762,533 +4762,533 @@
       "index": 678,
       "frameStart": 2712,
       "frameCount": 4,
-      "compressedSize": 86349,
-      "uncompressedSize": 146264
+      "compressedSize": 6315,
+      "uncompressedSize": 7272
     },
     {
       "index": 679,
       "frameStart": 2716,
       "frameCount": 4,
-      "compressedSize": 547112,
-      "uncompressedSize": 871248
+      "compressedSize": 33867,
+      "uncompressedSize": 42384
     },
     {
       "index": 680,
       "frameStart": 2720,
       "frameCount": 4,
-      "compressedSize": 489570,
-      "uncompressedSize": 693504
+      "compressedSize": 27768,
+      "uncompressedSize": 36116
     },
     {
       "index": 681,
       "frameStart": 2724,
       "frameCount": 4,
-      "compressedSize": 460792,
-      "uncompressedSize": 629712
+      "compressedSize": 25202,
+      "uncompressedSize": 33188
     },
     {
       "index": 682,
       "frameStart": 2728,
       "frameCount": 4,
-      "compressedSize": 423441,
-      "uncompressedSize": 566256
+      "compressedSize": 21381,
+      "uncompressedSize": 29416
     },
     {
       "index": 683,
       "frameStart": 2732,
       "frameCount": 4,
-      "compressedSize": 467722,
-      "uncompressedSize": 633204
+      "compressedSize": 23507,
+      "uncompressedSize": 31948
     },
     {
       "index": 684,
       "frameStart": 2736,
       "frameCount": 4,
-      "compressedSize": 660049,
-      "uncompressedSize": 1602436
+      "compressedSize": 42661,
+      "uncompressedSize": 71420
     },
     {
       "index": 685,
       "frameStart": 2740,
       "frameCount": 4,
-      "compressedSize": 528091,
-      "uncompressedSize": 800576
+      "compressedSize": 31243,
+      "uncompressedSize": 41568
     },
     {
       "index": 686,
       "frameStart": 2744,
       "frameCount": 4,
-      "compressedSize": 481093,
-      "uncompressedSize": 674436
+      "compressedSize": 26881,
+      "uncompressedSize": 36292
     },
     {
       "index": 687,
       "frameStart": 2748,
       "frameCount": 4,
-      "compressedSize": 453993,
-      "uncompressedSize": 625108
+      "compressedSize": 23499,
+      "uncompressedSize": 32844
     },
     {
       "index": 688,
       "frameStart": 2752,
       "frameCount": 4,
-      "compressedSize": 497108,
-      "uncompressedSize": 696872
+      "compressedSize": 26116,
+      "uncompressedSize": 36352
     },
     {
       "index": 689,
       "frameStart": 2756,
       "frameCount": 4,
-      "compressedSize": 611376,
-      "uncompressedSize": 1494264
+      "compressedSize": 38022,
+      "uncompressedSize": 67896
     },
     {
       "index": 690,
       "frameStart": 2760,
       "frameCount": 4,
-      "compressedSize": 533478,
-      "uncompressedSize": 748540
+      "compressedSize": 30275,
+      "uncompressedSize": 39112
     },
     {
       "index": 691,
       "frameStart": 2764,
       "frameCount": 4,
-      "compressedSize": 459390,
-      "uncompressedSize": 632840
+      "compressedSize": 25693,
+      "uncompressedSize": 33476
     },
     {
       "index": 692,
       "frameStart": 2768,
       "frameCount": 4,
-      "compressedSize": 397078,
-      "uncompressedSize": 529584
+      "compressedSize": 20617,
+      "uncompressedSize": 28260
     },
     {
       "index": 693,
       "frameStart": 2772,
       "frameCount": 4,
-      "compressedSize": 415400,
-      "uncompressedSize": 662040
+      "compressedSize": 22869,
+      "uncompressedSize": 33268
     },
     {
       "index": 694,
       "frameStart": 2776,
       "frameCount": 4,
-      "compressedSize": 202144,
-      "uncompressedSize": 891640
+      "compressedSize": 16155,
+      "uncompressedSize": 39840
     },
     {
       "index": 695,
       "frameStart": 2780,
       "frameCount": 4,
-      "compressedSize": 193998,
-      "uncompressedSize": 324756
+      "compressedSize": 10539,
+      "uncompressedSize": 15224
     },
     {
       "index": 696,
       "frameStart": 2784,
       "frameCount": 4,
-      "compressedSize": 131198,
-      "uncompressedSize": 207632
+      "compressedSize": 5786,
+      "uncompressedSize": 7868
     },
     {
       "index": 697,
       "frameStart": 2788,
       "frameCount": 4,
-      "compressedSize": 111975,
-      "uncompressedSize": 172984
+      "compressedSize": 4513,
+      "uncompressedSize": 6024
     },
     {
       "index": 698,
       "frameStart": 2792,
       "frameCount": 4,
-      "compressedSize": 90004,
-      "uncompressedSize": 148580
+      "compressedSize": 3251,
+      "uncompressedSize": 5148
     },
     {
       "index": 699,
       "frameStart": 2796,
       "frameCount": 4,
-      "compressedSize": 234456,
-      "uncompressedSize": 427056
+      "compressedSize": 13420,
+      "uncompressedSize": 20820
     },
     {
       "index": 700,
       "frameStart": 2800,
       "frameCount": 4,
-      "compressedSize": 155186,
-      "uncompressedSize": 263264
+      "compressedSize": 5887,
+      "uncompressedSize": 9728
     },
     {
       "index": 701,
       "frameStart": 2804,
       "frameCount": 4,
-      "compressedSize": 96773,
-      "uncompressedSize": 165744
+      "compressedSize": 2004,
+      "uncompressedSize": 3272
     },
     {
       "index": 702,
       "frameStart": 2808,
       "frameCount": 4,
-      "compressedSize": 84303,
-      "uncompressedSize": 147176
+      "compressedSize": 1606,
+      "uncompressedSize": 2612
     },
     {
       "index": 703,
       "frameStart": 2812,
       "frameCount": 4,
-      "compressedSize": 78960,
-      "uncompressedSize": 137740
+      "compressedSize": 2157,
+      "uncompressedSize": 3848
     },
     {
       "index": 704,
       "frameStart": 2816,
       "frameCount": 4,
-      "compressedSize": 283343,
-      "uncompressedSize": 516284
+      "compressedSize": 16982,
+      "uncompressedSize": 25788
     },
     {
       "index": 705,
       "frameStart": 2820,
       "frameCount": 4,
-      "compressedSize": 197029,
-      "uncompressedSize": 325844
+      "compressedSize": 7948,
+      "uncompressedSize": 13632
     },
     {
       "index": 706,
       "frameStart": 2824,
       "frameCount": 4,
-      "compressedSize": 122585,
-      "uncompressedSize": 201064
+      "compressedSize": 3028,
+      "uncompressedSize": 4964
     },
     {
       "index": 707,
       "frameStart": 2828,
       "frameCount": 4,
-      "compressedSize": 134123,
-      "uncompressedSize": 218688
+      "compressedSize": 3819,
+      "uncompressedSize": 6356
     },
     {
       "index": 708,
       "frameStart": 2832,
       "frameCount": 4,
-      "compressedSize": 220842,
-      "uncompressedSize": 859544
+      "compressedSize": 13845,
+      "uncompressedSize": 34092
     },
     {
       "index": 709,
       "frameStart": 2836,
       "frameCount": 4,
-      "compressedSize": 506611,
-      "uncompressedSize": 1280888
+      "compressedSize": 33287,
+      "uncompressedSize": 57340
     },
     {
       "index": 710,
       "frameStart": 2840,
       "frameCount": 4,
-      "compressedSize": 487270,
-      "uncompressedSize": 807060
+      "compressedSize": 27646,
+      "uncompressedSize": 40872
     },
     {
       "index": 711,
       "frameStart": 2844,
       "frameCount": 4,
-      "compressedSize": 529253,
-      "uncompressedSize": 870916
+      "compressedSize": 30152,
+      "uncompressedSize": 43560
     },
     {
       "index": 712,
       "frameStart": 2848,
       "frameCount": 4,
-      "compressedSize": 438249,
-      "uncompressedSize": 717620
+      "compressedSize": 22824,
+      "uncompressedSize": 34980
     },
     {
       "index": 713,
       "frameStart": 2852,
       "frameCount": 4,
-      "compressedSize": 634207,
-      "uncompressedSize": 1425608
+      "compressedSize": 42005,
+      "uncompressedSize": 63624
     },
     {
       "index": 714,
       "frameStart": 2856,
       "frameCount": 4,
-      "compressedSize": 666584,
-      "uncompressedSize": 1391340
+      "compressedSize": 41662,
+      "uncompressedSize": 64128
     },
     {
       "index": 715,
       "frameStart": 2860,
       "frameCount": 4,
-      "compressedSize": 595464,
-      "uncompressedSize": 912780
+      "compressedSize": 32543,
+      "uncompressedSize": 46180
     },
     {
       "index": 716,
       "frameStart": 2864,
       "frameCount": 4,
-      "compressedSize": 627711,
-      "uncompressedSize": 947988
+      "compressedSize": 34536,
+      "uncompressedSize": 47944
     },
     {
       "index": 717,
       "frameStart": 2868,
       "frameCount": 4,
-      "compressedSize": 544959,
-      "uncompressedSize": 825608
+      "compressedSize": 29473,
+      "uncompressedSize": 42232
     },
     {
       "index": 718,
       "frameStart": 2872,
       "frameCount": 4,
-      "compressedSize": 662006,
-      "uncompressedSize": 1948324
+      "compressedSize": 45895,
+      "uncompressedSize": 82408
     },
     {
       "index": 719,
       "frameStart": 2876,
       "frameCount": 4,
-      "compressedSize": 347548,
-      "uncompressedSize": 717728
+      "compressedSize": 25200,
+      "uncompressedSize": 37204
     },
     {
       "index": 720,
       "frameStart": 2880,
       "frameCount": 4,
-      "compressedSize": 276590,
-      "uncompressedSize": 447472
+      "compressedSize": 18357,
+      "uncompressedSize": 26264
     },
     {
       "index": 721,
       "frameStart": 2884,
       "frameCount": 4,
-      "compressedSize": 257781,
-      "uncompressedSize": 396472
+      "compressedSize": 16611,
+      "uncompressedSize": 23868
     },
     {
       "index": 722,
       "frameStart": 2888,
       "frameCount": 4,
-      "compressedSize": 267090,
-      "uncompressedSize": 397196
+      "compressedSize": 15990,
+      "uncompressedSize": 22596
     },
     {
       "index": 723,
       "frameStart": 2892,
       "frameCount": 4,
-      "compressedSize": 385942,
-      "uncompressedSize": 1161872
+      "compressedSize": 25191,
+      "uncompressedSize": 52208
     },
     {
       "index": 724,
       "frameStart": 2896,
       "frameCount": 4,
-      "compressedSize": 361230,
-      "uncompressedSize": 795412
+      "compressedSize": 26842,
+      "uncompressedSize": 42452
     },
     {
       "index": 725,
       "frameStart": 2900,
       "frameCount": 4,
-      "compressedSize": 310356,
-      "uncompressedSize": 525840
+      "compressedSize": 21144,
+      "uncompressedSize": 30684
     },
     {
       "index": 726,
       "frameStart": 2904,
       "frameCount": 4,
-      "compressedSize": 273568,
-      "uncompressedSize": 415328
+      "compressedSize": 16687,
+      "uncompressedSize": 24888
     },
     {
       "index": 727,
       "frameStart": 2908,
       "frameCount": 4,
-      "compressedSize": 319607,
-      "uncompressedSize": 480736
+      "compressedSize": 18756,
+      "uncompressedSize": 27292
     },
     {
       "index": 728,
       "frameStart": 2912,
       "frameCount": 4,
-      "compressedSize": 408994,
-      "uncompressedSize": 1291416
+      "compressedSize": 29212,
+      "uncompressedSize": 59668
     },
     {
       "index": 729,
       "frameStart": 2916,
       "frameCount": 4,
-      "compressedSize": 324337,
-      "uncompressedSize": 659664
+      "compressedSize": 24485,
+      "uncompressedSize": 37476
     },
     {
       "index": 730,
       "frameStart": 2920,
       "frameCount": 4,
-      "compressedSize": 275363,
-      "uncompressedSize": 495800
+      "compressedSize": 19783,
+      "uncompressedSize": 29572
     },
     {
       "index": 731,
       "frameStart": 2924,
       "frameCount": 4,
-      "compressedSize": 213183,
-      "uncompressedSize": 363908
+      "compressedSize": 15180,
+      "uncompressedSize": 22664
     },
     {
       "index": 732,
       "frameStart": 2928,
       "frameCount": 4,
-      "compressedSize": 189787,
-      "uncompressedSize": 333804
+      "compressedSize": 13142,
+      "uncompressedSize": 19908
     },
     {
       "index": 733,
       "frameStart": 2932,
       "frameCount": 4,
-      "compressedSize": 454976,
-      "uncompressedSize": 1197728
+      "compressedSize": 33101,
+      "uncompressedSize": 55084
     },
     {
       "index": 734,
       "frameStart": 2936,
       "frameCount": 4,
-      "compressedSize": 367864,
-      "uncompressedSize": 850224
+      "compressedSize": 26118,
+      "uncompressedSize": 39064
     },
     {
       "index": 735,
       "frameStart": 2940,
       "frameCount": 4,
-      "compressedSize": 236667,
-      "uncompressedSize": 393224
+      "compressedSize": 11809,
+      "uncompressedSize": 17212
     },
     {
       "index": 736,
       "frameStart": 2944,
       "frameCount": 4,
-      "compressedSize": 152683,
-      "uncompressedSize": 248676
+      "compressedSize": 6188,
+      "uncompressedSize": 8812
     },
     {
       "index": 737,
       "frameStart": 2948,
       "frameCount": 4,
-      "compressedSize": 135117,
-      "uncompressedSize": 225412
+      "compressedSize": 4714,
+      "uncompressedSize": 6868
     },
     {
       "index": 738,
       "frameStart": 2952,
       "frameCount": 4,
-      "compressedSize": 202999,
-      "uncompressedSize": 394568
+      "compressedSize": 11530,
+      "uncompressedSize": 17128
     },
     {
       "index": 739,
       "frameStart": 2956,
       "frameCount": 4,
-      "compressedSize": 275977,
-      "uncompressedSize": 497016
+      "compressedSize": 14878,
+      "uncompressedSize": 23372
     },
     {
       "index": 740,
       "frameStart": 2960,
       "frameCount": 4,
-      "compressedSize": 139665,
-      "uncompressedSize": 230860
+      "compressedSize": 4336,
+      "uncompressedSize": 7064
     },
     {
       "index": 741,
       "frameStart": 2964,
       "frameCount": 4,
-      "compressedSize": 115352,
-      "uncompressedSize": 192084
+      "compressedSize": 2584,
+      "uncompressedSize": 4268
     },
     {
       "index": 742,
       "frameStart": 2968,
       "frameCount": 4,
-      "compressedSize": 83357,
-      "uncompressedSize": 142780
+      "compressedSize": 1460,
+      "uncompressedSize": 2400
     },
     {
       "index": 743,
       "frameStart": 2972,
       "frameCount": 4,
-      "compressedSize": 243902,
-      "uncompressedSize": 445072
+      "compressedSize": 14222,
+      "uncompressedSize": 20992
     },
     {
       "index": 744,
       "frameStart": 2976,
       "frameCount": 4,
-      "compressedSize": 241143,
-      "uncompressedSize": 414932
+      "compressedSize": 10453,
+      "uncompressedSize": 17632
     },
     {
       "index": 745,
       "frameStart": 2980,
       "frameCount": 4,
-      "compressedSize": 171495,
-      "uncompressedSize": 295128
+      "compressedSize": 5482,
+      "uncompressedSize": 9604
     },
     {
       "index": 746,
       "frameStart": 2984,
       "frameCount": 4,
-      "compressedSize": 157166,
-      "uncompressedSize": 256792
+      "compressedSize": 4025,
+      "uncompressedSize": 6488
     },
     {
       "index": 747,
       "frameStart": 2988,
       "frameCount": 4,
-      "compressedSize": 121254,
-      "uncompressedSize": 186600
+      "compressedSize": 3667,
+      "uncompressedSize": 5460
     },
     {
       "index": 748,
       "frameStart": 2992,
       "frameCount": 4,
-      "compressedSize": 366290,
-      "uncompressedSize": 697196
+      "compressedSize": 21760,
+      "uncompressedSize": 31132
     },
     {
       "index": 749,
       "frameStart": 2996,
       "frameCount": 4,
-      "compressedSize": 643336,
-      "uncompressedSize": 1055772
+      "compressedSize": 36919,
+      "uncompressedSize": 51508
     },
     {
       "index": 750,
       "frameStart": 3000,
       "frameCount": 4,
-      "compressedSize": 650083,
-      "uncompressedSize": 1030152
+      "compressedSize": 35683,
+      "uncompressedSize": 49084
     },
     {
       "index": 751,
       "frameStart": 3004,
       "frameCount": 4,
-      "compressedSize": 640362,
-      "uncompressedSize": 994676
+      "compressedSize": 35294,
+      "uncompressedSize": 48396
     },
     {
       "index": 752,
       "frameStart": 3008,
       "frameCount": 4,
-      "compressedSize": 576920,
-      "uncompressedSize": 890312
+      "compressedSize": 30425,
+      "uncompressedSize": 42068
     },
     {
       "index": 753,
       "frameStart": 3012,
       "frameCount": 4,
-      "compressedSize": 360762,
-      "uncompressedSize": 1607800
+      "compressedSize": 22137,
+      "uncompressedSize": 69336
     },
     {
       "index": 754,
@@ -5329,239 +5329,239 @@
       "index": 759,
       "frameStart": 3036,
       "frameCount": 4,
-      "compressedSize": 586065,
-      "uncompressedSize": 838888
+      "compressedSize": 34023,
+      "uncompressedSize": 42020
     },
     {
       "index": 760,
       "frameStart": 3040,
       "frameCount": 4,
-      "compressedSize": 563007,
-      "uncompressedSize": 772328
+      "compressedSize": 31138,
+      "uncompressedSize": 39324
     },
     {
       "index": 761,
       "frameStart": 3044,
       "frameCount": 4,
-      "compressedSize": 509046,
-      "uncompressedSize": 667828
+      "compressedSize": 26027,
+      "uncompressedSize": 33844
     },
     {
       "index": 762,
       "frameStart": 3048,
       "frameCount": 4,
-      "compressedSize": 503332,
-      "uncompressedSize": 648392
+      "compressedSize": 24986,
+      "uncompressedSize": 33212
     },
     {
       "index": 763,
       "frameStart": 3052,
       "frameCount": 4,
-      "compressedSize": 515324,
-      "uncompressedSize": 666824
+      "compressedSize": 24740,
+      "uncompressedSize": 32932
     },
     {
       "index": 764,
       "frameStart": 3056,
       "frameCount": 4,
-      "compressedSize": 665693,
-      "uncompressedSize": 1411984
+      "compressedSize": 39871,
+      "uncompressedSize": 63356
     },
     {
       "index": 765,
       "frameStart": 3060,
       "frameCount": 4,
-      "compressedSize": 550284,
-      "uncompressedSize": 818512
+      "compressedSize": 31713,
+      "uncompressedSize": 41676
     },
     {
       "index": 766,
       "frameStart": 3064,
       "frameCount": 4,
-      "compressedSize": 505128,
-      "uncompressedSize": 666236
+      "compressedSize": 26621,
+      "uncompressedSize": 34692
     },
     {
       "index": 767,
       "frameStart": 3068,
       "frameCount": 4,
-      "compressedSize": 501629,
-      "uncompressedSize": 654672
+      "compressedSize": 25383,
+      "uncompressedSize": 33804
     },
     {
       "index": 768,
       "frameStart": 3072,
       "frameCount": 4,
-      "compressedSize": 539707,
-      "uncompressedSize": 715116
+      "compressedSize": 26310,
+      "uncompressedSize": 35360
     },
     {
       "index": 769,
       "frameStart": 3076,
       "frameCount": 4,
-      "compressedSize": 598810,
-      "uncompressedSize": 1386628
+      "compressedSize": 35438,
+      "uncompressedSize": 62696
     },
     {
       "index": 770,
       "frameStart": 3080,
       "frameCount": 4,
-      "compressedSize": 572024,
-      "uncompressedSize": 781464
+      "compressedSize": 31454,
+      "uncompressedSize": 39792
     },
     {
       "index": 771,
       "frameStart": 3084,
       "frameCount": 4,
-      "compressedSize": 493145,
-      "uncompressedSize": 655288
+      "compressedSize": 26558,
+      "uncompressedSize": 33760
     },
     {
       "index": 772,
       "frameStart": 3088,
       "frameCount": 4,
-      "compressedSize": 410150,
-      "uncompressedSize": 535412
+      "compressedSize": 20117,
+      "uncompressedSize": 27292
     },
     {
       "index": 773,
       "frameStart": 3092,
       "frameCount": 4,
-      "compressedSize": 454422,
-      "uncompressedSize": 633100
+      "compressedSize": 23797,
+      "uncompressedSize": 31452
     },
     {
       "index": 774,
       "frameStart": 3096,
       "frameCount": 4,
-      "compressedSize": 299348,
-      "uncompressedSize": 637044
+      "compressedSize": 19985,
+      "uncompressedSize": 31516
     },
     {
       "index": 775,
       "frameStart": 3100,
       "frameCount": 4,
-      "compressedSize": 185916,
-      "uncompressedSize": 309856
+      "compressedSize": 9495,
+      "uncompressedSize": 13688
     },
     {
       "index": 776,
       "frameStart": 3104,
       "frameCount": 4,
-      "compressedSize": 193021,
-      "uncompressedSize": 323096
+      "compressedSize": 10931,
+      "uncompressedSize": 14812
     },
     {
       "index": 777,
       "frameStart": 3108,
       "frameCount": 4,
-      "compressedSize": 193530,
-      "uncompressedSize": 315320
+      "compressedSize": 11471,
+      "uncompressedSize": 16268
     },
     {
       "index": 778,
       "frameStart": 3112,
       "frameCount": 4,
-      "compressedSize": 203333,
-      "uncompressedSize": 324608
+      "compressedSize": 11946,
+      "uncompressedSize": 17240
     },
     {
       "index": 779,
       "frameStart": 3116,
       "frameCount": 4,
-      "compressedSize": 280733,
-      "uncompressedSize": 484028
+      "compressedSize": 17066,
+      "uncompressedSize": 24760
     },
     {
       "index": 780,
       "frameStart": 3120,
       "frameCount": 4,
-      "compressedSize": 259179,
-      "uncompressedSize": 395588
+      "compressedSize": 13574,
+      "uncompressedSize": 20584
     },
     {
       "index": 781,
       "frameStart": 3124,
       "frameCount": 4,
-      "compressedSize": 235524,
-      "uncompressedSize": 362988
+      "compressedSize": 11743,
+      "uncompressedSize": 18372
     },
     {
       "index": 782,
       "frameStart": 3128,
       "frameCount": 4,
-      "compressedSize": 191906,
-      "uncompressedSize": 300840
+      "compressedSize": 8823,
+      "uncompressedSize": 14496
     },
     {
       "index": 783,
       "frameStart": 3132,
       "frameCount": 4,
-      "compressedSize": 194870,
-      "uncompressedSize": 345764
+      "compressedSize": 9638,
+      "uncompressedSize": 16284
     },
     {
       "index": 784,
       "frameStart": 3136,
       "frameCount": 4,
-      "compressedSize": 375517,
-      "uncompressedSize": 584692
+      "compressedSize": 19968,
+      "uncompressedSize": 30004
     },
     {
       "index": 785,
       "frameStart": 3140,
       "frameCount": 4,
-      "compressedSize": 263828,
-      "uncompressedSize": 397388
+      "compressedSize": 11393,
+      "uncompressedSize": 18412
     },
     {
       "index": 786,
       "frameStart": 3144,
       "frameCount": 4,
-      "compressedSize": 240080,
-      "uncompressedSize": 363896
+      "compressedSize": 9955,
+      "uncompressedSize": 16380
     },
     {
       "index": 787,
       "frameStart": 3148,
       "frameCount": 4,
-      "compressedSize": 231614,
-      "uncompressedSize": 356600
+      "compressedSize": 10379,
+      "uncompressedSize": 16844
     },
     {
       "index": 788,
       "frameStart": 3152,
       "frameCount": 4,
-      "compressedSize": 277258,
-      "uncompressedSize": 427040
+      "compressedSize": 13371,
+      "uncompressedSize": 20968
     },
     {
       "index": 789,
       "frameStart": 3156,
       "frameCount": 4,
-      "compressedSize": 371551,
-      "uncompressedSize": 557792
+      "compressedSize": 18612,
+      "uncompressedSize": 29288
     },
     {
       "index": 790,
       "frameStart": 3160,
       "frameCount": 4,
-      "compressedSize": 244380,
-      "uncompressedSize": 368392
+      "compressedSize": 10288,
+      "uncompressedSize": 17520
     },
     {
       "index": 791,
       "frameStart": 3164,
       "frameCount": 4,
-      "compressedSize": 204677,
-      "uncompressedSize": 314180
+      "compressedSize": 8400,
+      "uncompressedSize": 13932
     },
     {
       "index": 792,
       "frameStart": 3168,
       "frameCount": 4,
-      "compressedSize": 9690,
-      "uncompressedSize": 224620
+      "compressedSize": 950,
+      "uncompressedSize": 10604
     },
     {
       "index": 793,
@@ -5630,253 +5630,253 @@
       "index": 802,
       "frameStart": 3208,
       "frameCount": 4,
-      "compressedSize": 74823,
-      "uncompressedSize": 166604
+      "compressedSize": 6334,
+      "uncompressedSize": 8024
     },
     {
       "index": 803,
       "frameStart": 3212,
       "frameCount": 4,
-      "compressedSize": 480775,
-      "uncompressedSize": 882240
+      "compressedSize": 32914,
+      "uncompressedSize": 42988
     },
     {
       "index": 804,
       "frameStart": 3216,
       "frameCount": 4,
-      "compressedSize": 400441,
-      "uncompressedSize": 617788
+      "compressedSize": 24412,
+      "uncompressedSize": 34028
     },
     {
       "index": 805,
       "frameStart": 3220,
       "frameCount": 4,
-      "compressedSize": 355770,
-      "uncompressedSize": 525108
+      "compressedSize": 20464,
+      "uncompressedSize": 29344
     },
     {
       "index": 806,
       "frameStart": 3224,
       "frameCount": 4,
-      "compressedSize": 358111,
-      "uncompressedSize": 515196
+      "compressedSize": 19402,
+      "uncompressedSize": 27964
     },
     {
       "index": 807,
       "frameStart": 3228,
       "frameCount": 4,
-      "compressedSize": 399840,
-      "uncompressedSize": 562520
+      "compressedSize": 20902,
+      "uncompressedSize": 29628
     },
     {
       "index": 808,
       "frameStart": 3232,
       "frameCount": 4,
-      "compressedSize": 535961,
-      "uncompressedSize": 1439556
+      "compressedSize": 35185,
+      "uncompressedSize": 65560
     },
     {
       "index": 809,
       "frameStart": 3236,
       "frameCount": 4,
-      "compressedSize": 440760,
-      "uncompressedSize": 735408
+      "compressedSize": 28072,
+      "uncompressedSize": 40340
     },
     {
       "index": 810,
       "frameStart": 3240,
       "frameCount": 4,
-      "compressedSize": 390312,
-      "uncompressedSize": 584832
+      "compressedSize": 22435,
+      "uncompressedSize": 32684
     },
     {
       "index": 811,
       "frameStart": 3244,
       "frameCount": 4,
-      "compressedSize": 384849,
-      "uncompressedSize": 570600
+      "compressedSize": 21063,
+      "uncompressedSize": 31316
     },
     {
       "index": 812,
       "frameStart": 3248,
       "frameCount": 4,
-      "compressedSize": 450404,
-      "uncompressedSize": 686880
+      "compressedSize": 25430,
+      "uncompressedSize": 36196
     },
     {
       "index": 813,
       "frameStart": 3252,
       "frameCount": 4,
-      "compressedSize": 523563,
-      "uncompressedSize": 1352612
+      "compressedSize": 34506,
+      "uncompressedSize": 62588
     },
     {
       "index": 814,
       "frameStart": 3256,
       "frameCount": 4,
-      "compressedSize": 460105,
-      "uncompressedSize": 719312
+      "compressedSize": 28227,
+      "uncompressedSize": 38640
     },
     {
       "index": 815,
       "frameStart": 3260,
       "frameCount": 4,
-      "compressedSize": 388356,
-      "uncompressedSize": 577096
+      "compressedSize": 22868,
+      "uncompressedSize": 31876
     },
     {
       "index": 816,
       "frameStart": 3264,
       "frameCount": 4,
-      "compressedSize": 325396,
-      "uncompressedSize": 469068
+      "compressedSize": 17039,
+      "uncompressedSize": 25360
     },
     {
       "index": 817,
       "frameStart": 3268,
       "frameCount": 4,
-      "compressedSize": 266960,
-      "uncompressedSize": 583384
+      "compressedSize": 15337,
+      "uncompressedSize": 29804
     },
     {
       "index": 818,
       "frameStart": 3272,
       "frameCount": 4,
-      "compressedSize": 206464,
-      "uncompressedSize": 658204
+      "compressedSize": 15753,
+      "uncompressedSize": 29636
     },
     {
       "index": 819,
       "frameStart": 3276,
       "frameCount": 4,
-      "compressedSize": 152491,
-      "uncompressedSize": 252564
+      "compressedSize": 7916,
+      "uncompressedSize": 10824
     },
     {
       "index": 820,
       "frameStart": 3280,
       "frameCount": 4,
-      "compressedSize": 127195,
-      "uncompressedSize": 199904
+      "compressedSize": 6019,
+      "uncompressedSize": 7836
     },
     {
       "index": 821,
       "frameStart": 3284,
       "frameCount": 4,
-      "compressedSize": 83574,
-      "uncompressedSize": 129756
+      "compressedSize": 3015,
+      "uncompressedSize": 3912
     },
     {
       "index": 822,
       "frameStart": 3288,
       "frameCount": 4,
-      "compressedSize": 113402,
-      "uncompressedSize": 193088
+      "compressedSize": 5534,
+      "uncompressedSize": 8660
     },
     {
       "index": 823,
       "frameStart": 3292,
       "frameCount": 4,
-      "compressedSize": 203742,
-      "uncompressedSize": 378316
+      "compressedSize": 12031,
+      "uncompressedSize": 19268
     },
     {
       "index": 824,
       "frameStart": 3296,
       "frameCount": 4,
-      "compressedSize": 109636,
-      "uncompressedSize": 196104
+      "compressedSize": 3587,
+      "uncompressedSize": 6172
     },
     {
       "index": 825,
       "frameStart": 3300,
       "frameCount": 4,
-      "compressedSize": 92427,
-      "uncompressedSize": 160888
+      "compressedSize": 2153,
+      "uncompressedSize": 3696
     },
     {
       "index": 826,
       "frameStart": 3304,
       "frameCount": 4,
-      "compressedSize": 58084,
-      "uncompressedSize": 103768
+      "compressedSize": 904,
+      "uncompressedSize": 1460
     },
     {
       "index": 827,
       "frameStart": 3308,
       "frameCount": 4,
-      "compressedSize": 85494,
-      "uncompressedSize": 155304
+      "compressedSize": 2886,
+      "uncompressedSize": 5424
     },
     {
       "index": 828,
       "frameStart": 3312,
       "frameCount": 4,
-      "compressedSize": 256043,
-      "uncompressedSize": 454368
+      "compressedSize": 15403,
+      "uncompressedSize": 24380
     },
     {
       "index": 829,
       "frameStart": 3316,
       "frameCount": 4,
-      "compressedSize": 154822,
-      "uncompressedSize": 259496
+      "compressedSize": 5712,
+      "uncompressedSize": 9800
     },
     {
       "index": 830,
       "frameStart": 3320,
       "frameCount": 4,
-      "compressedSize": 127089,
-      "uncompressedSize": 212044
+      "compressedSize": 3178,
+      "uncompressedSize": 5444
     },
     {
       "index": 831,
       "frameStart": 3324,
       "frameCount": 4,
-      "compressedSize": 93836,
-      "uncompressedSize": 157120
+      "compressedSize": 2720,
+      "uncompressedSize": 4620
     },
     {
       "index": 832,
       "frameStart": 3328,
       "frameCount": 4,
-      "compressedSize": 238595,
-      "uncompressedSize": 424568
+      "compressedSize": 13466,
+      "uncompressedSize": 19364
     },
     {
       "index": 833,
       "frameStart": 3332,
       "frameCount": 4,
-      "compressedSize": 430994,
-      "uncompressedSize": 724656
+      "compressedSize": 24968,
+      "uncompressedSize": 36008
     },
     {
       "index": 834,
       "frameStart": 3336,
       "frameCount": 4,
-      "compressedSize": 451549,
-      "uncompressedSize": 776032
+      "compressedSize": 26752,
+      "uncompressedSize": 39656
     },
     {
       "index": 835,
       "frameStart": 3340,
       "frameCount": 4,
-      "compressedSize": 457993,
-      "uncompressedSize": 769716
+      "compressedSize": 26481,
+      "uncompressedSize": 39448
     },
     {
       "index": 836,
       "frameStart": 3344,
       "frameCount": 4,
-      "compressedSize": 428215,
-      "uncompressedSize": 702652
+      "compressedSize": 24046,
+      "uncompressedSize": 35592
     },
     {
       "index": 837,
       "frameStart": 3348,
       "frameCount": 4,
-      "compressedSize": 259321,
-      "uncompressedSize": 1052844
+      "compressedSize": 16160,
+      "uncompressedSize": 48012
     },
     {
       "index": 838,
@@ -5917,526 +5917,526 @@
       "index": 843,
       "frameStart": 3372,
       "frameCount": 4,
-      "compressedSize": 550015,
-      "uncompressedSize": 874120
+      "compressedSize": 34122,
+      "uncompressedSize": 42456
     },
     {
       "index": 844,
       "frameStart": 3376,
       "frameCount": 4,
-      "compressedSize": 497609,
-      "uncompressedSize": 705168
+      "compressedSize": 28262,
+      "uncompressedSize": 36676
     },
     {
       "index": 845,
       "frameStart": 3380,
       "frameCount": 4,
-      "compressedSize": 449731,
-      "uncompressedSize": 613296
+      "compressedSize": 24340,
+      "uncompressedSize": 32620
     },
     {
       "index": 846,
       "frameStart": 3384,
       "frameCount": 4,
-      "compressedSize": 441147,
-      "uncompressedSize": 589972
+      "compressedSize": 22801,
+      "uncompressedSize": 30948
     },
     {
       "index": 847,
       "frameStart": 3388,
       "frameCount": 4,
-      "compressedSize": 509528,
-      "uncompressedSize": 676808
+      "compressedSize": 26533,
+      "uncompressedSize": 34724
     },
     {
       "index": 848,
       "frameStart": 3392,
       "frameCount": 4,
-      "compressedSize": 621178,
-      "uncompressedSize": 1434832
+      "compressedSize": 39226,
+      "uncompressedSize": 65352
     },
     {
       "index": 849,
       "frameStart": 3396,
       "frameCount": 4,
-      "compressedSize": 504961,
-      "uncompressedSize": 747744
+      "compressedSize": 29505,
+      "uncompressedSize": 39460
     },
     {
       "index": 850,
       "frameStart": 3400,
       "frameCount": 4,
-      "compressedSize": 474953,
-      "uncompressedSize": 662348
+      "compressedSize": 26122,
+      "uncompressedSize": 35292
     },
     {
       "index": 851,
       "frameStart": 3404,
       "frameCount": 4,
-      "compressedSize": 454513,
-      "uncompressedSize": 623916
+      "compressedSize": 23324,
+      "uncompressedSize": 32644
     },
     {
       "index": 852,
       "frameStart": 3408,
       "frameCount": 4,
-      "compressedSize": 550824,
-      "uncompressedSize": 894704
+      "compressedSize": 31038,
+      "uncompressedSize": 45188
     },
     {
       "index": 853,
       "frameStart": 3412,
       "frameCount": 4,
-      "compressedSize": 596490,
-      "uncompressedSize": 1398364
+      "compressedSize": 36497,
+      "uncompressedSize": 63224
     },
     {
       "index": 854,
       "frameStart": 3416,
       "frameCount": 4,
-      "compressedSize": 522194,
-      "uncompressedSize": 725888
+      "compressedSize": 29158,
+      "uncompressedSize": 37752
     },
     {
       "index": 855,
       "frameStart": 3420,
       "frameCount": 4,
-      "compressedSize": 457594,
-      "uncompressedSize": 623628
+      "compressedSize": 25335,
+      "uncompressedSize": 32832
     },
     {
       "index": 856,
       "frameStart": 3424,
       "frameCount": 4,
-      "compressedSize": 385549,
-      "uncompressedSize": 516264
+      "compressedSize": 19347,
+      "uncompressedSize": 26740
     },
     {
       "index": 857,
       "frameStart": 3428,
       "frameCount": 4,
-      "compressedSize": 433784,
-      "uncompressedSize": 687968
+      "compressedSize": 24246,
+      "uncompressedSize": 34844
     },
     {
       "index": 858,
       "frameStart": 3432,
       "frameCount": 4,
-      "compressedSize": 213624,
-      "uncompressedSize": 985008
+      "compressedSize": 18107,
+      "uncompressedSize": 44388
     },
     {
       "index": 859,
       "frameStart": 3436,
       "frameCount": 4,
-      "compressedSize": 176714,
-      "uncompressedSize": 287536
+      "compressedSize": 9255,
+      "uncompressedSize": 13000
     },
     {
       "index": 860,
       "frameStart": 3440,
       "frameCount": 4,
-      "compressedSize": 153210,
-      "uncompressedSize": 246640
+      "compressedSize": 7448,
+      "uncompressedSize": 10504
     },
     {
       "index": 861,
       "frameStart": 3444,
       "frameCount": 4,
-      "compressedSize": 99535,
-      "uncompressedSize": 153428
+      "compressedSize": 3840,
+      "uncompressedSize": 5172
     },
     {
       "index": 862,
       "frameStart": 3448,
       "frameCount": 4,
-      "compressedSize": 107550,
-      "uncompressedSize": 183340
+      "compressedSize": 4092,
+      "uncompressedSize": 6648
     },
     {
       "index": 863,
       "frameStart": 3452,
       "frameCount": 4,
-      "compressedSize": 225359,
-      "uncompressedSize": 399424
+      "compressedSize": 12323,
+      "uncompressedSize": 19472
     },
     {
       "index": 864,
       "frameStart": 3456,
       "frameCount": 4,
-      "compressedSize": 120467,
-      "uncompressedSize": 197904
+      "compressedSize": 3681,
+      "uncompressedSize": 6032
     },
     {
       "index": 865,
       "frameStart": 3460,
       "frameCount": 4,
-      "compressedSize": 89117,
-      "uncompressedSize": 151220
+      "compressedSize": 1868,
+      "uncompressedSize": 3040
     },
     {
       "index": 866,
       "frameStart": 3464,
       "frameCount": 4,
-      "compressedSize": 88884,
-      "uncompressedSize": 154280
+      "compressedSize": 1874,
+      "uncompressedSize": 3176
     },
     {
       "index": 867,
       "frameStart": 3468,
       "frameCount": 4,
-      "compressedSize": 83277,
-      "uncompressedSize": 150288
+      "compressedSize": 2411,
+      "uncompressedSize": 4532
     },
     {
       "index": 868,
       "frameStart": 3472,
       "frameCount": 4,
-      "compressedSize": 304476,
-      "uncompressedSize": 551200
+      "compressedSize": 18599,
+      "uncompressedSize": 28472
     },
     {
       "index": 869,
       "frameStart": 3476,
       "frameCount": 4,
-      "compressedSize": 162524,
-      "uncompressedSize": 265988
+      "compressedSize": 5253,
+      "uncompressedSize": 8816
     },
     {
       "index": 870,
       "frameStart": 3480,
       "frameCount": 4,
-      "compressedSize": 118128,
-      "uncompressedSize": 192404
+      "compressedSize": 2768,
+      "uncompressedSize": 4472
     },
     {
       "index": 871,
       "frameStart": 3484,
       "frameCount": 4,
-      "compressedSize": 129801,
-      "uncompressedSize": 210268
+      "compressedSize": 3274,
+      "uncompressedSize": 5440
     },
     {
       "index": 872,
       "frameStart": 3488,
       "frameCount": 4,
-      "compressedSize": 137330,
-      "uncompressedSize": 226656
+      "compressedSize": 4528,
+      "uncompressedSize": 7712
     },
     {
       "index": 873,
       "frameStart": 3492,
       "frameCount": 4,
-      "compressedSize": 552204,
-      "uncompressedSize": 1765348
+      "compressedSize": 38493,
+      "uncompressedSize": 75384
     },
     {
       "index": 874,
       "frameStart": 3496,
       "frameCount": 4,
-      "compressedSize": 497376,
-      "uncompressedSize": 810256
+      "compressedSize": 28441,
+      "uncompressedSize": 41752
     },
     {
       "index": 875,
       "frameStart": 3500,
       "frameCount": 4,
-      "compressedSize": 517899,
-      "uncompressedSize": 858508
+      "compressedSize": 29065,
+      "uncompressedSize": 42332
     },
     {
       "index": 876,
       "frameStart": 3504,
       "frameCount": 4,
-      "compressedSize": 463455,
-      "uncompressedSize": 751436
+      "compressedSize": 25052,
+      "uncompressedSize": 37596
     },
     {
       "index": 877,
       "frameStart": 3508,
       "frameCount": 4,
-      "compressedSize": 589237,
-      "uncompressedSize": 1339308
+      "compressedSize": 38720,
+      "uncompressedSize": 59712
     },
     {
       "index": 878,
       "frameStart": 3512,
       "frameCount": 4,
-      "compressedSize": 688723,
-      "uncompressedSize": 1440944
+      "compressedSize": 43730,
+      "uncompressedSize": 67192
     },
     {
       "index": 879,
       "frameStart": 3516,
       "frameCount": 4,
-      "compressedSize": 635236,
-      "uncompressedSize": 967048
+      "compressedSize": 35552,
+      "uncompressedSize": 49564
     },
     {
       "index": 880,
       "frameStart": 3520,
       "frameCount": 4,
-      "compressedSize": 563544,
-      "uncompressedSize": 863432
+      "compressedSize": 29905,
+      "uncompressedSize": 42732
     },
     {
       "index": 881,
       "frameStart": 3524,
       "frameCount": 4,
-      "compressedSize": 528675,
-      "uncompressedSize": 795128
+      "compressedSize": 27893,
+      "uncompressedSize": 40028
     },
     {
       "index": 882,
       "frameStart": 3528,
       "frameCount": 4,
-      "compressedSize": 740890,
-      "uncompressedSize": 2293664
+      "compressedSize": 57053,
+      "uncompressedSize": 96036
     },
     {
       "index": 883,
       "frameStart": 3532,
       "frameCount": 4,
-      "compressedSize": 329960,
-      "uncompressedSize": 659836
+      "compressedSize": 23609,
+      "uncompressedSize": 35052
     },
     {
       "index": 884,
       "frameStart": 3536,
       "frameCount": 4,
-      "compressedSize": 263337,
-      "uncompressedSize": 422496
+      "compressedSize": 17558,
+      "uncompressedSize": 25316
     },
     {
       "index": 885,
       "frameStart": 3540,
       "frameCount": 4,
-      "compressedSize": 256984,
-      "uncompressedSize": 399272
+      "compressedSize": 16416,
+      "uncompressedSize": 23336
     },
     {
       "index": 886,
       "frameStart": 3544,
       "frameCount": 4,
-      "compressedSize": 274527,
-      "uncompressedSize": 436496
+      "compressedSize": 16213,
+      "uncompressedSize": 23904
     },
     {
       "index": 887,
       "frameStart": 3548,
       "frameCount": 4,
-      "compressedSize": 374047,
-      "uncompressedSize": 1112008
+      "compressedSize": 24424,
+      "uncompressedSize": 50236
     },
     {
       "index": 888,
       "frameStart": 3552,
       "frameCount": 4,
-      "compressedSize": 392354,
-      "uncompressedSize": 905640
+      "compressedSize": 29877,
+      "uncompressedSize": 46996
     },
     {
       "index": 889,
       "frameStart": 3556,
       "frameCount": 4,
-      "compressedSize": 305967,
-      "uncompressedSize": 499840
+      "compressedSize": 20195,
+      "uncompressedSize": 29400
     },
     {
       "index": 890,
       "frameStart": 3560,
       "frameCount": 4,
-      "compressedSize": 290141,
-      "uncompressedSize": 457980
+      "compressedSize": 18275,
+      "uncompressedSize": 26848
     },
     {
       "index": 891,
       "frameStart": 3564,
       "frameCount": 4,
-      "compressedSize": 294919,
-      "uncompressedSize": 435736
+      "compressedSize": 16884,
+      "uncompressedSize": 25040
     },
     {
       "index": 892,
       "frameStart": 3568,
       "frameCount": 4,
-      "compressedSize": 392136,
-      "uncompressedSize": 1271200
+      "compressedSize": 28135,
+      "uncompressedSize": 59084
     },
     {
       "index": 893,
       "frameStart": 3572,
       "frameCount": 4,
-      "compressedSize": 334584,
-      "uncompressedSize": 667140
+      "compressedSize": 25382,
+      "uncompressedSize": 38232
     },
     {
       "index": 894,
       "frameStart": 3576,
       "frameCount": 4,
-      "compressedSize": 266285,
-      "uncompressedSize": 463200
+      "compressedSize": 18997,
+      "uncompressedSize": 28352
     },
     {
       "index": 895,
       "frameStart": 3580,
       "frameCount": 4,
-      "compressedSize": 217843,
-      "uncompressedSize": 397008
+      "compressedSize": 15896,
+      "uncompressedSize": 23776
     },
     {
       "index": 896,
       "frameStart": 3584,
       "frameCount": 4,
-      "compressedSize": 191924,
-      "uncompressedSize": 334700
+      "compressedSize": 12732,
+      "uncompressedSize": 19532
     },
     {
       "index": 897,
       "frameStart": 3588,
       "frameCount": 4,
-      "compressedSize": 425291,
-      "uncompressedSize": 1273028
+      "compressedSize": 34578,
+      "uncompressedSize": 58472
     },
     {
       "index": 898,
       "frameStart": 3592,
       "frameCount": 4,
-      "compressedSize": 353138,
-      "uncompressedSize": 725192
+      "compressedSize": 22979,
+      "uncompressedSize": 34324
     },
     {
       "index": 899,
       "frameStart": 3596,
       "frameCount": 4,
-      "compressedSize": 204587,
-      "uncompressedSize": 332400
+      "compressedSize": 9312,
+      "uncompressedSize": 13620
     },
     {
       "index": 900,
       "frameStart": 3600,
       "frameCount": 4,
-      "compressedSize": 140820,
-      "uncompressedSize": 232088
+      "compressedSize": 5529,
+      "uncompressedSize": 7904
     },
     {
       "index": 901,
       "frameStart": 3604,
       "frameCount": 4,
-      "compressedSize": 129068,
-      "uncompressedSize": 218444
+      "compressedSize": 4649,
+      "uncompressedSize": 6892
     },
     {
       "index": 902,
       "frameStart": 3608,
       "frameCount": 4,
-      "compressedSize": 267484,
-      "uncompressedSize": 510152
+      "compressedSize": 16353,
+      "uncompressedSize": 25124
     },
     {
       "index": 903,
       "frameStart": 3612,
       "frameCount": 4,
-      "compressedSize": 251816,
-      "uncompressedSize": 434460
+      "compressedSize": 12582,
+      "uncompressedSize": 20192
     },
     {
       "index": 904,
       "frameStart": 3616,
       "frameCount": 4,
-      "compressedSize": 145153,
-      "uncompressedSize": 244432
+      "compressedSize": 4212,
+      "uncompressedSize": 6884
     },
     {
       "index": 905,
       "frameStart": 3620,
       "frameCount": 4,
-      "compressedSize": 99135,
-      "uncompressedSize": 162208
+      "compressedSize": 2283,
+      "uncompressedSize": 3664
     },
     {
       "index": 906,
       "frameStart": 3624,
       "frameCount": 4,
-      "compressedSize": 99218,
-      "uncompressedSize": 169748
+      "compressedSize": 1859,
+      "uncompressedSize": 3020
     },
     {
       "index": 907,
       "frameStart": 3628,
       "frameCount": 4,
-      "compressedSize": 230283,
-      "uncompressedSize": 431348
+      "compressedSize": 14096,
+      "uncompressedSize": 20904
     },
     {
       "index": 908,
       "frameStart": 3632,
       "frameCount": 4,
-      "compressedSize": 282625,
-      "uncompressedSize": 502516
+      "compressedSize": 14362,
+      "uncompressedSize": 23740
     },
     {
       "index": 909,
       "frameStart": 3636,
       "frameCount": 4,
-      "compressedSize": 180278,
-      "uncompressedSize": 307184
+      "compressedSize": 5373,
+      "uncompressedSize": 9272
     },
     {
       "index": 910,
       "frameStart": 3640,
       "frameCount": 4,
-      "compressedSize": 125347,
-      "uncompressedSize": 202536
+      "compressedSize": 3277,
+      "uncompressedSize": 5316
     },
     {
       "index": 911,
       "frameStart": 3644,
       "frameCount": 4,
-      "compressedSize": 156339,
-      "uncompressedSize": 240124
+      "compressedSize": 5354,
+      "uncompressedSize": 8156
     },
     {
       "index": 912,
       "frameStart": 3648,
       "frameCount": 4,
-      "compressedSize": 484335,
-      "uncompressedSize": 923768
+      "compressedSize": 30232,
+      "uncompressedSize": 42952
     },
     {
       "index": 913,
       "frameStart": 3652,
       "frameCount": 4,
-      "compressedSize": 626618,
-      "uncompressedSize": 991484
+      "compressedSize": 34616,
+      "uncompressedSize": 47992
     },
     {
       "index": 914,
       "frameStart": 3656,
       "frameCount": 4,
-      "compressedSize": 663079,
-      "uncompressedSize": 1041496
+      "compressedSize": 36800,
+      "uncompressedSize": 49948
     },
     {
       "index": 915,
       "frameStart": 3660,
       "frameCount": 4,
-      "compressedSize": 631018,
-      "uncompressedSize": 980572
+      "compressedSize": 34530,
+      "uncompressedSize": 47508
     },
     {
       "index": 916,
       "frameStart": 3664,
       "frameCount": 4,
-      "compressedSize": 557638,
-      "uncompressedSize": 875252
+      "compressedSize": 29050,
+      "uncompressedSize": 40232
     },
     {
       "index": 917,
       "frameStart": 3668,
       "frameCount": 4,
-      "compressedSize": 229428,
-      "uncompressedSize": 1390696
+      "compressedSize": 15539,
+      "uncompressedSize": 59860
     },
     {
       "index": 918,
@@ -6463,8 +6463,8 @@
       "index": 921,
       "frameStart": 3684,
       "frameCount": 4,
-      "compressedSize": 38,
-      "uncompressedSize": 48
+      "compressedSize": 19,
+      "uncompressedSize": 36
     },
     {
       "index": 922,
@@ -6477,239 +6477,239 @@
       "index": 923,
       "frameStart": 3692,
       "frameCount": 4,
-      "compressedSize": 545163,
-      "uncompressedSize": 797628
+      "compressedSize": 32344,
+      "uncompressedSize": 39764
     },
     {
       "index": 924,
       "frameStart": 3696,
       "frameCount": 4,
-      "compressedSize": 565183,
-      "uncompressedSize": 761884
+      "compressedSize": 30757,
+      "uncompressedSize": 38712
     },
     {
       "index": 925,
       "frameStart": 3700,
       "frameCount": 4,
-      "compressedSize": 526655,
-      "uncompressedSize": 690828
+      "compressedSize": 27575,
+      "uncompressedSize": 35416
     },
     {
       "index": 926,
       "frameStart": 3704,
       "frameCount": 4,
-      "compressedSize": 488595,
-      "uncompressedSize": 630460
+      "compressedSize": 23833,
+      "uncompressedSize": 32064
     },
     {
       "index": 927,
       "frameStart": 3708,
       "frameCount": 4,
-      "compressedSize": 558167,
-      "uncompressedSize": 721008
+      "compressedSize": 27869,
+      "uncompressedSize": 36412
     },
     {
       "index": 928,
       "frameStart": 3712,
       "frameCount": 4,
-      "compressedSize": 630673,
-      "uncompressedSize": 1498516
+      "compressedSize": 38973,
+      "uncompressedSize": 67132
     },
     {
       "index": 929,
       "frameStart": 3716,
       "frameCount": 4,
-      "compressedSize": 544471,
-      "uncompressedSize": 750816
+      "compressedSize": 30146,
+      "uncompressedSize": 38528
     },
     {
       "index": 930,
       "frameStart": 3720,
       "frameCount": 4,
-      "compressedSize": 501624,
-      "uncompressedSize": 661032
+      "compressedSize": 25931,
+      "uncompressedSize": 33928
     },
     {
       "index": 931,
       "frameStart": 3724,
       "frameCount": 4,
-      "compressedSize": 503434,
-      "uncompressedSize": 658116
+      "compressedSize": 24992,
+      "uncompressedSize": 33472
     },
     {
       "index": 932,
       "frameStart": 3728,
       "frameCount": 4,
-      "compressedSize": 582994,
-      "uncompressedSize": 776684
+      "compressedSize": 29276,
+      "uncompressedSize": 38340
     },
     {
       "index": 933,
       "frameStart": 3732,
       "frameCount": 4,
-      "compressedSize": 616655,
-      "uncompressedSize": 1380128
+      "compressedSize": 36617,
+      "uncompressedSize": 62596
     },
     {
       "index": 934,
       "frameStart": 3736,
       "frameCount": 4,
-      "compressedSize": 558697,
-      "uncompressedSize": 738820
+      "compressedSize": 30386,
+      "uncompressedSize": 38056
     },
     {
       "index": 935,
       "frameStart": 3740,
       "frameCount": 4,
-      "compressedSize": 486131,
-      "uncompressedSize": 632316
+      "compressedSize": 25604,
+      "uncompressedSize": 32804
     },
     {
       "index": 936,
       "frameStart": 3744,
       "frameCount": 4,
-      "compressedSize": 430600,
-      "uncompressedSize": 559548
+      "compressedSize": 21763,
+      "uncompressedSize": 28932
     },
     {
       "index": 937,
       "frameStart": 3748,
       "frameCount": 4,
-      "compressedSize": 399436,
-      "uncompressedSize": 523548
+      "compressedSize": 19247,
+      "uncompressedSize": 26864
     },
     {
       "index": 938,
       "frameStart": 3752,
       "frameCount": 4,
-      "compressedSize": 271413,
-      "uncompressedSize": 526492
+      "compressedSize": 18228,
+      "uncompressedSize": 27452
     },
     {
       "index": 939,
       "frameStart": 3756,
       "frameCount": 4,
-      "compressedSize": 196300,
-      "uncompressedSize": 327308
+      "compressedSize": 9748,
+      "uncompressedSize": 14228
     },
     {
       "index": 940,
       "frameStart": 3760,
       "frameCount": 4,
-      "compressedSize": 182564,
-      "uncompressedSize": 309396
+      "compressedSize": 10543,
+      "uncompressedSize": 13928
     },
     {
       "index": 941,
       "frameStart": 3764,
       "frameCount": 4,
-      "compressedSize": 204901,
-      "uncompressedSize": 335960
+      "compressedSize": 12143,
+      "uncompressedSize": 16956
     },
     {
       "index": 942,
       "frameStart": 3768,
       "frameCount": 4,
-      "compressedSize": 197041,
-      "uncompressedSize": 314104
+      "compressedSize": 11592,
+      "uncompressedSize": 16676
     },
     {
       "index": 943,
       "frameStart": 3772,
       "frameCount": 4,
-      "compressedSize": 299078,
-      "uncompressedSize": 466012
+      "compressedSize": 17316,
+      "uncompressedSize": 24788
     },
     {
       "index": 944,
       "frameStart": 3776,
       "frameCount": 4,
-      "compressedSize": 271611,
-      "uncompressedSize": 412160
+      "compressedSize": 14030,
+      "uncompressedSize": 21232
     },
     {
       "index": 945,
       "frameStart": 3780,
       "frameCount": 4,
-      "compressedSize": 212801,
-      "uncompressedSize": 328840
+      "compressedSize": 10339,
+      "uncompressedSize": 16364
     },
     {
       "index": 946,
       "frameStart": 3784,
       "frameCount": 4,
-      "compressedSize": 193951,
-      "uncompressedSize": 303072
+      "compressedSize": 8560,
+      "uncompressedSize": 13988
     },
     {
       "index": 947,
       "frameStart": 3788,
       "frameCount": 4,
-      "compressedSize": 250961,
-      "uncompressedSize": 386128
+      "compressedSize": 12638,
+      "uncompressedSize": 19212
     },
     {
       "index": 948,
       "frameStart": 3792,
       "frameCount": 4,
-      "compressedSize": 339326,
-      "uncompressedSize": 516608
+      "compressedSize": 17005,
+      "uncompressedSize": 26388
     },
     {
       "index": 949,
       "frameStart": 3796,
       "frameCount": 4,
-      "compressedSize": 269776,
-      "uncompressedSize": 406816
+      "compressedSize": 11752,
+      "uncompressedSize": 19036
     },
     {
       "index": 950,
       "frameStart": 3800,
       "frameCount": 4,
-      "compressedSize": 203528,
-      "uncompressedSize": 310024
+      "compressedSize": 8355,
+      "uncompressedSize": 13808
     },
     {
       "index": 951,
       "frameStart": 3804,
       "frameCount": 4,
-      "compressedSize": 233815,
-      "uncompressedSize": 367624
+      "compressedSize": 10090,
+      "uncompressedSize": 16580
     },
     {
       "index": 952,
       "frameStart": 3808,
       "frameCount": 4,
-      "compressedSize": 266494,
-      "uncompressedSize": 409104
+      "compressedSize": 13051,
+      "uncompressedSize": 20864
     },
     {
       "index": 953,
       "frameStart": 3812,
       "frameCount": 4,
-      "compressedSize": 346297,
-      "uncompressedSize": 519304
+      "compressedSize": 17320,
+      "uncompressedSize": 28000
     },
     {
       "index": 954,
       "frameStart": 3816,
       "frameCount": 4,
-      "compressedSize": 270410,
-      "uncompressedSize": 406340
+      "compressedSize": 11941,
+      "uncompressedSize": 20228
     },
     {
       "index": 955,
       "frameStart": 3820,
       "frameCount": 4,
-      "compressedSize": 208844,
-      "uncompressedSize": 321408
+      "compressedSize": 9074,
+      "uncompressedSize": 15148
     },
     {
       "index": 956,
       "frameStart": 3824,
       "frameCount": 4,
-      "compressedSize": 9506,
-      "uncompressedSize": 214404
+      "compressedSize": 961,
+      "uncompressedSize": 10476
     },
     {
       "index": 957,
@@ -6771,15 +6771,15 @@
       "index": 965,
       "frameStart": 3860,
       "frameCount": 4,
-      "compressedSize": 4303,
-      "uncompressedSize": 8360
+      "compressedSize": 607,
+      "uncompressedSize": 824
     },
     {
       "index": 966,
       "frameStart": 3864,
       "frameCount": 4,
-      "compressedSize": 65,
-      "uncompressedSize": 84
+      "compressedSize": 19,
+      "uncompressedSize": 36
     },
     {
       "index": 967,
@@ -6792,8 +6792,8 @@
       "index": 968,
       "frameStart": 3872,
       "frameCount": 4,
-      "compressedSize": 3667,
-      "uncompressedSize": 10680
+      "compressedSize": 424,
+      "uncompressedSize": 804
     },
     {
       "index": 969,
@@ -6820,8 +6820,8 @@
       "index": 972,
       "frameStart": 3888,
       "frameCount": 4,
-      "compressedSize": 1345,
-      "uncompressedSize": 5276
+      "compressedSize": 208,
+      "uncompressedSize": 496
     },
     {
       "index": 973,
@@ -6855,8 +6855,8 @@
       "index": 977,
       "frameStart": 3908,
       "frameCount": 4,
-      "compressedSize": 638,
-      "uncompressedSize": 1704
+      "compressedSize": 116,
+      "uncompressedSize": 204
     },
     {
       "index": 978,
@@ -6904,8 +6904,8 @@
       "index": 984,
       "frameStart": 3936,
       "frameCount": 4,
-      "compressedSize": 1972,
-      "uncompressedSize": 3420
+      "compressedSize": 273,
+      "uncompressedSize": 380
     },
     {
       "index": 985,
@@ -6918,8 +6918,8 @@
       "index": 986,
       "frameStart": 3944,
       "frameCount": 4,
-      "compressedSize": 32,
-      "uncompressedSize": 48
+      "compressedSize": 19,
+      "uncompressedSize": 36
     },
     {
       "index": 987,
@@ -6946,8 +6946,8 @@
       "index": 990,
       "frameStart": 3960,
       "frameCount": 4,
-      "compressedSize": 498,
-      "uncompressedSize": 3000
+      "compressedSize": 121,
+      "uncompressedSize": 368
     },
     {
       "index": 991,
