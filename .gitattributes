@@ -1,0 +1,5 @@
+# no LFS
+*.json -text filter= diff= merge=
+*.bin -text filter= diff= merge=
+*.lua -text filter= diff= merge=
+*.mp4 -text filter= diff= merge=
