@@ -737,7 +737,7 @@ function PixelRenderer:_setupSurface(width: number, height: number, fps: number,
                 if not self._tiles then
                          
                         warn("[PixelRenderer] EditableImage binding failed; falling back to frames backend. "
-                                .. "Use --preset p64 or p128 for best results with the frames backend.")
+                                .. "")
                         self._backend = "frames"
                         self._framePixels = buildFramePixels(self._container, width, height)
                 end
